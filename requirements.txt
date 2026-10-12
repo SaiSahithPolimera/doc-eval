@@ -1,0 +1,4 @@
+paddleocr==3.7.0
+paddlepaddle==3.2.2
+pytest
+arize-phoenix==20.20.0
