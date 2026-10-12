@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Medina-Robinson",
+    "client_address": "476 Cantrell Knolls Suite 941\nHernandezport, AZ 25632",
+    "seller_name": "Wilson, Sanders and Smith",
+    "seller_address": "USS Hanson\nFPO AA 59553",
+    "invoice_number": "48190115",
+    "invoice_date": "02/15/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "6'8 x 5' Handwoven Afghan\nKilim Wool Area Rug Kelim Tapis\nOriental Carpet #4434",
+      "quantity": "3,00",
+      "total_price": "854.70"
+    },
+    {
+      "description": "Sun Series Modern Small Large\nLong Floor Carpet Area Rugs\nVarious Size Soft Rug",
+      "quantity": "3,00",
+      "total_price": "119.79"
+    },
+    {
+      "description": "Bohemia Style Round Morocco\nArea Rug Tassel Carpet Mat\nFloor Blanket Room Decor",
+      "quantity": "4,00",
+      "total_price": "206.32"
+    },
+    {
+      "description": "Soft Sheepskin Mat Faux Fur\nRug Small Shaggy Non Slip\nFloor Carpet Yellow",
+      "quantity": "4,00",
+      "total_price": "36.96"
+    },
+    {
+      "description": "Chindi Rug Carpet Beautifull\nBohemian Garden Yoga Mat\nBraided Foyer Indian Kilim",
+      "quantity": "1,00",
+      "total_price": "32.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "113.70",
+    "discount": "",
+    "total": "1250.75"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB65FZFY69814810781855",
+    "payment_method": ""
+  }
+}

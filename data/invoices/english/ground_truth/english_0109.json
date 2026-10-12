@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Johnson-Jacobson",
+    "client_address": "Unit 6228 Box 7257\nDPO AA 89714",
+    "seller_name": "Pierce, Barber and Howard",
+    "seller_address": "80030 Camacho Lights Apt. 890\nFrankchester, NV 20713",
+    "invoice_number": "72869097",
+    "invoice_date": "03/23/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Microsoft Xbox One 500GB 1540\nBlack Game Console TESTED\nComplete",
+      "quantity": "4.00",
+      "total_price": "615.96"
+    },
+    {
+      "description": "Video Classic Game Console\n2GB 1094 Games 3\" HD Screen\nFC3000 Handheld Black",
+      "quantity": "3.00",
+      "total_price": "85.77"
+    }
+  ],
+  "subtotal": {
+    "tax": "63.79",
+    "discount": "",
+    "total": "701.72"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

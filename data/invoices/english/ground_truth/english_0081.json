@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Gray, Conway and Burke",
+    "client_address": "4444 Mary Brooks\nRothbury, MN 28946",
+    "seller_name": "Cohen, Saunders and Chapman",
+    "seller_address": "484 Daniel Mills Apt. 113\nNew Gary, KS 79417",
+    "invoice_number": "80273553",
+    "invoice_date": "11/26/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Adult Kids Pokemon Pikachu Kigurumi Pajama Cosplay Christmas Costume Sleepwear",
+      "quantity": "3.00",
+      "total_price": "29.85"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.98",
+    "discount": "",
+    "total": "32.83"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB95GRSB31215506829816",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Hopkins, Gonzales and Mccarthy",
+    "client_address": "3206 Adam Cliffs Apt. 677\nSouth Monicaborough, MD 87314",
+    "seller_name": "Ryan, Garcia and Gregory",
+    "seller_address": "297 Allen Mills\nPort John, AK 02752",
+    "invoice_number": "77668740",
+    "invoice_date": "01/02/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "LuLaRoe Nicole Dress Size\nMedium 11",
+      "quantity": "1.00",
+      "total_price": "2.19"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.20",
+    "discount": "",
+    "total": "1.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

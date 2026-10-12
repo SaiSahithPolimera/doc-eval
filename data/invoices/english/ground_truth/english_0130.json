@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Mosley PLC",
+    "client_address": "007 Jeffrey Locks Apt. 955\nTamaramouth, MI 22260",
+    "seller_name": "Green-Wright",
+    "seller_address": "05215 Mora Harbor Apt. 180\nMorenofort, DC 46858",
+    "invoice_number": "59119338",
+    "invoice_date": "04/11/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Timberland Women's/Junior's\nPremium 6\" Navy Waterproof\nBoots 3793A",
+      "quantity": "2.00",
+      "total_price": "175.98"
+    },
+    {
+      "description": "Roper Boys' American Patriot\nBoot Square Toe Sz 4 Big Kids\nFlag Red White Blue",
+      "quantity": "2.00",
+      "total_price": "107.80"
+    },
+    {
+      "description": "boys bogs waterproof boots\nyouth size 3",
+      "quantity": "3.00",
+      "total_price": "32.34"
+    },
+    {
+      "description": "Stacy Adams 43373-221 Kids\n2M Classic Cognac Oxford",
+      "quantity": "1.00",
+      "total_price": "27.14"
+    },
+    {
+      "description": "FLORSHEIM KIDS BOYS Sz 5\nBLACK REVEAL OXFORD DRESS\nSHOES",
+      "quantity": "5.00",
+      "total_price": "137.50"
+    },
+    {
+      "description": "adidas Youth Boys Soccer Cleats\n4.5 F5 TRX FG J Vivid Yellow\nBlack NEW G65429",
+      "quantity": "1.00",
+      "total_price": "21.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "45.70",
+    "discount": "",
+    "total": "502.74"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

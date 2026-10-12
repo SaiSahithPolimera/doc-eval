@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Stewart-Faulkner",
+    "client_address": "PSC 3846, Box 9643\nAPO AP 38432",
+    "seller_name": "Dixon-Hebert",
+    "seller_address": "03290 Ruiz Groves Suite 916\nNorth Phillipshire, IA 42021",
+    "invoice_number": "85303612",
+    "invoice_date": "07/08/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "BRAND NEW Metrokane Rabbit Wine Gold Color Tool Kit 6 Piece Set w/Aerator",
+      "quantity": "3.00",
+      "total_price": "98.97"
+    },
+    {
+      "description": "Vintage Set of 4 Clear Iridescent Rainbow Glass Glasses Champagne Wine",
+      "quantity": "3.00",
+      "total_price": "52.63"
+    },
+    {
+      "description": "Press Wine 15L Fruit Cider Apple Crusher Juice Grape Stainless Maker Grapes New",
+      "quantity": "5.00",
+      "total_price": "1 534.50"
+    },
+    {
+      "description": "2 Hand Blown Wine Water Goblet Glass Art Mexico Pulled Feather Iridescent Swirl",
+      "quantity": "4.00",
+      "total_price": "131.96"
+    },
+    {
+      "description": "Wine Opener Accessories Gift Tools Set with Waiters Corkscrew Opener 5 Piece^",
+      "quantity": "5.00",
+      "total_price": "64.41"
+    },
+    {
+      "description": "1pc Wine Display Rack Wine Holders Wine Bottle Racks for Home Cabinet",
+      "quantity": "3.00",
+      "total_price": "195.53"
+    },
+    {
+      "description": "Black Pug wine holder",
+      "quantity": "5.00",
+      "total_price": "71.23"
+    }
+  ],
+  "subtotal": {
+    "tax": "195.38",
+    "discount": "",
+    "total": "2 149.21"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

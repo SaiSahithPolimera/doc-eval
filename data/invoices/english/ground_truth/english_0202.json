@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Smith and Sons",
+    "client_address": "Unit 7456 Box 8480\nDPO AP 59910",
+    "seller_name": "Wilson-Todd",
+    "seller_address": "28306 Long Locks\nLake Josephfort, IL 41210",
+    "invoice_number": "76778037",
+    "invoice_date": "03/15/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Florsheim kid's boys Lace Up Oxford Suede Dress Shoes Size 6M Solid Beige",
+      "quantity": "4.00",
+      "total_price": "131.96"
+    },
+    {
+      "description": "Youth Kids Boys New Balance Arishi v2 Grey/Red Athletic Running Shoes Size 6.5 M",
+      "quantity": "1.00",
+      "total_price": "29.69"
+    },
+    {
+      "description": "PUMA RS DREAMER SUPER MARIO 64 NINTENDO Little Kids US 2.5",
+      "quantity": "4.00",
+      "total_price": "550.00"
+    },
+    {
+      "description": "Kid's Unicorn Sunglasses Girls Rainbow Mythical Fashion Shades",
+      "quantity": "2.00",
+      "total_price": "21.89"
+    },
+    {
+      "description": "Beyblade Burst B-163 Superking Brave Valkyrie.Ev' 2A Top /Launcher /Grip Kid Toy",
+      "quantity": "2.00",
+      "total_price": "25.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "69.00",
+    "discount": "",
+    "total": "759.03"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB84DBNV37102667540169",
+    "payment_method": ""
+  }
+}

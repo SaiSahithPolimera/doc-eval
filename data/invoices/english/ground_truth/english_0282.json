@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Dennis LLC",
+    "client_address": "923 Lydia Light Apt. 886\nLake Sharon, ND 31159",
+    "seller_name": "Garcia, Avery and Hernandez",
+    "seller_address": "943 Gabriel Mount\nEast Vincentmouth, WV 46442",
+    "invoice_number": "33299774",
+    "invoice_date": "10/24/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "HP Pro 6200 Desktop Tower\nComputer Core i5 3.1GHz 8GB\n500GB Windows 10 Home WiFi",
+      "quantity": "4,00",
+      "total_price": "791.78"
+    },
+    {
+      "description": "Fast Dell Optiplex Windows 10\nPro Desktop Computer Dual\nCore 6GB 160GB DVD WIFI",
+      "quantity": "5,00",
+      "total_price": "659.73"
+    },
+    {
+      "description": "Qaud core J3160 Dual Lan\nindustrial mini PC,AES NI Linux\nubuntu desktop computer",
+      "quantity": "1,00",
+      "total_price": "269.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "156.46",
+    "discount": "",
+    "total": "1721.01"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

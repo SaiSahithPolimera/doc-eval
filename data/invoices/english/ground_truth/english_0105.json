@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Mosley, Ortega and Lynch",
+    "client_address": "08439 Shannon Plain Apt. 765\nPort Josephstad, MS 26740",
+    "seller_name": "Cantu, Livingston and Baker",
+    "seller_address": "2445 Wheeler Via Suite 600\nAlyssaview, WI 95685",
+    "invoice_number": "15318030",
+    "invoice_date": "05/10/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "10\" Cuphead Game Soft Plush Doll Cuphead Mugman Mecup Brocup kids Gift US Stock",
+      "quantity": "4.00",
+      "total_price": "118.76"
+    },
+    {
+      "description": "Sketchers Energy Lights Boys Black Canvas Size 4 With Charging Cable",
+      "quantity": "3.00",
+      "total_price": "39.60"
+    },
+    {
+      "description": "Nautica Kids Boys Navy & Red with White Rubber Sole Running Sneakers Shoes US 10",
+      "quantity": "4.00",
+      "total_price": "2200.00"
+    },
+    {
+      "description": "Native Charley White Sandals~Size Infant/Child 6~Boys/Girls~Very Good Condition",
+      "quantity": "3.00",
+      "total_price": "42.90"
+    },
+    {
+      "description": "Vizari Youth Boys Treviso Indoor JNR Soccer Shoes 1.5 Black Silver #93261 NEW",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "228.29",
+    "discount": "",
+    "total": "2511.20"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

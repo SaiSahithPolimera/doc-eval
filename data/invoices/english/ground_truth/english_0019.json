@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Garcia Inc",
+    "client_address": "445 Haas Viaduct Suite 454\nMichaelhaven, LA 32852",
+    "seller_name": "Kane-Morgan",
+    "seller_address": "968 Carr Mission Apt. 320\nBernardville, VA 28211",
+    "invoice_number": "49565075",
+    "invoice_date": "10/28/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver",
+      "quantity": "3.00",
+      "total_price": "65.93"
+    },
+    {
+      "description": "Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H",
+      "quantity": "1.00",
+      "total_price": "8.80"
+    },
+    {
+      "description": "Lolita \"Congratulations\" Hand Painted and Decorated Wine Glass NIB",
+      "quantity": "1.00",
+      "total_price": "22.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "8.79",
+    "discount": "",
+    "total": "96.73"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

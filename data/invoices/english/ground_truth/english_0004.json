@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Wilson-Wilson",
+    "client_address": "85455 Carter Estate\nMooremouth, CT 29699",
+    "seller_name": "Fernandez Ltd",
+    "seller_address": "06398 Jensen Loaf\nAndrewton, AR 65741",
+    "invoice_number": "15288019",
+    "invoice_date": "09/07/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Easy No Tie Rubber Shoe Laces\nColored Trainers Snickers Kids\n+ Adults Shoelaces",
+      "quantity": "1.00",
+      "total_price": "1.71"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.16",
+    "discount": "",
+    "total": "1.71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

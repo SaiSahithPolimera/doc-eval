@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Torres, Sutton and Weeks",
+    "client_address": "618 Perez Shoals Suite 978\nBradshawton, TN 51301",
+    "seller_name": "Carter Inc",
+    "seller_address": "7936 Smith Streets\nMariahchester, PA 08114",
+    "invoice_number": "61669642",
+    "invoice_date": "11/12/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Jesus (Hardback or Cased Book)",
+      "quantity": "4.00",
+      "total_price": "140.62"
+    },
+    {
+      "description": "Haida: Their Art and Culture",
+      "quantity": "2.00",
+      "total_price": "10.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "13.76",
+    "discount": "",
+    "total": "151.38"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

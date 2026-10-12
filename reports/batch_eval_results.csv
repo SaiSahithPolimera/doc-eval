@@ -1,0 +1,6 @@
+invoice_id,field_accuracy,exact_match,correct_fields,total_fields,status
+english_0000,0.6206896551724138,False,18,29,success
+english_0001,0.55,False,11,20,success
+english_0002,0.6956521739130435,False,16,23,success
+english_0003,0.6571428571428571,False,23,35,success
+english_0004,0.6470588235294118,False,11,17,success

@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Jones, Andrade and Roth",
+    "client_address": "86208 Kathryn Extensions Suite 300\nMcmillanton, MD 03357",
+    "seller_name": "Moore, Gallagher and Villanueva",
+    "seller_address": "908 Reed Garden\nLake James, CO 74955",
+    "invoice_number": "25687531",
+    "invoice_date": "01/10/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Custom Build Dell Desktop\nComputer i5 | 16GB | 1TB SSD |\nHDMI Windows 10 PC WiFi",
+      "quantity": "5.00",
+      "total_price": "544.50"
+    },
+    {
+      "description": "Computer Desktop Gaming i5\nRam 16 G",
+      "quantity": "2.00",
+      "total_price": "693.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "112.50",
+    "discount": "",
+    "total": "1237.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

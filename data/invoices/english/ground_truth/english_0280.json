@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Robinson, Cannon and Ray",
+    "client_address": "630 Alex Islands Suite 809\nBrandonport, NC 62378",
+    "seller_name": "Simon-Colon",
+    "seller_address": "05647 Oconnell Coves\nDennistown, MD 47477",
+    "invoice_number": "93356118",
+    "invoice_date": "06/14/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Semi Precious Stone Inlay Art\nIsland Table Top Marble Dinning\nTable 36 Inches",
+      "quantity": "5.00",
+      "total_price": "9631,87"
+    },
+    {
+      "description": "6 Pack Metal Plated Table Locks\nDining Training Table Buckles\nConnectors Hardwar",
+      "quantity": "1.00",
+      "total_price": "14,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "876,90",
+    "discount": "",
+    "total": "9 645,88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

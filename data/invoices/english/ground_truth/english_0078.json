@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Stephenson Inc",
+    "client_address": "716 Wright Flat Apt. 385\nSouth Carrie, GA 17790",
+    "seller_name": "Tran, Hurst and Rodgers",
+    "seller_address": "Unit 2493 Box 1389\nDPO AP 75814",
+    "invoice_number": "77596491",
+    "invoice_date": "01/31/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Earl Scruggs and the 5-String Banjo: Revised and Enhanced Edition (Paperback or",
+      "quantity": "1.00",
+      "total_price": "24.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.27",
+    "discount": "",
+    "total": "24.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB04ZWCK22425880230961",
+    "payment_method": ""
+  }
+}

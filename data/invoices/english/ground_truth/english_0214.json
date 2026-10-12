@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Mitchell and Sons",
+    "client_address": "654 Benjamin Mission\nWest David, SD 15741",
+    "seller_name": "Walton PLC",
+    "seller_address": "50871 Isaac Fields Apt. 331\nCaseyton, AR 78118",
+    "invoice_number": "36033621",
+    "invoice_date": "04/18/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "DC Kids Turbo Skate Shoe (Little Kid/Big Kid) Color WHITE/ROYAL",
+      "quantity": "4.00",
+      "total_price": "242.00"
+    },
+    {
+      "description": "Easy No Tie Rubber Shoe Laces Colored Trainers Snickers Kids + Adults Shoelaces",
+      "quantity": "1.00",
+      "total_price": "1.71"
+    }
+  ],
+  "subtotal": {
+    "tax": "22.16",
+    "discount": "",
+    "total": "243.71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

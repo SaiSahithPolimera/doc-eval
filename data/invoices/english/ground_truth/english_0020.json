@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Mendoza-Scott",
+    "client_address": "581 Christian Canyon\nPaulburgh, NV 98729",
+    "seller_name": "Faulkner Group",
+    "seller_address": "956 Dennis Cliffs Apt. 138\nWest Haley, DE 93178",
+    "invoice_number": "36475327",
+    "invoice_date": "08/23/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex XE2 SFF Desktop Computer W10 Pro Licensed",
+      "quantity": "3.00",
+      "total_price": "326.70"
+    },
+    {
+      "description": "Custom Build Dell Desktop Computer i5 | 16GB | 1TB SSD | HDMI Windows 10 PC WiFi",
+      "quantity": "1.00",
+      "total_price": "108.90"
+    },
+    {
+      "description": "custom gaming computer",
+      "quantity": "4.00",
+      "total_price": "1980.00"
+    },
+    {
+      "description": "Dell Optiplex Windows 10 Pro Desktop Computer PC i5 4th Gen 3.2GHz 8 GB 2 TB HDD",
+      "quantity": "3.00",
+      "total_price": "494.83"
+    },
+    {
+      "description": "HP Desktop Computers Core i5 16GB 2TB 256GB SSD Wifi 22\" LCD Windows 10 Pro PC",
+      "quantity": "5.00",
+      "total_price": "769.73"
+    },
+    {
+      "description": "2 Gaming Computers",
+      "quantity": "1.00",
+      "total_price": "1430.00"
+    },
+    {
+      "description": "HP All-in-One Computer 22\" Full-HD Display Intel 2.90GHz 4GB 1TB HD Win10 - TEAL",
+      "quantity": "1.00",
+      "total_price": "494.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "509.56",
+    "discount": "",
+    "total": "5605.15"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

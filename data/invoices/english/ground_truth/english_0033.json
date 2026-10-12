@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Williams Group",
+    "client_address": "357 Thomas Street Apt. 860\nWest Douglas, SC 32151",
+    "seller_name": "Flores, David and Fleming",
+    "seller_address": "Unit 4806 Box 9700\nDPO AA 87029",
+    "invoice_number": "77169807",
+    "invoice_date": "05/13/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Children's Place Brown Dress Boy Lace Up Shoes Size 12",
+      "quantity": "5,00",
+      "total_price": "44,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "4,00",
+    "discount": "",
+    "total": "44,00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB19ULGS16178127502019",
+    "payment_method": ""
+  }
+}

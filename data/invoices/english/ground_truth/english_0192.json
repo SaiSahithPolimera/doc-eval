@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Stewart, Fields and Scott",
+    "client_address": "07095 Robert Cape\nMarquezburgh, DC 81706",
+    "seller_name": "George, Casey and Harris",
+    "seller_address": "0943 Justin Branch Apt. 233\nIngramberg, DE 59102",
+    "invoice_number": "32830026",
+    "invoice_date": "12/20/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "SONY Playstation2 Console SCPH-50000 \" Peal Color \" / TESTED 11176",
+      "quantity": "5.00",
+      "total_price": "247.50"
+    },
+    {
+      "description": "Nintendo Switch Lite Gray CONSOLE ONLY - No Accessories or Charger [B5-2]",
+      "quantity": "1.00",
+      "total_price": "148.50"
+    },
+    {
+      "description": "Nintendo Wii Console RVL-001 Complete Hookups W/ Mario&Sonic; Tested / Working",
+      "quantity": "3.00",
+      "total_price": "260.30"
+    },
+    {
+      "description": "B351 Nintendo new 3DS console White Japan w/stylus pen",
+      "quantity": "4.00",
+      "total_price": "351.96"
+    },
+    {
+      "description": "Sega Saturn Console Gray HST-3200 HST-3210 Japanese",
+      "quantity": "1.00",
+      "total_price": "131.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "103.66",
+    "discount": "",
+    "total": "1140.24"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB81OUZN44807763808287",
+    "payment_method": ""
+  }
+}

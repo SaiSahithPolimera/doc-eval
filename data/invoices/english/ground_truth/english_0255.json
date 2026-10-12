@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Moore, Guerrero and Jacobson",
+    "client_address": "730 Henderson Ridge\nPort Michelleville, VT 58312",
+    "seller_name": "Davila, Reed and Wright",
+    "seller_address": "041 Faulkner Island\nSouth Feliciaview, IA 68431",
+    "invoice_number": "64603610",
+    "invoice_date": "12/29/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Living Room Mahal Floor Mat\nOriental Wool Carpet 3x5 Floral\nRed Hand Knotted",
+      "quantity": "4.00",
+      "total_price": "1364.00"
+    },
+    {
+      "description": "Round Rug Carpets for Living\nRoom Decor Kids Room Long\nPlush Rugs Bedroom Mats*",
+      "quantity": "5.00",
+      "total_price": "24.09"
+    },
+    {
+      "description": "Yilong 2.5'x4' Hand Knotted Silk\nGarden Scene Rug Indoor\nOriental Carpet 352B",
+      "quantity": "3.00",
+      "total_price": "6600.00"
+    },
+    {
+      "description": "3D Modern Printing Flower\nCarpet Non Slip Area Rug Living\nRoom Floor Door Mat",
+      "quantity": "1.00",
+      "total_price": "12.88"
+    },
+    {
+      "description": "Egg Shape Area Rugs Soft\nCotton Carpet Floor Mat for Kids\nStudy Playroom",
+      "quantity": "2.00",
+      "total_price": "64.75"
+    },
+    {
+      "description": "Rectangle Area Rug Wood Grain\nCarpet Mat for Living Room\nBedroom - 180x60cm",
+      "quantity": "4.00",
+      "total_price": "144.36"
+    }
+  ],
+  "subtotal": {
+    "tax": "746.37",
+    "discount": "",
+    "total": "8210.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

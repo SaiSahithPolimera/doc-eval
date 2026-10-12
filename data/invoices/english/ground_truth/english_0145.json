@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Henderson and Sons",
+    "client_address": "143 Tonya Bridge\nQuinnborough, PA 08012",
+    "seller_name": "Foster-Beard",
+    "seller_address": "797 Angel Corners Apt. 381\nWheelerview, NE 95004",
+    "invoice_number": "60605668",
+    "invoice_date": "09/27/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "16\"x16\" White Marble Top Counter Table Malachite Inlay Marquetry Art Home Décor",
+      "quantity": "1.00",
+      "total_price": "820.59"
+    },
+    {
+      "description": "30 Inches Marble Island Table Top Elephant Design Coffee Table with Multi Stones",
+      "quantity": "4.00",
+      "total_price": "5 276.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "554.30",
+    "discount": "",
+    "total": "6 097.29"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

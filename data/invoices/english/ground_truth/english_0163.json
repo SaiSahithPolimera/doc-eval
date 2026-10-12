@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Green, Benson and Clark",
+    "client_address": "2388 Stephanie Squares Suite 012\nLake Stephaniefort, NY 31834",
+    "seller_name": "Fleming and Sons",
+    "seller_address": "00758 Kathryn Parkways\nPort Yvette, AZ 81300",
+    "invoice_number": "49900465",
+    "invoice_date": "12/23/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Xmas Christmas Rug Carpet\nCartoon Bedroom Kids Play Mat\nSoft Flannel Area Rugs @",
+      "quantity": "5.00",
+      "total_price": "205.21"
+    }
+  ],
+  "subtotal": {
+    "tax": "18.66",
+    "discount": "",
+    "total": "205.21"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

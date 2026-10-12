@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Robbins Group",
+    "client_address": "USS Salas\nFPO AP 29909",
+    "seller_name": "Gardner, Tucker and Martinez",
+    "seller_address": "866 James Center\nLisaville, IL 04941",
+    "invoice_number": "61660848",
+    "invoice_date": "05/30/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Hekate Soteira : A Study of Hekate's Role in the Chaldean Oracles and Related...",
+      "quantity": "1.00",
+      "total_price": "26.53"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.41",
+    "discount": "",
+    "total": "26.53"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

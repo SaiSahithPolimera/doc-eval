@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Mcclain PLC",
+    "client_address": "9050 Michele Parkway Apt. 396\nRosemouth, ND 05238",
+    "seller_name": "Rose-Brown",
+    "seller_address": "USNS Griffin\nFPO AE 90809",
+    "invoice_number": "33085665",
+    "invoice_date": "11/07/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Desktop Computer PC Core i5 3.1GHz 8GB RAM 500GB HD Wifi DVD Windows 10",
+      "quantity": "3,00",
+      "total_price": "412,34"
+    },
+    {
+      "description": "Dell Precision Workstation Computer Intel Xeon Quad Core 16GB 1TB Windows 10 Pro",
+      "quantity": "4,00",
+      "total_price": "611,60"
+    }
+  ],
+  "subtotal": {
+    "tax": "93,09",
+    "discount": "",
+    "total": "1 023,94"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

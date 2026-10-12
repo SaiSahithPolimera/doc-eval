@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Silva, Warren and York",
+    "client_address": "725 Doyle Corner Apt. 621\nNorth Alan, MS 77994",
+    "seller_name": "Anderson, Brown and Thompson",
+    "seller_address": "99263 Morgan Viaduct Apt. 373\nLake Aliciaport, VA 98808",
+    "invoice_number": "61782695",
+    "invoice_date": "05/15/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Real Madrid Inflatable Chair (SG16136)",
+      "quantity": "3.00",
+      "total_price": "145.04"
+    },
+    {
+      "description": "24 Inches Marble Sofa Table Top Inlay Coffee Table with Malachite Stone Work",
+      "quantity": "3.00",
+      "total_price": "2 029.50"
+    },
+    {
+      "description": "4 Pcs Table Feet Durable High Quality Sturdy Chair Feet Table Feet for Home",
+      "quantity": "5.00",
+      "total_price": "140.19"
+    },
+    {
+      "description": "72 Inches Marble Dinning Table Top Pietra Dura Art Lawn Table for Home Furniture",
+      "quantity": "4.00",
+      "total_price": "36 960.00"
+    },
+    {
+      "description": "18\"x14\" Modern Top Oval Coffee Table With 15\" Tall Stand Christmas Gift Décor",
+      "quantity": "3.00",
+      "total_price": "3 960.00"
+    },
+    {
+      "description": "7'x4' Collectible Marble Green Dining Table Top Floral Inlay Design Decor E997",
+      "quantity": "2.00",
+      "total_price": "29 779.33"
+    },
+    {
+      "description": "16\"x16\" White Coffee Top Table Mop Inlay Filigree Pietradura Floral Art Décor",
+      "quantity": "1.00",
+      "total_price": "810.42"
+    }
+  ],
+  "subtotal": {
+    "tax": "6 711.32",
+    "discount": "",
+    "total": "73 824.49"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

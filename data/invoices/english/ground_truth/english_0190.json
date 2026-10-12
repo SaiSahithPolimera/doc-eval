@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Hernandez PLC",
+    "client_address": "86898 Allison Valley Suite 583\nMarkbury, KY 35305",
+    "seller_name": "Steele, Trujillo and Becker",
+    "seller_address": "PSC 4600, Box 3256\nAPO AE 71130",
+    "invoice_number": "41290662",
+    "invoice_date": "08/31/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wall Mounted Upside Down Wine Bottle Rack Goblet Glass Holder Storage Organizer",
+      "quantity": "4.00",
+      "total_price": "65.91"
+    },
+    {
+      "description": "CYLINDER GLASS PAROT for 100ml WHISKEY WINE BEER FORCES OF ALCOHOL HOOCH",
+      "quantity": "2.00",
+      "total_price": "77.00"
+    },
+    {
+      "description": "Bottle tops lid reusable vacuume sealer stopper flip cap cork wine beer",
+      "quantity": "4.00",
+      "total_price": "43.96"
+    },
+    {
+      "description": "ELTOW Modular Plastic Wine Rack 3-Pack Stackable Display and Fridge Storage S...",
+      "quantity": "1.00",
+      "total_price": "26.39"
+    },
+    {
+      "description": "1PC Tricycle Shape Red Wine Rack Cocktail Holder Wine Display Rack for Home Bar",
+      "quantity": "1.00",
+      "total_price": "35.34"
+    },
+    {
+      "description": "NIB Set Of 4 Riedel Wine Glasses, Viognier Chardonnay - 448/5",
+      "quantity": "5.00",
+      "total_price": "137.44"
+    }
+  ],
+  "subtotal": {
+    "tax": "35,10",
+    "discount": "",
+    "total": "386,05"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

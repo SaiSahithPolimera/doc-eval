@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Kelly LLC",
+    "client_address": "3158 Nicholas Harbor\nSouth Alicia, DC 71771",
+    "seller_name": "Mcbride-Smith",
+    "seller_address": "632 Katherine Valley Suite 528\nSmithmouth, MN 67317",
+    "invoice_number": "37575831",
+    "invoice_date": "08/27/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Pictures From a Distant\nCountry: Seeing America\nThrough Old Paper Money",
+      "quantity": "4.00",
+      "total_price": "60.90"
+    },
+    {
+      "description": "Diabetic Dream Desserts",
+      "quantity": "2.00",
+      "total_price": "9.88"
+    },
+    {
+      "description": "A History of Christianity Vol. 1:\nBeginnings to 1500 by Kenneth\nS. Latourette",
+      "quantity": "5.00",
+      "total_price": "22.49"
+    },
+    {
+      "description": "King Arthur And His Knights\nNew Sealed Illustrated Leather\nBound Gift Hardback",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "How to Repair Home Laundry\nAppliances",
+      "quantity": "3.00",
+      "total_price": "41.12"
+    },
+    {
+      "description": "Tumbling by Caela Carter",
+      "quantity": "1.00",
+      "total_price": "4.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "18.66",
+    "discount": "",
+    "total": "205.29"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

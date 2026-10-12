@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Hughes-Raymond",
+    "client_address": "478 Shawn Bridge\nSouth Susanborough, UT 84890",
+    "seller_name": "Moran, Harris and Smith",
+    "seller_address": "2862 Ross Center Suite 610\nColleenbury, OR 84362",
+    "invoice_number": "49380136",
+    "invoice_date": "02/21/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "100pcs Heat Shrink Capsules\nPVC Wine Bottle Caps\nShrinkable Seal Film Covers\n3cm",
+      "quantity": "2.00",
+      "total_price": "12.65"
+    },
+    {
+      "description": "Champagne Glass Holder\nStorage Bar Accessory with\nShelf Wall Mount Wine Holder",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "2 Wine Glasses 8oz 7\" inches\ntall drinks for two Good\ncondition (fast shipper)",
+      "quantity": "3.00",
+      "total_price": "16.50"
+    },
+    {
+      "description": "Wine Opener Accessories Gift\nTools Set with Waiters\nCorkscrew Opener 5 Piece^",
+      "quantity": "4.00",
+      "total_price": "51.52"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.33",
+    "discount": "",
+    "total": "190.62"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB15OSEB06072784402384",
+    "payment_method": ""
+  }
+}

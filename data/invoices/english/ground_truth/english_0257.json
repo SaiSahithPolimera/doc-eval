@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Johnson, Brown and Chapman",
+    "client_address": "6320 Michelle Falls\nNew Shaunstad, VT 35611",
+    "seller_name": "Jordan-Morse",
+    "seller_address": "451 Carter Harbor\nGravesfurt, MS 49255",
+    "invoice_number": "74467550",
+    "invoice_date": "04/04/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "A History of Christianity Vol. 1: Beginnings to 1500 by Kenneth S. Latourette",
+      "quantity": "2.00",
+      "total_price": "9.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.82",
+    "discount": "",
+    "total": "9.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

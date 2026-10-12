@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Crawford PLC",
+    "client_address": "693 Melissa River Suite 422\nLake Mark, WY 36311",
+    "seller_name": "Mullen-Smith",
+    "seller_address": "5847 Mccarthy Points Suite 488\nJohnville, WY 95730",
+    "invoice_number": "98396639",
+    "invoice_date": "02/27/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "2x Soft Faux Fur Chair Cover\nSmall Area Rugs Mat for\nBedroom Floor Carpet 30cm",
+      "quantity": "2.00",
+      "total_price": "29.90"
+    },
+    {
+      "description": "YILONG 6.56'x9.84' Blue\nHandknotted Silk Carpet Easy to\nClean Indoor Rug YWX137A",
+      "quantity": "2.00",
+      "total_price": "10 560.00"
+    },
+    {
+      "description": "YILONG 4'x6' Golden Handmade\nCarpet House Decor Hand\nKnotted Silk Rugs 088B",
+      "quantity": "2.00",
+      "total_price": "7 920.00"
+    },
+    {
+      "description": "Round Rug Carpets for Living\nRoom Decor Kids Room Long\nPlush Rugs Bedroom Mats*",
+      "quantity": "5.00",
+      "total_price": "24.09"
+    },
+    {
+      "description": "Silky Fake Fur Fluffy Carpet\nNon-slip Shaggy Area Rug Floor\nMat White+Brown",
+      "quantity": "5.00",
+      "total_price": "80.35"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 692,21",
+    "discount": "",
+    "total": "18 614,34"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB11PPWG69818943211516",
+    "payment_method": ""
+  }
+}

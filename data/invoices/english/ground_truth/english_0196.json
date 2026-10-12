@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Lewis, Hansen and Martin",
+    "client_address": "747 Tyler Fort Apt. 215\nPort James, ND 02107",
+    "seller_name": "Howe, Evans and Velazquez",
+    "seller_address": "38980 Hill Knolls\nMatthewborough, UT 25439",
+    "invoice_number": "31838082",
+    "invoice_date": "10/19/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Skechers Hypno Splash Light Up Shoes Size 4 Medium Big Kid New",
+      "quantity": "3.00",
+      "total_price": "82.47"
+    },
+    {
+      "description": "PLAE SAM 2.0 Shoes Sandals Breathable Summer Strap Navy Blue Size 12 Kid",
+      "quantity": "4.00",
+      "total_price": "66.00"
+    },
+    {
+      "description": "Boys Kids Printed Cotton Slippers Zip Fastening 350172494",
+      "quantity": "2.00",
+      "total_price": "43.30"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.43",
+    "discount": "",
+    "total": "191.76"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

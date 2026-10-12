@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Powers LLC",
+    "client_address": "84169 Taylor Pine Apt. 088\nEast Sean, RI 05084",
+    "seller_name": "Smith, Page and Ross",
+    "seller_address": "14891 Wong Common Suite 135\nPort Charlesfort, ID 79070",
+    "invoice_number": "77522687",
+    "invoice_date": "05/14/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "6'x3' Marble Counter Height Dining Table Top Multi Inlay Furniture Decor E955A",
+      "quantity": "3,00",
+      "total_price": "18 048,95"
+    },
+    {
+      "description": "6'x3' Multi Pietra Dura Design Marble Dining Room Table Top Furniture Decor E764",
+      "quantity": "5,00",
+      "total_price": "29 453,44"
+    }
+  ],
+  "subtotal": {
+    "tax": "4 318,40",
+    "discount": "",
+    "total": "47 502,39"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Garcia-Jones",
+    "client_address": "0715 Vasquez Ford\nEast Jeanette, MD 91592",
+    "seller_name": "Gonzales-Faulkner",
+    "seller_address": "2532 lan Springs Suite 638\nWilliamshire, NE 03882",
+    "invoice_number": "61874671",
+    "invoice_date": "07/26/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "fire los angeles dress Medium",
+      "quantity": "3,00",
+      "total_price": "21.45"
+    },
+    {
+      "description": "Tommy Bahama Women's V\nNeck Linen Floral Dress Size M\nBeige Short Sleeve Tan",
+      "quantity": "2,00",
+      "total_price": "76.98"
+    },
+    {
+      "description": "Jams World Hawaiian [] Dress\nRayon sz.L",
+      "quantity": "3,00",
+      "total_price": "214.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "28.45",
+    "discount": "",
+    "total": "312.93"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

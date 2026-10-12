@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Lopez Inc",
+    "client_address": "86702 Carter Common\nNorth Laurabury, MI 65302",
+    "seller_name": "Johns-Brown",
+    "seller_address": "896 Kyle Skyway Apt. 076\nNew Matthewmouth, OK 95325",
+    "invoice_number": "55623924",
+    "invoice_date": "03/13/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "HP ProDesk 400 G5 Mini Desktop Computer i5-9500T 8GB 256GB SSD W10P",
+      "quantity": "4.00",
+      "total_price": "1188.00"
+    },
+    {
+      "description": "hp or Dell Desktop PC Computer Dual Core 4GB RAM DUAL 19\" LCDs WiFi Windows 10",
+      "quantity": "5.00",
+      "total_price": "989.95"
+    },
+    {
+      "description": "Gaming PC Desktop Computer RGB Intel i7 GTX 1650, 16GB RAM, 2TB HDD, 240GB SSD",
+      "quantity": "4.00",
+      "total_price": "3035.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "473.99",
+    "discount": "",
+    "total": "5213.90"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

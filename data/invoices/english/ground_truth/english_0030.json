@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Martin-Schmidt",
+    "client_address": "726 Mills Island Apt. 702\nRandyville, MA 40113",
+    "seller_name": "Terry, Crawford and Vega",
+    "seller_address": "2744 Olson Extension Suite 147\nLake Edward, VA 62672",
+    "invoice_number": "13367493",
+    "invoice_date": "02/21/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Escada Long Black Dress SZ 40\n100% Silk Lining",
+      "quantity": "4.00",
+      "total_price": "329.96"
+    },
+    {
+      "description": "Boden Size 8 US Green & Navy\nDark Blue Belted Midi Wool Knit\nSweater Fall Dress",
+      "quantity": "2.00",
+      "total_price": "77.00"
+    },
+    {
+      "description": "J crew mercantile Knitted Tweed\nDress Size 4 Black And White",
+      "quantity": "1.00",
+      "total_price": "28.60"
+    },
+    {
+      "description": "NEW NWT OPEN BACK\nXHILERATION PLUM LACY\nDRESS WOMENS SIZE MEDIUM\n10/12",
+      "quantity": "5.00",
+      "total_price": "16.45"
+    },
+    {
+      "description": "Bcbgeneration Black Sleeveless\nLace Back Cut Out Dress Sz 2",
+      "quantity": "1.00",
+      "total_price": "3.29"
+    },
+    {
+      "description": "Papaya Floral Dress Medium\nBlue White",
+      "quantity": "4.00",
+      "total_price": "39.60"
+    }
+  ],
+  "subtotal": {
+    "tax": "44.99",
+    "discount": "",
+    "total": "494.89"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB79WHIU45376170748238",
+    "payment_method": ""
+  }
+}

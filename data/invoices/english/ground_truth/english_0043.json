@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Martinez-English",
+    "client_address": "12196 Barrett Plain Suite 873\nNorth Victorborough, NY 32585",
+    "seller_name": "Sims-Olson",
+    "seller_address": "USS Bell\nFPO AP 94327",
+    "invoice_number": "51295021",
+    "invoice_date": "01/05/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "4'x2' Black Center Top Table\nItalian Marquetry Gemstone Art\nColumba's Day Gift",
+      "quantity": "2.00",
+      "total_price": "8113.60"
+    },
+    {
+      "description": "12\" Marble Side Coffee Table\nTop Multi Stone Floral Inlay\nOccasional Decor W260",
+      "quantity": "4.00",
+      "total_price": "1142.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "841.51",
+    "discount": "",
+    "total": "9256.59"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

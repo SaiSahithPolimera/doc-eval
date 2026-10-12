@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Farmer, Pennington and Osborn",
+    "client_address": "614 Rodney Manor\nSouth Kristinberg, DE 43488",
+    "seller_name": "Thornton, Franklin and Hamilton",
+    "seller_address": "5028 Judy Heights Suite 079\nJustinburgh, DE 26071",
+    "invoice_number": "11637316",
+    "invoice_date": "03/21/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Custom Build Dell Desktop Computer i5 | 16GB | 1TB SSD | HDMI Windows 10 PC WiFi",
+      "quantity": "1.00",
+      "total_price": "108.90"
+    },
+    {
+      "description": "HP 8300 Slim Desktop Small Computer PC i5 3.2GHz 4GB 500GB Windows 10 Pro WiFi",
+      "quantity": "1.00",
+      "total_price": "109.99"
+    },
+    {
+      "description": "GAMING PC Desktop Computer RGB BUNDLE Intel CORE i7 16GB RAM Nvidia GTX 1650 1TB",
+      "quantity": "5.00",
+      "total_price": "3134.95"
+    },
+    {
+      "description": "HP Compaq 6200 Pro SFF Desktop Computer Pentium Windows 10 System 500GB 1TB",
+      "quantity": "5.00",
+      "total_price": "626.78"
+    },
+    {
+      "description": "Dell Desktop PC Computer Core 2 Duo CPU 500GB 4GB Dual 19\" LCD Wifi Windows 10",
+      "quantity": "1.00",
+      "total_price": "159.44"
+    }
+  ],
+  "subtotal": {
+    "tax": "376.37",
+    "discount": "",
+    "total": "4140.06"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB75IVMI30490349190719",
+    "payment_method": ""
+  }
+}

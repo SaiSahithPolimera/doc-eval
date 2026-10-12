@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Marsh-Kennedy",
+    "client_address": "90918 Jesus Village Suite 061\nSaundersstad, AK 57749",
+    "seller_name": "Padilla, Webb and Pearson",
+    "seller_address": "96997 Ellis River\nNew Kimberlyhaven, AZ 52628",
+    "invoice_number": "56427222",
+    "invoice_date": "11/26/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "SONY Playstation2 Console SCPH-37000 \"Ocean Blue \" / TESTED 11178",
+      "quantity": "1.00",
+      "total_price": "55.00"
+    },
+    {
+      "description": "B360 Nintendo 2DS console Blue Japan",
+      "quantity": "1.00",
+      "total_price": "32.99"
+    },
+    {
+      "description": "Nintendo 64 game console unit / controllers / games used untested",
+      "quantity": "5.00",
+      "total_price": "219.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "27.99",
+    "discount": "",
+    "total": "307.93"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

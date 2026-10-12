@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Hawkins, Gomez and Moon",
+    "client_address": "70321 Cynthia Pines Suite 100\nEast Barbara, DC 80375",
+    "seller_name": "Oneill LLC",
+    "seller_address": "342 Brittany Row Apt. 332\nWest Jesse, NV 11895",
+    "invoice_number": "92554836",
+    "invoice_date": "05/09/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Calvin Klein dress 8 women blue/white",
+      "quantity": "4.00",
+      "total_price": "44.00"
+    },
+    {
+      "description": "Betsey Johnson Black Solid Polyester Textured Shift Dress Sz 10",
+      "quantity": "4.00",
+      "total_price": "22.00"
+    },
+    {
+      "description": "Shein Blue And White Striped Wrap Dress",
+      "quantity": "1.00",
+      "total_price": "8.80"
+    }
+  ],
+  "subtotal": {
+    "tax": "6.80",
+    "discount": "",
+    "total": "74.80"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

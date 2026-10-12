@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Mathews-Harrison",
+    "client_address": "3632 Zimmerman Street\nLake Karen, MO 76536",
+    "seller_name": "Preston Inc",
+    "seller_address": "34436 Bennett Road Apt. 674\nNew Andremouth, NC 96446",
+    "invoice_number": "53221040",
+    "invoice_date": "12/26/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Rug Area Hand Knotted Wool\nOriental Carpet Vintage\nGeometric Traditional Handmad",
+      "quantity": "5,00",
+      "total_price": "2 255,00"
+    },
+    {
+      "description": "Handmade Tribal Geometric\nDesign 4X6 Indo-Gabbeh\nOriental Rug Kids Room Carpet",
+      "quantity": "4,00",
+      "total_price": "1 199,44"
+    }
+  ],
+  "subtotal": {
+    "tax": "314,04",
+    "discount": "",
+    "total": "3 454,44"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

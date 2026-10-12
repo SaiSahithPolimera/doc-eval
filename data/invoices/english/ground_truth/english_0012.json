@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Lucas-Barnett",
+    "client_address": "USNS Scott\nFPO AA 73490",
+    "seller_name": "Reed and Sons",
+    "seller_address": "Unit 5010 Box 0461\nDPO AA 27717",
+    "invoice_number": "32135544",
+    "invoice_date": "08/16/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wine Bottle Storage 6 Slots\nModern Countertop Metal Rack\nKitchen Bar Organizer",
+      "quantity": "4.00",
+      "total_price": "134.60"
+    },
+    {
+      "description": "Anthropologie Gold Elegant\nSwan Decorative Metal Bottle\nStopper Wine Saver",
+      "quantity": "4.00",
+      "total_price": "87.91"
+    },
+    {
+      "description": "mDesign Metal Wine Rack\nStorage Organizer, 12 Bottles -\nDark Gray",
+      "quantity": "4.00",
+      "total_price": "197.96"
+    },
+    {
+      "description": "Tiffany and Co Pair 2 Stemless\nWine Champagne Glasses\nOriginal Stickers NO BOX",
+      "quantity": "2.00",
+      "total_price": "164.98"
+    },
+    {
+      "description": "Outdoor Wine Glass Beer Holder\nTo Armrest With Attachments\nRed Wine Base_yoxq",
+      "quantity": "3.00",
+      "total_price": "37.75"
+    },
+    {
+      "description": "Hardwood Wine Rack 12 Bottles\nVery Nice Eonophiles Delight",
+      "quantity": "3.00",
+      "total_price": "66.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "62.65",
+    "discount": "",
+    "total": "689.19"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB21VGUQ93040788957754",
+    "payment_method": ""
+  }
+}

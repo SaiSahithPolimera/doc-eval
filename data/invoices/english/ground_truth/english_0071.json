@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Snyder, Benton and Reed",
+    "client_address": "9842 Kelly River\nCarlfort, SD 15783",
+    "seller_name": "Daniel-Morrison",
+    "seller_address": "7968 Williams Creek Apt. 683\nWest Barbara, OK 09368",
+    "invoice_number": "82977013",
+    "invoice_date": "12/06/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Reebok Kids Boys Blue Sneakers\nShoes US 11 No Laces",
+      "quantity": "5.00",
+      "total_price": "27.50"
+    },
+    {
+      "description": "Kids Jordan 7 Retro Sz 2y",
+      "quantity": "3.00",
+      "total_price": "237.60"
+    },
+    {
+      "description": "Wonder Nation Kids Shoes Size\n8c",
+      "quantity": "1.00",
+      "total_price": "4.39"
+    }
+  ],
+  "subtotal": {
+    "tax": "24.50",
+    "discount": "",
+    "total": "269.49"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

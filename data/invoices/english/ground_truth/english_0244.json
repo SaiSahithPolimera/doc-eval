@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Burns-Hammond",
+    "client_address": "27726 Berger Glens\nNew Lorrainefort, IN 99543",
+    "seller_name": "Davis-Reyes",
+    "seller_address": "39230 Miller Parks Apt. 290\nLake Michael, IN 04098",
+    "invoice_number": "44534369",
+    "invoice_date": "07/05/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "YILONG 4'x6' All over\nHandmade Carpet Dining Room\nHand Knotted Silk Rugs 082B",
+      "quantity": "3.00",
+      "total_price": "11 880.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 080.00",
+    "discount": "",
+    "total": "11 880.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Contreras-Torres",
+    "client_address": "95802 Ramsey Common\nLake Sarah, SD 10909",
+    "seller_name": "Campos LLC",
+    "seller_address": "74081 Janice Trail\nCarolynmouth, MS 81172",
+    "invoice_number": "23993628",
+    "invoice_date": "05/29/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Vintage Gothic Lolita Dress\nWomen Loose Puff Sleeve Pure\nColor Princess Dresses",
+      "quantity": "5,00",
+      "total_price": "125,23"
+    }
+  ],
+  "subtotal": {
+    "tax": "11,38",
+    "discount": "",
+    "total": "125,23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

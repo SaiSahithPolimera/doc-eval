@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Howard Ltd",
+    "client_address": "USS Kelly\nFPO AA 90481",
+    "seller_name": "Cain, Thomas and Best",
+    "seller_address": "0617 Caldwell Locks\nWest Keithchester, MA 62327",
+    "invoice_number": "96382825",
+    "invoice_date": "05/03/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "6'x3' Multi Pietra Dura Design Marble Dining Room Table Top Furniture Decor E764",
+      "quantity": "3.00",
+      "total_price": "17 672.06"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 606,55",
+    "discount": "",
+    "total": "17 672,06"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB44MKPX92113644829638",
+    "payment_method": ""
+  }
+}

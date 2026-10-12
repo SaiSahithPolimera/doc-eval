@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Roberts Ltd",
+    "client_address": "167 Ethan Knolls\nReyestown, NC 40977",
+    "seller_name": "Chavez Ltd",
+    "seller_address": "2188 Robert Expressway Apt. 336\nNew John, NE 09400",
+    "invoice_number": "13507183",
+    "invoice_date": "09/09/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "HP 6200 Pro Core i7 3.4GHz\nQuad Core 16GB 500GB\nComputer",
+      "quantity": "4,00",
+      "total_price": "1 026,72"
+    }
+  ],
+  "subtotal": {
+    "tax": "102,67",
+    "discount": "",
+    "total": "1 129,39"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB41RNKZ61126734301911",
+    "payment_method": ""
+  }
+}

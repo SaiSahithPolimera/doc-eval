@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Adams-Burns",
+    "client_address": "053 Shawn Fields\nNew Tommyborough, AK 60906",
+    "seller_name": "Nguyen, Russell and Rodriguez",
+    "seller_address": "0424 Kristy Rapid Suite 516\nBonniemouth, VA 53323",
+    "invoice_number": "95216794",
+    "invoice_date": "08/10/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Entertaining",
+      "quantity": "3,00",
+      "total_price": "14.82"
+    },
+    {
+      "description": "Collectors Paperweights 86",
+      "quantity": "3,00",
+      "total_price": "18.94"
+    },
+    {
+      "description": "A History of Christianity Vol. 1: Beginnings to 1500 by Kenneth S. Latourette",
+      "quantity": "1,00",
+      "total_price": "4.50"
+    },
+    {
+      "description": "An Hour With Jesus",
+      "quantity": "2,00",
+      "total_price": "9.88"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.38",
+    "discount": "",
+    "total": "48.14"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

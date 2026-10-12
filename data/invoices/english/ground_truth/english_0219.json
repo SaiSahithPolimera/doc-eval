@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Bryant-Wall",
+    "client_address": "21372 Nelson Fork Suite 152\nNorth Pamela, OK 82764",
+    "seller_name": "Burns, King and Serrano",
+    "seller_address": "75240 Munoz Bypass Suite 960\nEast Tylerton, WA 04004",
+    "invoice_number": "34967709",
+    "invoice_date": "01/16/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo 64 console complete\nin box with extra controller",
+      "quantity": "2.00",
+      "total_price": "549.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "50.00",
+    "discount": "",
+    "total": "549.98"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB47XEBQ87721203651804",
+    "payment_method": ""
+  }
+}

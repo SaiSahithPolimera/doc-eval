@@ -1,0 +1,31 @@
+{
+  "dataset": "Voxel51/high-quality-invoice-images-for-ocr",
+  "model": "qwen3:4b-instruct",
+  "requested_invoices": 5,
+  "successful_invoices": 5,
+  "failed_invoices": 0,
+  "mean_invoice_field_accuracy": 0.6341087019515452,
+  "aggregate_field_accuracy": 0.6370967741935484,
+  "exact_match_rate": 0.0,
+  "numeric_accuracy": 0.5869565217391305,
+  "field_completeness": 0.9787234042553191,
+  "per_field_accuracy": {
+    "invoice.client_address": 0.0,
+    "invoice.client_name": 0.8,
+    "invoice.due_date": 1.0,
+    "invoice.invoice_date": 1.0,
+    "invoice.invoice_number": 1.0,
+    "invoice.seller_address": 0.0,
+    "invoice.seller_name": 0.8,
+    "items[*].description": 0.7777777777777778,
+    "items[*].quantity": 0.9444444444444444,
+    "items[*].total_price": 0.0,
+    "payment_instructions.account_number": 0.0,
+    "payment_instructions.bank_name": 0.0,
+    "payment_instructions.due_date": 1.0,
+    "payment_instructions.payment_method": 1.0,
+    "subtotal.discount": 1.0,
+    "subtotal.tax": 1.0,
+    "subtotal.total": 1.0
+  }
+}

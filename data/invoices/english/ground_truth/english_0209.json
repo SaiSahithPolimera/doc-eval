@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "George-Johnson",
+    "client_address": "890 Judith Heights Apt. 198\nNew Nicoleborough, CT 32698",
+    "seller_name": "Williams, Brown and Mcmillan",
+    "seller_address": "25990 Anthony Trafficway\nNicholasview, VT 49779",
+    "invoice_number": "41250328",
+    "invoice_date": "08/25/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell OptiPlex 7060 SFF\nComputer, 8th Gen Core i5, 8GB\nDDR4, New 240GB SSD, DVD",
+      "quantity": "4.00",
+      "total_price": "891.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "81.00",
+    "discount": "",
+    "total": "891.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

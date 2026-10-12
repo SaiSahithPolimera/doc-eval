@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Myers PLC",
+    "client_address": "80956 Bob Mission\nMichelleside, DC 87406",
+    "seller_name": "Fox-Reeves",
+    "seller_address": "83481 Tracy Neck\nLake Eddieburgh, LA 08023",
+    "invoice_number": "99935945",
+    "invoice_date": "03/19/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Sitting Deer Wine Bottle Holder\nDecoration New",
+      "quantity": "4.00",
+      "total_price": "135.87"
+    },
+    {
+      "description": "Press Wine 20L Fruit Cider\nApple Crusher Juice Grape\nStainless Maker Grapes New",
+      "quantity": "3.00",
+      "total_price": "986.70"
+    },
+    {
+      "description": "Brand new Cuisinart CWO-25\nElectric Wine Opener, Stainless\nSteel",
+      "quantity": "3.00",
+      "total_price": "66.00"
+    },
+    {
+      "description": "Outdoor Wine Glass Beer Holder\nTo Armrest With Attachments\nRed Wine Base_yoxq",
+      "quantity": "3.00",
+      "total_price": "37.75"
+    },
+    {
+      "description": "NEW Oak Barrel Wooden Barrel\nfor Storage Aging Wine Whiskey\nSpirits Wine Barrel",
+      "quantity": "4.00",
+      "total_price": "122.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "122.64",
+    "discount": "",
+    "total": "1349.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB08EMXZ19805313285067",
+    "payment_method": ""
+  }
+}

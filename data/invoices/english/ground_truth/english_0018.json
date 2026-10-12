@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Morgan Ltd",
+    "client_address": "8866 Brown Centers Suite 945\nNew Stephaniemouth, IN 94165",
+    "seller_name": "Bailey, Adams and Pacheco",
+    "seller_address": "8114 Blake Course\nShieldsshire, KS 95278",
+    "invoice_number": "76619276",
+    "invoice_date": "11/16/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Vintage Metal Art Sculpture\nCarving Chef Wine Bottle Holder\nand Display Tin Chef",
+      "quantity": "5.00",
+      "total_price": "142.89"
+    },
+    {
+      "description": "Gold Band Wine Glasses Clear\nglass round stems 2 12 ounce\nelegant stems",
+      "quantity": "4.00",
+      "total_price": "8.76"
+    },
+    {
+      "description": "Galvanized Metal Wine Caddy",
+      "quantity": "5.00",
+      "total_price": "192.23"
+    }
+  ],
+  "subtotal": {
+    "tax": "31.26",
+    "discount": "",
+    "total": "343.87"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

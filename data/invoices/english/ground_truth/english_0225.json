@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Jackson Group",
+    "client_address": "683 Adriana Station\nAlexandertown, TN 95870",
+    "seller_name": "Torres, Martin and Robinson",
+    "seller_address": "PSC 0061, Box 8260\nAPO AA 89747",
+    "invoice_number": "85930211",
+    "invoice_date": "08/02/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Round Rug Carpet For Living Room Decor Faux Fur Rugs Kids Room Long Plush Rugs",
+      "quantity": "4.00",
+      "total_price": "43.43"
+    },
+    {
+      "description": "YILONG 6.56'x9.84' Blue Handknotted Silk Carpet Easy to Clean Indoor Rug YWX137A",
+      "quantity": "3.00",
+      "total_price": "15 840.00"
+    },
+    {
+      "description": "YILONG 4'x6' Yellow Handmade Carpet Dining Room Hand Knotted Silk Rugs 083B",
+      "quantity": "2.00",
+      "total_price": "7 920.00"
+    },
+    {
+      "description": "Nordic Cartoon Phoenix Carpets Kids Bedroom Area Rugs Parlor Anti-slip Mat Decor",
+      "quantity": "5.00",
+      "total_price": "75.13"
+    },
+    {
+      "description": "Sun Series Modern Small Large Long Floor Carpet Area Rugs Various Size Soft Rug",
+      "quantity": "4.00",
+      "total_price": "159.72"
+    }
+  ],
+  "subtotal": {
+    "tax": "2 185.30",
+    "discount": "",
+    "total": "24 038.28"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

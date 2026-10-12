@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Bird-Mccormick",
+    "client_address": "584 Melanie Cove\nLake Renee, AR 60697",
+    "seller_name": "Campos-Hawkins",
+    "seller_address": "35089 Simon Springs\nNorth Justin, FL 55687",
+    "invoice_number": "26622011",
+    "invoice_date": "01/08/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "4'x6' Wool Floral Handmade Rugs Carpet Moroccan Pastel Color Living Room Navajo",
+      "quantity": "3.00",
+      "total_price": "986.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "89.70",
+    "discount": "",
+    "total": "986.70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB55AFUK49487852362162",
+    "payment_method": ""
+  }
+}

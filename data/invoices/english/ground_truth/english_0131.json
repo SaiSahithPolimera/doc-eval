@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Pena, Hernandez and Miller",
+    "client_address": "566 Daniels Causeway\nLeonardfurt, MI 40983",
+    "seller_name": "Holloway, Ford and Smith",
+    "seller_address": "048 Brown Creek Apt. 631\nNew Jonathan, DC 38097",
+    "invoice_number": "93300746",
+    "invoice_date": "02/11/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Hippie 3D Starry Sky Carpet\nChild Play Area Rug Kids Room\nCarpets Mat Home Decor",
+      "quantity": "5.00",
+      "total_price": "64.29"
+    },
+    {
+      "description": "3X5 Ft Cotton Chindi Rug Dining\nRoom Carpet Floor Mat\nHandwoven Area Rug Throw",
+      "quantity": "1.00",
+      "total_price": "19.64"
+    },
+    {
+      "description": "Garden Flower Carpet Quilted\nBedroom Floor Princess Tapis\nLace Rug Carpets",
+      "quantity": "2.00",
+      "total_price": "100.10"
+    },
+    {
+      "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+      "quantity": "1.00",
+      "total_price": "28.72"
+    },
+    {
+      "description": "Round Rug Carpet For Living\nRoom Decor Faux Fur Rugs Kids\nRoom Long Plush Rugs",
+      "quantity": "2.00",
+      "total_price": "21.71"
+    },
+    {
+      "description": "Plush Carpet for Living Room\nFluffy Rug Thick Bed Room\nCarpets Anti-slip Floor G",
+      "quantity": "1.00",
+      "total_price": "22.40"
+    },
+    {
+      "description": "Rectangle Area Rug Wood Grain\nCarpet Mat for Living Room\nBedroom - 180x60cm",
+      "quantity": "3.00",
+      "total_price": "108.27"
+    }
+  ],
+  "subtotal": {
+    "tax": "33.19",
+    "discount": "",
+    "total": "365.13"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

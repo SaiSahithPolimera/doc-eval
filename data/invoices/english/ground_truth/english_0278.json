@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Brown, Dodson and Weaver",
+    "client_address": "875 Meyers Squares Suite 046\nEast Leahhaven, WA 36603",
+    "seller_name": "Henderson, Brown and Carson",
+    "seller_address": "69217 Alex Mews\nNew Shelbyland, GA 76776",
+    "invoice_number": "89042780",
+    "invoice_date": "10/16/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "27 Inches Black Marble Coffee Table Top Round Home Sofa Table with Marquetry Art",
+      "quantity": "1.00",
+      "total_price": "655.87"
+    },
+    {
+      "description": "12\"x12\" Wild Agate Stone Side Coffee Table Top Handicrafted Kitchen Decors A042",
+      "quantity": "5.00",
+      "total_price": "1428.73"
+    },
+    {
+      "description": "Hardwood Insect Pinning Block Contains 9 Holes with Same Heights for Pin",
+      "quantity": "1.00",
+      "total_price": "14.81"
+    }
+  ],
+  "subtotal": {
+    "tax": "190.86",
+    "discount": "",
+    "total": "2099.42"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

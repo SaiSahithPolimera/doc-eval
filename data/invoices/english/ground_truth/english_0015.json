@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Clark, Brown and Jones",
+    "client_address": "252 Courtney Motorway\nNorth Laurie, DC 43805",
+    "seller_name": "Powell Ltd",
+    "seller_address": "008 Gallagher Unions\nSouth Brettton, FL 39360",
+    "invoice_number": "46920651",
+    "invoice_date": "11/15/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NEW 6 Pcs Rabbit Wine Opener Set With Accessories Tools Gift Box #A16",
+      "quantity": "4.00",
+      "total_price": "79.80"
+    },
+    {
+      "description": "Alcoholmeter Alcohol Meter Wine 0-100%+Thermometer Set Bar Tools Vintage Tester",
+      "quantity": "3.00",
+      "total_price": "42.24"
+    },
+    {
+      "description": "Vintage Metal Art Sculpture Carving Chef Wine Bottle Holder and Display Tin Chef",
+      "quantity": "4.00",
+      "total_price": "103.92"
+    },
+    {
+      "description": "Grand Reserve Wine Bottle Opener, Bar Stand, Table Top Cork Puller",
+      "quantity": "2.00",
+      "total_price": "79.98"
+    },
+    {
+      "description": "Wine Opener Accessories Gift Tools Set with Waiters Corkscrew Opener 5 Piece^",
+      "quantity": "1.00",
+      "total_price": "11.71"
+    },
+    {
+      "description": "(2) stacking Metal 8 Wine bottle holder Storage Rack, 8 bottles counter Display",
+      "quantity": "1.00",
+      "total_price": "16.99"
+    },
+    {
+      "description": "HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 4 20 FL OZ (591 ml) NEW",
+      "quantity": "4.00",
+      "total_price": "51.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "38.66",
+    "discount": "",
+    "total": "386.60"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB71AYTX61593300702772",
+    "payment_method": ""
+  }
+}

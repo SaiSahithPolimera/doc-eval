@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Peterson-Taylor",
+    "client_address": "13110 Martinez Falls\nNew Felicia, ID 29150",
+    "seller_name": "Black-Smith",
+    "seller_address": "USCGC Johnson\nFPO AE 73771",
+    "invoice_number": "21024792",
+    "invoice_date": "02/23/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Waterfowl Illustrated",
+      "quantity": "1.00",
+      "total_price": "6.38"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.58",
+    "discount": "",
+    "total": "6.38"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

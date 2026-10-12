@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Combs Inc",
+    "client_address": "433 Ferguson Land Apt. 377\nKirkstad, MN 16124",
+    "seller_name": "Jackson Ltd",
+    "seller_address": "58538 Brandon Union Apt. 536\nTaylorshire, PA 90588",
+    "invoice_number": "20012449",
+    "invoice_date": "04/22/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Press Wine 20L Fruit Cider\nApple Crusher Juice Grape\nStainless Maker Grapes New",
+      "quantity": "1,00",
+      "total_price": "328,90"
+    },
+    {
+      "description": "MARIJUANA LEAF WINE STOPPER",
+      "quantity": "4,00",
+      "total_price": "31,68"
+    }
+  ],
+  "subtotal": {
+    "tax": "32,78",
+    "discount": "",
+    "total": "360,58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB17KVLY05129120946380",
+    "payment_method": ""
+  }
+}

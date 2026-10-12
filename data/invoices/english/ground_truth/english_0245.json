@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "West-Byrd",
+    "client_address": "6027 Hampton Wall Suite 353\nLake Jacobton, ND 81902",
+    "seller_name": "Byrd, Gould and Hill",
+    "seller_address": "90941 Ronald Forest Apt. 294\nJonathanville, WY 27437",
+    "invoice_number": "87588849",
+    "invoice_date": "07/05/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "a pair of wine glasses drawer 1 e",
+      "quantity": "2.00",
+      "total_price": "16.06"
+    },
+    {
+      "description": "Twas The Nightcap Before Christmas Rosy Red Felt Fabric Wine Bottle Cover",
+      "quantity": "4.00",
+      "total_price": "74.58"
+    },
+    {
+      "description": "Moonshine Still 8Gal/30L Water Alcohol Distiller Home Brew Wine Making Kit 3 Pot",
+      "quantity": "4.00",
+      "total_price": "395.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "44.24",
+    "discount": "",
+    "total": "486.60"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

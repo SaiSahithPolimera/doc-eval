@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Brown-Carr",
+    "client_address": "98591 Harris Islands\nSouth Marthamouth, KY 68885",
+    "seller_name": "Fernandez LLC",
+    "seller_address": "Unit 8218 Box 9086\nDPO AP 82804",
+    "invoice_number": "50554106",
+    "invoice_date": "12/17/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Yilong 1'x1.5' 400Lines Area Rug High Density Hand knotted Silk Carpet 221H",
+      "quantity": "4,00",
+      "total_price": "2 376,00"
+    },
+    {
+      "description": "Semi Antique Classic Ivory 9'5X12'6 Handmade Living Room Oriental Rug Carpet",
+      "quantity": "1,00",
+      "total_price": "928,02"
+    },
+    {
+      "description": "Galaxy Butterfly Area Rugs Children Bedroom Non-Slip Doormat Floor Mat Carpet",
+      "quantity": "4,00",
+      "total_price": "60,24"
+    },
+    {
+      "description": "3X5 Ft Cotton Chindi Rug Dining Room Carpet Floor Mat Handwoven Area Rug Throw",
+      "quantity": "2,00",
+      "total_price": "39,27"
+    },
+    {
+      "description": "YILONG 5'x7.5' Handknotted Silk Carpet Whirlwind Home Decor Classic Rug 0807",
+      "quantity": "5,00",
+      "total_price": "15 400,00"
+    },
+    {
+      "description": "European Colour Sunflower Pattern Mats Hallway Carpets Doormat Bedroom Area Rugs",
+      "quantity": "4,00",
+      "total_price": "60,10"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 714,88",
+    "discount": "",
+    "total": "18 863,63"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

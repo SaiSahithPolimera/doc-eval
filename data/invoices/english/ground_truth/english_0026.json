@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Pierce, Bush and Jones",
+    "client_address": "Unit 0758 Box 0909\nDPO AA 34990",
+    "seller_name": "Harris LLC",
+    "seller_address": "19049 Norma Centers Apt. 108\nFieldsmouth, AZ 08845",
+    "invoice_number": "33102457",
+    "invoice_date": "09/18/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Blue Shiny Stone Floral Art\nDinning Table Top Marble\nKitchen Table Top 48 Inches",
+      "quantity": "4,00",
+      "total_price": "17 424,00"
+    },
+    {
+      "description": "12\" Marble Side Coffee Table\nTop Multi Stone Floral Inlay\nOccasional Decor W260",
+      "quantity": "3,00",
+      "total_price": "857,24"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 661,93",
+    "discount": "",
+    "total": "18 281,24"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

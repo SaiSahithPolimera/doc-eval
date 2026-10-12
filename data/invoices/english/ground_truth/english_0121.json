@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Christian-Taylor",
+    "client_address": "260 Meagan Village Apt. 658\nSouth Oscar, MS 93822",
+    "seller_name": "Weaver Ltd",
+    "seller_address": "377 Haynes Spring\nChelseaton, AZ 47350",
+    "invoice_number": "41884162",
+    "invoice_date": "12/21/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+      "quantity": "3.00",
+      "total_price": "29.85"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.98",
+    "discount": "",
+    "total": "32.83"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

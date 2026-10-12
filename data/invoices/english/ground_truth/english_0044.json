@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Alvarez Inc",
+    "client_address": "00625 Smith Mall Apt. 604\nNew Dustin, AZ 81632",
+    "seller_name": "Nunez Inc",
+    "seller_address": "6551 Janet Gardens\nMichaelberg, KS 90952",
+    "invoice_number": "31293737",
+    "invoice_date": "12/15/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Women's black cocktail dress, size 4",
+      "quantity": "3.00",
+      "total_price": "59.97"
+    },
+    {
+      "description": "Christmas Dress Grace Karin Sleeveless Christmas dress Red Black size Large",
+      "quantity": "1.00",
+      "total_price": "9.99"
+    },
+    {
+      "description": "Windsor womens black and Pink Bodycon Sleeveless Dress, Womens Size Small",
+      "quantity": "1.00",
+      "total_price": "15.83"
+    },
+    {
+      "description": "Lumiere Large Multicolored Orange Short Dress NWT",
+      "quantity": "4.00",
+      "total_price": "19.96"
+    },
+    {
+      "description": "Xhilaration Womens L Burgandy Boho Embroidered Festival Mini Dress NEW",
+      "quantity": "4.00",
+      "total_price": "59.80"
+    },
+    {
+      "description": "Johnny Was Medium Linen Wrap Dress Dessert Rose Embroiderd Bohemian",
+      "quantity": "2.00",
+      "total_price": "179.98"
+    },
+    {
+      "description": "Pre-Owned Women's Nah Nah Dress Size 8 Black Sheer Formal Sexy",
+      "quantity": "2.00",
+      "total_price": "25.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "37.15",
+    "discount": "",
+    "total": "371.51"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB10TEWR90161825708017",
+    "payment_method": ""
+  }
+}

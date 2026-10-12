@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Liu-Perry",
+    "client_address": "6914 Carolyn Circle\nEugenefort, VA 31831",
+    "seller_name": "Klein and Sons",
+    "seller_address": "Unit 6028 Box 0366\nDPO AP 38632",
+    "invoice_number": "74184749",
+    "invoice_date": "03/07/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Stemless wine glass Etched coordinates of Myakka River State Park, Very Good",
+      "quantity": "1.00",
+      "total_price": "3.29"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.30",
+    "discount": "",
+    "total": "2.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

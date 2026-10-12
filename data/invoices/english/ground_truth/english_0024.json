@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Richards, Williams and Houston",
+    "client_address": "0388 Hutchinson Corner Apt. 019\nDeborahside, SC 93156",
+    "seller_name": "White PLC",
+    "seller_address": "63583 Marshall Flats\nLeestad, CT 23486",
+    "invoice_number": "63131640",
+    "invoice_date": "06/21/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "3 Gal 12L Moonshine Still\nStainless Steel Water Wine\nAlcohol Distiller Equipment",
+      "quantity": "5.00",
+      "total_price": "549.56"
+    },
+    {
+      "description": "BLACK Butterfly Winged\nCorkscrew WINE BOTTLE\nOPENER Swing-a-Way",
+      "quantity": "5.00",
+      "total_price": "49.23"
+    },
+    {
+      "description": "Vintage Set of 3 Cobalt Blue\nGlass Wine Glasses / Water\nGoblets Barware Stemware",
+      "quantity": "5.00",
+      "total_price": "132.00"
+    },
+    {
+      "description": "New Never Used CROFTON\nCHEFS COLLECTION WINE\nCOOLING STICK IN PACKAGE",
+      "quantity": "3.00",
+      "total_price": "9.90"
+    }
+  ],
+  "subtotal": {
+    "tax": "67.34",
+    "discount": "",
+    "total": "740.69"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

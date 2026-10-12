@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Barton, Decker and Ferguson",
+    "client_address": "731 Clark Fords\nJohnbury, HI 95582",
+    "seller_name": "Archer, Davis and Hudson",
+    "seller_address": "089 Heath Point Suite 115\nNew David, IL 52837",
+    "invoice_number": "92059706",
+    "invoice_date": "04/28/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Working - Super Nintendo SNES Original System Console w/ Mario World!",
+      "quantity": "4.00",
+      "total_price": "374.00"
+    },
+    {
+      "description": "Sony PlayStation 5 Console - PS5- PRESALE- Disc Version Pre Order Confirmed",
+      "quantity": "3.00",
+      "total_price": "2 804.97"
+    },
+    {
+      "description": "Nintendo Wii Console Mario Kart Controller Wii Fit 2 Board Remotes Game BUNDLE",
+      "quantity": "3.00",
+      "total_price": "659.90"
+    }
+  ],
+  "subtotal": {
+    "tax": "348.99",
+    "discount": "",
+    "total": "3 838.87"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Bernard, Welch and Freeman",
+    "client_address": "06193 Julia Row\nMichelleburgh, NH 84339",
+    "seller_name": "Wade, Scott and Glover",
+    "seller_address": "9022 Jeffrey Course Apt. 247\nTylershire, DC 71720",
+    "invoice_number": "67095041",
+    "invoice_date": "12/14/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Champagne Glass Holder\nStorage Bar Accessory with\nShelf Wall Mount Wine Holder",
+      "quantity": "4.00",
+      "total_price": "87.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "8.00",
+    "discount": "",
+    "total": "87.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

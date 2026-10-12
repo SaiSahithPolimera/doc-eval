@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Young Inc",
+    "client_address": "0386 Kane Alley\nZacharystad, MT 55786",
+    "seller_name": "Rodriguez, White and Hernandez",
+    "seller_address": "275 Sanders Fall Suite 646\nJenniferburgh, IA 31174",
+    "invoice_number": "92395596",
+    "invoice_date": "10/03/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "LuLaRoe Nicole Dress Size Medium 11",
+      "quantity": "1.00",
+      "total_price": "2.19"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.20",
+    "discount": "",
+    "total": "1.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

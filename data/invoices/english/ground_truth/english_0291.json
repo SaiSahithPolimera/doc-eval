@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Patterson, Pierce and Fuentes",
+    "client_address": "79040 Anderson Fort\nMichaelport, SD 42110",
+    "seller_name": "Peterson LLC",
+    "seller_address": "USS Daniels\nFPO AP 91825",
+    "invoice_number": "98852451",
+    "invoice_date": "09/02/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "New Design Rectangular Hand Woven Chindi Rag Rug Floor Handmade Carpet Aztec Mat",
+      "quantity": "1.00",
+      "total_price": "32.99"
+    },
+    {
+      "description": "Bedroom Decor Carpets Living Room Line Pattern Green Rug Modern Simple Area Rugs",
+      "quantity": "1.00",
+      "total_price": "37.25"
+    },
+    {
+      "description": "YILONG 2.5'x4' Small Hand Knotted Silk Carpets Antistatic Floor Area Rug 844B",
+      "quantity": "1.00",
+      "total_price": "2200.00"
+    },
+    {
+      "description": "Moroccan Amazigh Handmade Carpet 14'2\" x 7'5\"",
+      "quantity": "5.00",
+      "total_price": "1881.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "377.38",
+    "discount": "",
+    "total": "4151.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

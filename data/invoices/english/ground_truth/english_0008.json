@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Buckley, Wright and Chase",
+    "client_address": "3524 Chandler Shoal\nNicholasfurt, VA 09561",
+    "seller_name": "Chase, Green and Bailey",
+    "seller_address": "Unit 1572 Box 9604\nDPO AP 69096",
+    "invoice_number": "87734908",
+    "invoice_date": "12/19/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "the invisible life of addie larue, EBOOK new original high quality, updated 2020",
+      "quantity": "2.00",
+      "total_price": "6.58"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.60",
+    "discount": "",
+    "total": "6.58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

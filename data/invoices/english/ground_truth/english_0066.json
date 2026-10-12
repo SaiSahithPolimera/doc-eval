@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Hernandez Group",
+    "client_address": "37039 Brown Estates Suite 872\nGrantburgh, SC 87485",
+    "seller_name": "French PLC",
+    "seller_address": "PSC 4436, Box 0976\nAPO AA 23238",
+    "invoice_number": "67103708",
+    "invoice_date": "01/20/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Neuroscience of Emotion A\nNew Synthesis by Ralph\nAdolphs",
+      "quantity": "4.00",
+      "total_price": "43.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.00",
+    "discount": "",
+    "total": "43.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

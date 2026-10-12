@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Williams-Lucero",
+    "client_address": "303 Solomon Lake Apt. 277\nWeberland, OR 55395",
+    "seller_name": "Cooper-Fox",
+    "seller_address": "00959 Gregory Valleys Apt. 881\nEast Samuel, CA 09564",
+    "invoice_number": "32530472",
+    "invoice_date": "08/27/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Gameboy Pocket\nConsole Clear Purple with Box\nMGB-001 Japan Tested 53",
+      "quantity": "2.00",
+      "total_price": "187.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.00",
+    "discount": "",
+    "total": "187.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB63BMAU12451382016568",
+    "payment_method": ""
+  }
+}

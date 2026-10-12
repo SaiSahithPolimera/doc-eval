@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Hill, Cortez and Hays",
+    "client_address": "130 Anderson Mission Apt. 986\nLisaland, DE 05170",
+    "seller_name": "Mendez, Gibson and Shaffer",
+    "seller_address": "042 Kelly Rest Suite 958\nEast Christopherville, FL 30317",
+    "invoice_number": "50027163",
+    "invoice_date": "02/24/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Striped Contemporary Gabbeh Kashkoli Oriental Area Rug Handmade Wool Carpet 6x8",
+      "quantity": "2.00",
+      "total_price": "917.93"
+    },
+    {
+      "description": "Unicorn Series Small Large Long Floor Carpet Area Rugs Various Size Soft Rug",
+      "quantity": "2.00",
+      "total_price": "102.30"
+    },
+    {
+      "description": "YILONG 4'x6' Golden Handmade Carpet House Decor Hand Knotted Silk Rugs 088B",
+      "quantity": "2.00",
+      "total_price": "7 920.00"
+    },
+    {
+      "description": "7x10 Diamond Geometric Rugs Contemporary Black Color Large Mat Dhurrie Carpet",
+      "quantity": "5.00",
+      "total_price": "1 925.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "987.75",
+    "discount": "",
+    "total": "10 865.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

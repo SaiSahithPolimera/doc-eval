@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Johnson, Smith and Adkins",
+    "client_address": "012 Mcmahon Estate\nKhanview, MS 21813",
+    "seller_name": "Phillips-Bailey",
+    "seller_address": "154 Ryan Court\nErinview, MD 22698",
+    "invoice_number": "72761554",
+    "invoice_date": "11/12/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Intel NUC MINI PC i7-6770HQ 2.60GHz 16GB RAM 120GB SSD NUC6i7KYB NUC6i7KYK W10P",
+      "quantity": "3,00",
+      "total_price": "1 319,97"
+    },
+    {
+      "description": "CAD Solidworks Video Photo Editing Workstation 64GB 8C Xeon Quadro Computer NVME",
+      "quantity": "2,00",
+      "total_price": "1 144,00"
+    },
+    {
+      "description": "AMD Custom Ryzen 5 Quad Core Gaming PC 4.2GHZ Computer 8GB 1TB AM4 DDR4 Vega 11",
+      "quantity": "4,00",
+      "total_price": "2 529,96"
+    },
+    {
+      "description": "Dell Desktop Computer 3020 Micro Tiny PC Intel i3 4GB 120GB SSD Windows 10 WiFi",
+      "quantity": "3,00",
+      "total_price": "445,33"
+    }
+  ],
+  "subtotal": {
+    "tax": "494,48",
+    "discount": "",
+    "total": "5 439,26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48NCKL44417412467863",
+    "payment_method": ""
+  }
+}

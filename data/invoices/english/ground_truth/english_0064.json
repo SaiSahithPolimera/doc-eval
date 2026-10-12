@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Zimmerman and Sons",
+    "client_address": "2246 Landry Court\nMurillomouth, AZ 66593",
+    "seller_name": "West Group",
+    "seller_address": "91959 Eric Pass\nWileyshire, SC 58295",
+    "invoice_number": "74980573",
+    "invoice_date": "09/27/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Teva Hurricane 1019390 All Black Sandals with Hook and Loop Closure, Youth's 5",
+      "quantity": "2.00",
+      "total_price": "21.98"
+    },
+    {
+      "description": "Keen Waterproof Hiking Shoes Kids Boys Size 12 Brown Black Outdoor Sneakers",
+      "quantity": "3.00",
+      "total_price": "118.70"
+    },
+    {
+      "description": "KushyShoo Children Kid Rain Boot Shoes Rubber, Monkey, Size Youth 1",
+      "quantity": "2.00",
+      "total_price": "50.58"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.39",
+    "discount": "",
+    "total": "191.26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

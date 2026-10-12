@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Gordon PLC",
+    "client_address": "77704 Casey Junction Suite 173\nSouth Jacquelinefort, OK 29297",
+    "seller_name": "Campbell-Thomas",
+    "seller_address": "271 Christopher Causeway Suite 074\nAndersonview, TN 18773",
+    "invoice_number": "94786467",
+    "invoice_date": "11/19/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "36 Inches Marble Office Table\nTop with Multi Gemstones Work\nDinning Table Top",
+      "quantity": "1.00",
+      "total_price": "1 852,13"
+    },
+    {
+      "description": "25 Inches Black Marble Center\nTable Top with Multi Stones\nCoffee Table for Home",
+      "quantity": "2.00",
+      "total_price": "1 608,75"
+    },
+    {
+      "description": "SOFA SET",
+      "quantity": "4.00",
+      "total_price": "1 100,00"
+    },
+    {
+      "description": "15 Inches Marble Bed Side Table\nTop Stone Coffee Table with\nRoyal Inlay Work",
+      "quantity": "4.00",
+      "total_price": "1 084,60"
+    },
+    {
+      "description": "26\"x26\" Black Marble Round\nTop Table Grapes Art Inlay\nFloral Christmas Gift Deco",
+      "quantity": "2.00",
+      "total_price": "2 833,60"
+    }
+  ],
+  "subtotal": {
+    "tax": "770,83",
+    "discount": "",
+    "total": "8 479,08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Kennedy, Johnson and Evans",
+    "client_address": "702 Teresa Plaza Apt. 105\nlanmouth, IA 94740",
+    "seller_name": "Friedman-Williams",
+    "seller_address": "241 Shepherd Field Suite 362\nJohnport, CO 28016",
+    "invoice_number": "39912751",
+    "invoice_date": "12/27/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "12\" White Marble Coffee Table\nTop Lapis Turquoise Floral Inlay\nHome Decors W538",
+      "quantity": "3,00",
+      "total_price": "975,91"
+    },
+    {
+      "description": "Bean Bag Cover Soft Cozy Sofa\nSeat Furniture Chair Home\nLiving Room Decoration",
+      "quantity": "5,00",
+      "total_price": "544,50"
+    },
+    {
+      "description": "7'x4' Buy Marble Dining Table\nWith Black Top Marquetry Inlay\nHallway Decor E944",
+      "quantity": "2,00",
+      "total_price": "32 386,38"
+    },
+    {
+      "description": "6'x3' Marble Dining Living Room\nTop Table Multi Pietra Dura\nInlaid Decor H5009A",
+      "quantity": "4,00",
+      "total_price": "22 388,56"
+    }
+  ],
+  "subtotal": {
+    "tax": "5 117,76",
+    "discount": "",
+    "total": "56 295,35"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB93VPGA85477042743449",
+    "payment_method": ""
+  }
+}

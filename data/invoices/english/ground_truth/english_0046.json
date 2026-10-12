@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Simmons Inc",
+    "client_address": "17172 Thomas Spurs Suite 214\nLorichester, WV 81274",
+    "seller_name": "West-Hodges",
+    "seller_address": "898 Jennifer Trail\nLisamouth, MI 40976",
+    "invoice_number": "94166183",
+    "invoice_date": "08/24/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Matilda Jane Womans Lets Go Together Black Knit Dress Size M Medium NWT",
+      "quantity": "1.00",
+      "total_price": "21.56"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.96",
+    "discount": "",
+    "total": "21.56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Haas and Sons",
+    "client_address": "65628 Brittany Dale\nWalterschester, LA 26239",
+    "seller_name": "Hall-Boyd",
+    "seller_address": "8719 Reed Street Apt. 120\nEast Michelleborough, KY 93895",
+    "invoice_number": "74589240",
+    "invoice_date": "12/08/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+      "quantity": "3.00",
+      "total_price": "38.38"
+    },
+    {
+      "description": "New Golden Brown Oriental Rug\n4X6 Oushak Chobi Floral\nHand-Knotted Foyer Carpet",
+      "quantity": "5.00",
+      "total_price": "1 279.58"
+    },
+    {
+      "description": "YILONG 5.5'x8' Handknotted\nSilk Area Rugs Home Decor\nClassic Blue Carpet 0790",
+      "quantity": "1.00",
+      "total_price": "11 616.00"
+    },
+    {
+      "description": "Pretty Woman Small Large Long\nFloor Carpet Area Rugs Various\nSize Soft Rug",
+      "quantity": "1.00",
+      "total_price": "39.93"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 179.44",
+    "discount": "",
+    "total": "12 973,88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB51FSWB55572342266497",
+    "payment_method": ""
+  }
+}

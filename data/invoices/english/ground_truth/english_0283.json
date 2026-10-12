@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Mejia, Lopez and Jones",
+    "client_address": "17940 Thompson Mall\nMendozaside, FL 49034",
+    "seller_name": "Morales-Snyder",
+    "seller_address": "0400 Lori Row\nOwenshaven, LA 55307",
+    "invoice_number": "26413291",
+    "invoice_date": "01/17/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Cherry Halter Rockabilly Black Summer Dress Size 3/4",
+      "quantity": "5.00",
+      "total_price": "19.25"
+    },
+    {
+      "description": "Women Sexy Lingerie Lace Dress Underwear Babydoll Sleepwear G-string Bikini Lot",
+      "quantity": "4.00",
+      "total_price": "4.36"
+    },
+    {
+      "description": "Rebecca Minkoff Black Polyester Fringe and Lambskin Dress Sz 12",
+      "quantity": "2.00",
+      "total_price": "21.98"
+    },
+    {
+      "description": "Unbranded Dress Sleeveless Cowl Neck Gold Silver Purple Metallic Size 6 S",
+      "quantity": "3.00",
+      "total_price": "33.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "7.14",
+    "discount": "",
+    "total": "78.58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

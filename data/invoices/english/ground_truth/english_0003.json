@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Olson, Cisneros and Moore",
+    "client_address": "80943 Beck Divide\nWadeport, IA 90419",
+    "seller_name": "Merritt, Williams and Young",
+    "seller_address": "6801 Frank Run\nWest Mary, IN 06055",
+    "invoice_number": "73285932",
+    "invoice_date": "07/25/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Bcbgeneration Black Sleeveless Lace Back Cut Out Dress Sz 2",
+      "quantity": "2.00",
+      "total_price": "6.58"
+    },
+    {
+      "description": "2pcs baby boys clothes cotton hooded top+pants baby boys Outfits gentleman",
+      "quantity": "5.00",
+      "total_price": "60.45"
+    },
+    {
+      "description": "NWT $1200 J.Crew Silk Chiffon Ivory Wedding Dress with Beading",
+      "quantity": "1.00",
+      "total_price": "324.50"
+    },
+    {
+      "description": "Shein Blue And White Striped Wrap Dress",
+      "quantity": "5.00",
+      "total_price": "44.00"
+    },
+    {
+      "description": "Guess Dress Size 6",
+      "quantity": "2.00",
+      "total_price": "44.00"
+    },
+    {
+      "description": "CLIFFORD & WILLS BLACK NET/MESH OVER TAUPE LONG DRESS SIZE 4",
+      "quantity": "5.00",
+      "total_price": "32.95"
+    },
+    {
+      "description": "Matilda Jane Women's Light Rising High Low Green Floral Dress Size L Pockets",
+      "quantity": "3.00",
+      "total_price": "165.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "61.59",
+    "discount": "",
+    "total": "677.47"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

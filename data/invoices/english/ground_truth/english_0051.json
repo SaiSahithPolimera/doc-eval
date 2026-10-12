@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Miller, Myers and Bean",
+    "client_address": "45922 Patricia Courts\nSouth William, IN 08798",
+    "seller_name": "Gutierrez LLC",
+    "seller_address": "8987 Fitzpatrick Parks Apt. 322\nNew Misty, NM 20546",
+    "invoice_number": "36433509",
+    "invoice_date": "03/29/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "boys shoes size 5",
+      "quantity": "2.00",
+      "total_price": "12.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.16",
+    "discount": "",
+    "total": "12.76"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB40BEQA27978227402725",
+    "payment_method": ""
+  }
+}

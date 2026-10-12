@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Schmidt, Brooks and Petersen",
+    "client_address": "5960 Michael Passage\nLake Dominiquefort, DE 48139",
+    "seller_name": "Maxwell Inc",
+    "seller_address": "PSC 1106, Box 7307\nAPO AP 63015",
+    "invoice_number": "40700258",
+    "invoice_date": "12/27/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Boys Black Dress Shoes",
+      "quantity": "4.00",
+      "total_price": "19.80"
+    },
+    {
+      "description": "Fila Boys Skele-Toes Bay RNR 3\nBlack Running Shoes 11\nMedium (D) Little Kid 9953",
+      "quantity": "1.00",
+      "total_price": "11.28"
+    },
+    {
+      "description": "Steve Madden Bserge Boys\nBlack Dress Leather Loafer\nShoes US 4 NIB",
+      "quantity": "2.00",
+      "total_price": "87.89"
+    },
+    {
+      "description": "Kid's Boys Hiking Garden\nSandals Leisure Closed Toe\nFisherman Beach Shoes\nSummer",
+      "quantity": "5.00",
+      "total_price": "175.34"
+    },
+    {
+      "description": "Nike Dangeruss Wilson Youth\nFlex Shoes Green Blue Sneakers\nKids Size 12.5",
+      "quantity": "4.00",
+      "total_price": "87.78"
+    },
+    {
+      "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 1.5\nWhite Red 1.5Y NEW",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Diadora Youth Boys Avanti MD\nJR Soccer Cleats Size 2.5 Yellow\nBlack NEW",
+      "quantity": "1.00",
+      "total_price": "21.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "46.73",
+    "discount": "",
+    "total": "514.02"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB77OGJF22133316954582",
+    "payment_method": ""
+  }
+}

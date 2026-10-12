@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Townsend-Mitchell",
+    "client_address": "0681 Thomas Field\nMichaelshire, FL 64856",
+    "seller_name": "Johnson, Barrett and King",
+    "seller_address": "2008 Thomas Square\nSanchezmouth, AK 49318",
+    "invoice_number": "65028137",
+    "invoice_date": "01/03/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fast Dell Optiplex Windows 10 Desktop Computer Tower PC Core i3 3.1GHz 4GB 320GB",
+      "quantity": "1.00",
+      "total_price": "98.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.00",
+    "discount": "",
+    "total": "98.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB10AMVD30795287137531",
+    "payment_method": ""
+  }
+}

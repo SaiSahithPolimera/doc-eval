@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Burgess Ltd",
+    "client_address": "83465 Mark Wells\nGrantport, LA 14496",
+    "seller_name": "Spencer Group",
+    "seller_address": "Unit 8348 Box 3299\nDPO AP 77704",
+    "invoice_number": "85238418",
+    "invoice_date": "05/03/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dont Sweat the Small Stuff... and Its All Small Stuff: Simple Ways to Keep",
+      "quantity": "5.00",
+      "total_price": "24.70"
+    },
+    {
+      "description": "The Black (Morpheus Road)",
+      "quantity": "1.00",
+      "total_price": "4.94"
+    },
+    {
+      "description": "The Puzzle Palace",
+      "quantity": "1.00",
+      "total_price": "4.94"
+    },
+    {
+      "description": "Sasinowski M-Legacy Of Ra BOOK NEW",
+      "quantity": "5.00",
+      "total_price": "106.70"
+    },
+    {
+      "description": "The Elf on the Shelf: A Christmas Tradition",
+      "quantity": "2.00",
+      "total_price": "17.80"
+    },
+    {
+      "description": "The Messiah",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "16.26",
+    "discount": "",
+    "total": "178.83"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

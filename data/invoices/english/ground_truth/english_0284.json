@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Hancock LLC",
+    "client_address": "04712 Andrew Meadows\nNorth Hannah, NV 36457",
+    "seller_name": "Lewis and Sons",
+    "seller_address": "256 Cruz Views Suite 230\nEast Justin, WA 50904",
+    "invoice_number": "39652805",
+    "invoice_date": "03/20/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "computer",
+      "quantity": "1.00",
+      "total_price": "329.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "30.00",
+    "discount": "",
+    "total": "329.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

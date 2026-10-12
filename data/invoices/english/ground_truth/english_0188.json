@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Joseph PLC",
+    "client_address": "USCGC Boyd\nFPO AE 83569",
+    "seller_name": "Walker LLC",
+    "seller_address": "06525 Jessica Motorway\nNorth Jamiefort, NV 48615",
+    "invoice_number": "51508002",
+    "invoice_date": "05/19/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Joma Boys Youth Gol-102 Soccer Cleats Shoes Size 1.5 White Red 1.5Y NEW",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "jordan 4 kids Size 8",
+      "quantity": "4.00",
+      "total_price": "101.20"
+    },
+    {
+      "description": "Size 3y Nike Air Speed Turf (PS) Sneakers Shoe BV2526 100 White/Blue/Red",
+      "quantity": "3.00",
+      "total_price": "247.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "37.70",
+    "discount": "",
+    "total": "414.67"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

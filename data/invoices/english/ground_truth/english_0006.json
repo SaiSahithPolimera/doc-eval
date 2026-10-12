@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Evans, Curtis and Salinas",
+    "client_address": "13078 Mora Garden\nMorseberg, WV 48959",
+    "seller_name": "Lozano, Wang and Smith",
+    "seller_address": "8162 Dunn Radial\nLauraland, ID 83827",
+    "invoice_number": "56908352",
+    "invoice_date": "01/11/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Rage By Bob Woodward - Donald Trump NEW HARDCOVER Sept 2020",
+      "quantity": "5.00",
+      "total_price": "126.12"
+    },
+    {
+      "description": "Spectacular Ireland Coffee Table Book - very large",
+      "quantity": "4.00",
+      "total_price": "44.00"
+    },
+    {
+      "description": "The Complete Life's Little Instruction Book by Brown, H. Jackson, Jr.",
+      "quantity": "4.00",
+      "total_price": "18.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.10",
+    "discount": "",
+    "total": "188.11"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

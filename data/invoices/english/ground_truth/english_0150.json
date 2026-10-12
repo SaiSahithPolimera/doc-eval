@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Gilbert, Guerrero and Johnson",
+    "client_address": "5003 Lambert Crossing Suite 099\nLake Kayleeport, NJ 80905",
+    "seller_name": "Mckay Inc",
+    "seller_address": "605 Christian Way\nEast Andrewton, NJ 45785",
+    "invoice_number": "61527431",
+    "invoice_date": "08/24/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "18\" Marble White Top Chess Table Handmade Collectible Black Friday Gift Décor",
+      "quantity": "5.00",
+      "total_price": "3085.50"
+    },
+    {
+      "description": "4'x2' Marble Black Center Top Table Mosaic Gemstone Patio Art Black Friday Gift",
+      "quantity": "2.00",
+      "total_price": "7233.60"
+    }
+  ],
+  "subtotal": {
+    "tax": "938.10",
+    "discount": "",
+    "total": "10319.10"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

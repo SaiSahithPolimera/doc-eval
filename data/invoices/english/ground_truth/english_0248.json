@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Bell-Newman",
+    "client_address": "224 Morris Isle Suite 821\nStephaniemouth, WA 65097",
+    "seller_name": "Watson PLC",
+    "seller_address": "5356 Ferguson Square Suite 498\nEast Christophershire, OK 94251",
+    "invoice_number": "72196558",
+    "invoice_date": "05/06/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "One Year through the Bible by David R. Veerman",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    },
+    {
+      "description": "The Neuroscience of Emotion A New Synthesis by Ralph Adolphs",
+      "quantity": "3.00",
+      "total_price": "32.97"
+    },
+    {
+      "description": "Herbal Tarot Deck",
+      "quantity": "4.00",
+      "total_price": "79.11"
+    }
+  ],
+  "subtotal": {
+    "tax": "11.54",
+    "discount": "",
+    "total": "126.90"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Arroyo-Cobb",
+    "client_address": "2954 Potter Spur\nLake Natalie, ME 80450",
+    "seller_name": "Tapia-Cline",
+    "seller_address": "683 Williams Pike Apt. 528\nMaddoxberg, AZ 15252",
+    "invoice_number": "63959029",
+    "invoice_date": "09/29/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Semi precious Stone Work Inlaid Dinning Table Top Marble Kitchen Table 42 Inches",
+      "quantity": "2.00",
+      "total_price": "5 491,20"
+    },
+    {
+      "description": "36 Inches Marble Office Table Top with Multi Gemstones Work Dinning Table Top",
+      "quantity": "3.00",
+      "total_price": "5 556,37"
+    },
+    {
+      "description": "48\" Marble Round Dining Table Top Lapis Floral Inlay Arts Restaurant Decor E1053",
+      "quantity": "4.00",
+      "total_price": "36 553,13"
+    }
+  ],
+  "subtotal": {
+    "tax": "4 327,34",
+    "discount": "",
+    "total": "47 600,71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB27XHTH60562376011688",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Powell, Norman and Parsons",
+    "client_address": "138 Collins Falls\nEast Nancymouth, SC 66253",
+    "seller_name": "Dickerson, Brewer and Morris",
+    "seller_address": "4211 Haley Pike\nNancyborough, SD 72546",
+    "invoice_number": "83155269",
+    "invoice_date": "10/27/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NWT $1200 J.Crew Silk Chiffon Ivory Wedding Dress with Beading",
+      "quantity": "1.00",
+      "total_price": "324.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.50",
+    "discount": "",
+    "total": "324.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

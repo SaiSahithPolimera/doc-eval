@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Lozano-Lindsey",
+    "client_address": "47773 Miller Court\nHarrisonmouth, ME 64015",
+    "seller_name": "Baker-Smith",
+    "seller_address": "PSC 8796, Box 5451\nAPO AA 79359",
+    "invoice_number": "90188228",
+    "invoice_date": "03/28/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Women's black cocktail dress, size 4",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Coolibar Sun Protection Tunic Dress Cover Up Size Small S\nPink Pattern UPF 50",
+      "quantity": "4.00",
+      "total_price": "118.76"
+    },
+    {
+      "description": "NWT DRA M White Embroidered Nathalie Bohemian Mini Dress",
+      "quantity": "4.00",
+      "total_price": "91.96"
+    },
+    {
+      "description": "Vintage 80s All That Jazz Blue Velvet Dress Small/Medium",
+      "quantity": "3.00",
+      "total_price": "33.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "32.15",
+    "discount": "",
+    "total": "353.66"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

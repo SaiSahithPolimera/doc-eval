@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Gilbert-Colon",
+    "client_address": "022 Courtney Creek\nNorth Darrylmouth, GA 25986",
+    "seller_name": "Gould-Martinez",
+    "seller_address": "931 Ballard Mission\nRogersstad, WV 48387",
+    "invoice_number": "93493698",
+    "invoice_date": "04/05/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Gameboy Pocket Console Clear Purple with Box MGB-001 Japan Tested 53",
+      "quantity": "3.00",
+      "total_price": "280.50"
+    },
+    {
+      "description": "Microsoft Xbox One S Console 500GB in Great Condition",
+      "quantity": "3.00",
+      "total_price": "590.70"
+    },
+    {
+      "description": "Sony PlayStation 5 Console - White - Disc Version - CONFIRMED PRE ORDER PS5",
+      "quantity": "5.00",
+      "total_price": "2 749.95"
+    },
+    {
+      "description": "PS4 PlayStation 4 500 GB Console CUH-1115A Bundle, 1 Controller, 8 Games",
+      "quantity": "5.00",
+      "total_price": "1 924.95"
+    },
+    {
+      "description": "Nintendo Switch Lite Yellow CONSOLE ONLY - No Accessories or Charger [B1-1]",
+      "quantity": "4.00",
+      "total_price": "594.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "558.19",
+    "discount": "",
+    "total": "6 140.09"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB11AEUN09755215520411",
+    "payment_method": ""
+  }
+}

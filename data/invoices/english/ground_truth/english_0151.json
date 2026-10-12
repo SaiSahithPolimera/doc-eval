@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Harrison LLC",
+    "client_address": "6686 Sara Creek\nAmandaburgh, KY 24780",
+    "seller_name": "Thompson, Evans and Parker",
+    "seller_address": "535 David Court\nManningberg, WI 75601",
+    "invoice_number": "10737107",
+    "invoice_date": "07/20/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NWT DRA M White Embroidered\nNathalie Bohemian Mini Dress",
+      "quantity": "1.00",
+      "total_price": "22.99"
+    },
+    {
+      "description": "Calvin Klein dress 8 women\nblue/white",
+      "quantity": "4.00",
+      "total_price": "44.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "6.09",
+    "discount": "",
+    "total": "66.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

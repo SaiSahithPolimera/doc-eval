@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Mitchell LLC",
+    "client_address": "10199 Heidi Villages Suite 303\nPatrickchester, OK 35545",
+    "seller_name": "Chan-Becker",
+    "seller_address": "575 Nicole Crest Apt. 126\nNorth Kimberly, NJ 55703",
+    "invoice_number": "13886485",
+    "invoice_date": "11/24/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "1 Set of Mini Cute Resin Micro Landscape Plants Decoration for Home",
+      "quantity": "1.00",
+      "total_price": "5.73"
+    },
+    {
+      "description": "6'x3' Green Marble Decorative Marquetry Dining Table Pietradure Inlay Gems Decor",
+      "quantity": "2.00",
+      "total_price": "12 049.93"
+    },
+    {
+      "description": "12\" White Marble Side Coffee Table Top Jasper Elephant Inlay Garden Decor W026",
+      "quantity": "1.00",
+      "total_price": "272.56"
+    },
+    {
+      "description": "6'x3' Black Marble Dining Center Table Top Marquetry Inlay Outdoor Decor H3420A",
+      "quantity": "3.00",
+      "total_price": "18 997.18"
+    },
+    {
+      "description": "7'x4' Collectible Marble Green Dining Table Top Floral Inlay Design Decor E997",
+      "quantity": "1.00",
+      "total_price": "14 889.67"
+    }
+  ],
+  "subtotal": {
+    "tax": "4 201.37",
+    "discount": "",
+    "total": "46 215.06"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB63IDWT62763379585102",
+    "payment_method": ""
+  }
+}

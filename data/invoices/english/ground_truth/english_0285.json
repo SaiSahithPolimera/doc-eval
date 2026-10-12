@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Ross-Fernandez",
+    "client_address": "3842 Kyle Park Suite 882\nWest Jennifer, MI 96108",
+    "seller_name": "Flores and Sons",
+    "seller_address": "665 Joshua Street\nMorganborough, IN 22483",
+    "invoice_number": "78321725",
+    "invoice_date": "06/21/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Collectors Paperweights 86",
+      "quantity": "1.00",
+      "total_price": "6.31"
+    },
+    {
+      "description": "Harry Potter and the Chamber of Secrets (Book 2) by Rowling, J. K. Paperback The",
+      "quantity": "2.00",
+      "total_price": "16.76"
+    },
+    {
+      "description": "The Elf on the Shelf: A Christmas Tradition",
+      "quantity": "2.00",
+      "total_price": "17.80"
+    },
+    {
+      "description": "Jesus (Hardback or Cased Book)",
+      "quantity": "2.00",
+      "total_price": "70.31"
+    },
+    {
+      "description": "The Value Of Time",
+      "quantity": "2.00",
+      "total_price": "39.01"
+    }
+  ],
+  "subtotal": {
+    "tax": "13.65",
+    "discount": "",
+    "total": "150.19"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

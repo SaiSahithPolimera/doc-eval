@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Delacruz, Hinton and Mckinney",
+    "client_address": "3867 Annette Tunnel\nNorth Codybury, FL 61678",
+    "seller_name": "Austin and Sons",
+    "seller_address": "9090 Thomas Route Apt. 293\nJohnsonburgh, IA 81799",
+    "invoice_number": "44456646",
+    "invoice_date": "03/21/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "crewcuts shoes",
+      "quantity": "4,00",
+      "total_price": "52,80"
+    },
+    {
+      "description": "nickelodeon TMNT Teenage Mutant Ninja Turtles D L M R 6in Action Figure Kids Toy",
+      "quantity": "2,00",
+      "total_price": "94,56"
+    },
+    {
+      "description": "Lands' End Kids Boys Snow Winter Boots Size 5 Blue Warm Zip Up Easy On Easy Off",
+      "quantity": "3,00",
+      "total_price": "31,35"
+    },
+    {
+      "description": "Under Armour KIDS' LOCKDOWN 4 BASKETBALL Black/Red/White Youth Sneakers: Sz 12k",
+      "quantity": "5,00",
+      "total_price": "109,94"
+    },
+    {
+      "description": "SEVENTEEN Semicolon Special Album [Photocard / Digi Pack Cover / Mini Card]",
+      "quantity": "5,00",
+      "total_price": "27,45"
+    }
+  ],
+  "subtotal": {
+    "tax": "28,74",
+    "discount": "",
+    "total": "316,10"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU37974446029688",
+    "payment_method": ""
+  }
+}

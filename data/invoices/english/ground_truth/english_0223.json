@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Diaz and Sons",
+    "client_address": "8060 Lisa Valleys Apt. 828\nNew John, ND 77007",
+    "seller_name": "Chapman-Johnson",
+    "seller_address": "505 Debra Ports\nPort Christopher, MA 10234",
+    "invoice_number": "32283117",
+    "invoice_date": "11/05/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "SCOTTISH FOLKLORE LEGENDS -\n180 RARE BOOKS ON DVD -\nSCOTLAND HISTORY\nMYTHOLOGY 5",
+      "quantity": "3,00",
+      "total_price": "36,13"
+    },
+    {
+      "description": "Pornhub PREMIUM LIFETIME\nAUTO RENEW | FAST DELIVERY",
+      "quantity": "4,00",
+      "total_price": "17,56"
+    },
+    {
+      "description": "Straw Dogs: Thoughts on\nHumans and Other Animals,\nPaperback by Gray, John, L...",
+      "quantity": "1,00",
+      "total_price": "15,39"
+    },
+    {
+      "description": "Care & Repair of Furniture",
+      "quantity": "1,00",
+      "total_price": "4,68"
+    }
+  ],
+  "subtotal": {
+    "tax": "6,71",
+    "discount": "",
+    "total": "73,76"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

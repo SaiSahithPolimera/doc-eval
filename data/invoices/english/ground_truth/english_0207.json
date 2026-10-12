@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Lopez Group",
+    "client_address": "935 Megan Rue Suite 369\nWest Zachary, WV 89266",
+    "seller_name": "Cook, Schwartz and Phillips",
+    "seller_address": "1893 Brown Path\nPort Shellyhaven, OR 29755",
+    "invoice_number": "13187294",
+    "invoice_date": "10/08/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "White Wine Brewing+(Red Wine Brewing )Active Dry Wine Yeast Alcohol 2Packs",
+      "quantity": "5.00",
+      "total_price": "71.45"
+    },
+    {
+      "description": "Wine Glasses Set Of 4",
+      "quantity": "4.00",
+      "total_price": "26.40"
+    },
+    {
+      "description": "Stemless wine glass Etched coordinates of Myakka River State Park, Very Good",
+      "quantity": "4.00",
+      "total_price": "13.16"
+    }
+  ],
+  "subtotal": {
+    "tax": "10.09",
+    "discount": "",
+    "total": "111.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

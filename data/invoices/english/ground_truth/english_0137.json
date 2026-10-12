@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Hernandez, Murphy and Saunders",
+    "client_address": "99581 Raymond Forge Apt. 828\nSouth Brendan, CA 25172",
+    "seller_name": "Roberts-Larson",
+    "seller_address": "34377 Deborah Cliffs\nPort Tonybury, ME 29427",
+    "invoice_number": "75399670",
+    "invoice_date": "03/25/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Rebecca Minkoff Black Polyester Fringe and Lambskin Dress Sz 12",
+      "quantity": "5.00",
+      "total_price": "54.95"
+    },
+    {
+      "description": "Socialite White Black Striped A Line Dress With Pockets Large",
+      "quantity": "4.00",
+      "total_price": "44.00"
+    },
+    {
+      "description": "womens sparkle dress size 2X Holiday Party RED metallic",
+      "quantity": "4.00",
+      "total_price": "43.96"
+    },
+    {
+      "description": "1920s Flapper Gatsby Cocktail Dress Chiffon Wedding Party Evening Formal Dresses",
+      "quantity": "2.00",
+      "total_price": "19.78"
+    },
+    {
+      "description": "New Wallis black floral midi dress sleeveles, size UK 12",
+      "quantity": "2.00",
+      "total_price": "83.60"
+    }
+  ],
+  "subtotal": {
+    "tax": "22.39",
+    "discount": "",
+    "total": "246.28"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

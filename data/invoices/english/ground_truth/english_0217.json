@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Tanner Inc",
+    "client_address": "86727 Henderson Summit Suite 008\nPort Davidland, ME 56702",
+    "seller_name": "Dalton, Chambers and Howard",
+    "seller_address": "970 Robert Via Apt. 832\nDaviston, UT 17011",
+    "invoice_number": "58379529",
+    "invoice_date": "05/31/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "AMD Custom Ryzen 5 Quad Core Gaming PC 4.2GHZ Computer 8GB 1TB AM4 DDR4 Vega 11",
+      "quantity": "4.00",
+      "total_price": "2 529.96"
+    },
+    {
+      "description": "W5 Pro Mini Pocket PC Windows 10 Computer Stick Intel Z8350 Quad Core",
+      "quantity": "2.00",
+      "total_price": "261.80"
+    },
+    {
+      "description": "Dell Desktop Computer 16GB 2TB HD OR 512GB SSD Quad Core i5 Windows 10 22\" LCD",
+      "quantity": "1.00",
+      "total_price": "142.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "266.79",
+    "discount": "",
+    "total": "2 934.70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

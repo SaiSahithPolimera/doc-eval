@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Wilson Group",
+    "client_address": "579 Henry Heights\nNew Dennisfurt, ND 64781",
+    "seller_name": "Valenzuela PLC",
+    "seller_address": "38618 Alejandra Forest Apt. 304\nRacheltown, AZ 11973",
+    "invoice_number": "40044178",
+    "invoice_date": "04/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NEW Sony PlayStation 4 PS4 Slim 1TB Fortnite Neo Versa Gaming Console Bundle",
+      "quantity": "1.00",
+      "total_price": "439.99"
+    },
+    {
+      "description": "Nintendo 3DS Handheld Console Hello Kitty Limited Edition Used",
+      "quantity": "5.00",
+      "total_price": "1541.27"
+    },
+    {
+      "description": "Nintendo Famicom (NES) HVC-001 Console Only Tested Work JAPAN",
+      "quantity": "2.00",
+      "total_price": "87.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "188.11",
+    "discount": "",
+    "total": "2069.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Anderson LLC",
+    "client_address": "7228 Lewis Harbor Suite 050\nEast Darrell, NV 92498",
+    "seller_name": "Underwood, Rowe and Peterson",
+    "seller_address": "564 William Forks Suite 575\nEast Johnfort, NH 40878",
+    "invoice_number": "90853270",
+    "invoice_date": "03/04/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Desktop Computer 16GB\n2TB HD OR 512GB SSD Quad\nCore i5 Windows 10 22\" LCD",
+      "quantity": "3.00",
+      "total_price": "428.83"
+    },
+    {
+      "description": "FAST Dell Windows 10 Desktop\nComputer Core 2 Duo 4GB Ram\n250GB DVD WiFi 22\" LCD",
+      "quantity": "3.00",
+      "total_price": "560.83"
+    }
+  ],
+  "subtotal": {
+    "tax": "89.97",
+    "discount": "",
+    "total": "989.67"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Baker-Dixon",
+    "client_address": "60356 Kenneth Corners\nLake Justinberg, WA 57791",
+    "seller_name": "Kim-Davenport",
+    "seller_address": "4510 Mcguire Stravenue\nJessicachaven, NV 75027",
+    "invoice_number": "10060256",
+    "invoice_date": "12/22/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Story of a Soul: The Autobiography of St. Therese of Lisieux",
+      "quantity": "2.00",
+      "total_price": "20.57"
+    },
+    {
+      "description": "Poor Charlie's Almanack The Wit and Wisdom of Charles T Munger 3rd Ed. BRAND NEW",
+      "quantity": "2.00",
+      "total_price": "142.89"
+    },
+    {
+      "description": "The Last Kings of Shanghai by Jonathan Kaufman",
+      "quantity": "5.00",
+      "total_price": "16.45"
+    },
+    {
+      "description": "That Quail Robert",
+      "quantity": "2.00",
+      "total_price": "10.76"
+    },
+    {
+      "description": "Day Trading Joe Ross New Hard cover English edition",
+      "quantity": "2.00",
+      "total_price": "275.00"
+    },
+    {
+      "description": "Our Family Tree A History of Our Family",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    },
+    {
+      "description": "A Million Little Bricks The Unofficial Illustrated History of the LE",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    }
+  ],
+  "subtotal": {
+    "tax": "45.48",
+    "discount": "",
+    "total": "500.24"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

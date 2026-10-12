@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Robinson-Osborne",
+    "client_address": "PSC 8310, Box 2699\nAPO AA 27181",
+    "seller_name": "Burch PLC",
+    "seller_address": "021 Michael Lights\nEast Emmaburgh, MI 17016",
+    "invoice_number": "60022910",
+    "invoice_date": "03/21/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "KAREN SCOTT 3X DRESS",
+      "quantity": "3.00",
+      "total_price": "19.77"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.80",
+    "discount": "",
+    "total": "19.77"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

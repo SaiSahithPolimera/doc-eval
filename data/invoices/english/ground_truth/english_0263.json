@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Kelly-Herring",
+    "client_address": "8621 Maria Fords\nNorth Miguel, KS 38601",
+    "seller_name": "Levy-Vargas",
+    "seller_address": "7333 Noble Hill Suite 584\nWest Valeriechester, AZ 99439",
+    "invoice_number": "53737787",
+    "invoice_date": "12/08/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Breaking Free from Depression: Pathways to Wellness by Jesse H. Wright (English)",
+      "quantity": "2.00",
+      "total_price": "72.47"
+    },
+    {
+      "description": "The Graphic Design Reference & Specification Book: Everything Graphic Designers",
+      "quantity": "5.00",
+      "total_price": "110.99"
+    },
+    {
+      "description": "Escape from the Carnival of Horrors (Give Yourself Goosebumps) by R. L. Stine",
+      "quantity": "4.00",
+      "total_price": "22.04"
+    }
+  ],
+  "subtotal": {
+    "tax": "18.68",
+    "discount": "",
+    "total": "205.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

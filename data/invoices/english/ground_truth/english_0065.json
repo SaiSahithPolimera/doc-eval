@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Holloway, Stanton and Dunn",
+    "client_address": "49479 James Canyon Apt. 672\nPort Stephaniehaven, AK 61071",
+    "seller_name": "Garrett, Gonzales and Hurley",
+    "seller_address": "683 Savannah Fords Apt. 092\nWest Jamesport, CT 37732",
+    "invoice_number": "20434959",
+    "invoice_date": "12/20/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wine Things Unlimited - Tipsy\nWine Elf - Pewter Wine Bottle\nStopper/Cork",
+      "quantity": "3.00",
+      "total_price": "29.67"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.70",
+    "discount": "",
+    "total": "29.67"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

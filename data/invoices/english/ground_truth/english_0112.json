@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Collins-Williams",
+    "client_address": "7227 Michael Lakes Apt. 810\nNorth Ashley, TN 15350",
+    "seller_name": "Gonzalez, Bauer and Taylor",
+    "seller_address": "200 Jackson Flat\nAnthonytown, AZ 83497",
+    "invoice_number": "24060857",
+    "invoice_date": "07/09/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Children's sports shoes\nbreathable mesh boys casual\nshoes",
+      "quantity": "1.00",
+      "total_price": "19.99"
+    },
+    {
+      "description": "KushyShoo Children Kid Rain\nBoot Shoes Rubber, Monkey,\nSize Youth 1",
+      "quantity": "3.00",
+      "total_price": "68.97"
+    },
+    {
+      "description": "Nike ZOOM KD 9 KEVIN DURANT\nYouth Women's Shoes Sneakers",
+      "quantity": "5.00",
+      "total_price": "172.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "26.14",
+    "discount": "",
+    "total": "261.41"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

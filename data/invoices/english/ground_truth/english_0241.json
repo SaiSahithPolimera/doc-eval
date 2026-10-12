@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Fernandez, Allison and Rodriguez",
+    "client_address": "3325 Betty Burgs Suite 707\nLake Kelly, NH 51667",
+    "seller_name": "Green-Snow",
+    "seller_address": "PSC 8099, Box 2962\nAPO AA 50904",
+    "invoice_number": "72024579",
+    "invoice_date": "01/25/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Refinery Wine Opener",
+      "quantity": "1,00",
+      "total_price": "11,00"
+    },
+    {
+      "description": "Wine Rack",
+      "quantity": "1,00",
+      "total_price": "9,90"
+    },
+    {
+      "description": "a pair of wine glasses drawer 1 e",
+      "quantity": "5,00",
+      "total_price": "40,15"
+    },
+    {
+      "description": "THE ORIGINAL NIB WINE-DOWN REDNEK 16 oz. WINE GLASS x2 - NR",
+      "quantity": "1,00",
+      "total_price": "16,49"
+    },
+    {
+      "description": "Wall Mounted Upside Down Wine Bottle Rack Goblet Glass Holder Storage Organizer",
+      "quantity": "1,00",
+      "total_price": "16,48"
+    },
+    {
+      "description": "HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 4 20 FL OZ (591 ml) NEW",
+      "quantity": "4,00",
+      "total_price": "57,16"
+    },
+    {
+      "description": "White Wine Brewing+(Red Wine Brewing )Active Dry Wine Yeast Alcohol 2Packs",
+      "quantity": "2,00",
+      "total_price": "28,58"
+    }
+  ],
+  "subtotal": {
+    "tax": "16,34",
+    "discount": "",
+    "total": "179,75"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB18TKKI91040829132844",
+    "payment_method": ""
+  }
+}

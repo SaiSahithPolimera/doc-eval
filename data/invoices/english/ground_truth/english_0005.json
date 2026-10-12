@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Johnson, Daniels and Ramirez",
+    "client_address": "6889 Oliver Summit\nSouth Ebony, NY 23978",
+    "seller_name": "Adams PLC",
+    "seller_address": "USS Moon\nFPO AA 34591",
+    "invoice_number": "57290992",
+    "invoice_date": "10/03/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "25\"x25\" Marble Black Top\ncustom Table Carnelian\nMarquetry Art Halloween Gift",
+      "quantity": "5,00",
+      "total_price": "15 339,50"
+    },
+    {
+      "description": "7'x4' Blue Random Marble\nDining Hallway Table Top Lapis\nLazuli Inlay Decor E947A",
+      "quantity": "3,00",
+      "total_price": "27 040,50"
+    },
+    {
+      "description": "6'x3' White Marble Dining Table\nTop Multi Inlay Floral Elephant\nArt Decor H4952",
+      "quantity": "4,00",
+      "total_price": "28 197,36"
+    }
+  ],
+  "subtotal": {
+    "tax": "6 416,12",
+    "discount": "",
+    "total": "70 577,35"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

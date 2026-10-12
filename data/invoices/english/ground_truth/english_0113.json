@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Johnson Ltd",
+    "client_address": "86731 Ryan Throughway Suite 743\nWest Jason, CT 15849",
+    "seller_name": "Padilla-Miller",
+    "seller_address": "53017 Lopez Locks\nAlecborough, OH 49620",
+    "invoice_number": "81978187",
+    "invoice_date": "01/17/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wine Bottle Holder",
+      "quantity": "5,00",
+      "total_price": "59,13"
+    },
+    {
+      "description": "Cuisinart Stainless Steel Electric\nWine Opener - CWO-25 - Brand\nNew in the Box",
+      "quantity": "3,00",
+      "total_price": "65,67"
+    }
+  ],
+  "subtotal": {
+    "tax": "11,34",
+    "discount": "",
+    "total": "124,79"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

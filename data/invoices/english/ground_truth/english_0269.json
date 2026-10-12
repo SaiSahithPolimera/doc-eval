@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Edwards-Archer",
+    "client_address": "Unit 6000 Box 9800\nDPO AA 91089",
+    "seller_name": "Duncan Ltd",
+    "seller_address": "74561 Kenneth Island\nWest Nicole, FL 31612",
+    "invoice_number": "65498230",
+    "invoice_date": "02/16/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Garden Flower Carpet Quilted\nBedroom Floor Princess Tapis\nLace Rug Carpets",
+      "quantity": "1.00",
+      "total_price": "50.05"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.55",
+    "discount": "",
+    "total": "50.05"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB04BWVQ00110029381531",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Long, Nguyen and Anderson",
+    "client_address": "5194 Foley Roads\nNorth Scott, PA 71079",
+    "seller_name": "Long LLC",
+    "seller_address": "594 Beck Drive Apt. 954\nNorth Kimberlyhaven, AL 48942",
+    "invoice_number": "59977720",
+    "invoice_date": "06/16/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Hardwood Insect Pinning Block\nContains 9 Holes with Same\nHeights for Pin",
+      "quantity": "4.00",
+      "total_price": "59.22"
+    },
+    {
+      "description": "12\" White Marble Side Coffee\nTable Top Jasper Elephant Inlay\nGarden Decor W026",
+      "quantity": "1.00",
+      "total_price": "272.56"
+    }
+  ],
+  "subtotal": {
+    "tax": "30.16",
+    "discount": "",
+    "total": "331.78"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB49QCTC10326503494714",
+    "payment_method": ""
+  }
+}

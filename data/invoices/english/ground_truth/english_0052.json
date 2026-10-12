@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Cruz, Navarro and Brown",
+    "client_address": "1646 Jim Locks\nLake Shannonburgh, OR 56427",
+    "seller_name": "Barron-Rodriguez",
+    "seller_address": "59843 David Squares Apt. 406\nPort Kevin, NC 81365",
+    "invoice_number": "22019496",
+    "invoice_date": "03/14/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Collectors Paperweights 86",
+      "quantity": "4,00",
+      "total_price": "25,26"
+    },
+    {
+      "description": "A History of Christianity Vol. 1: Beginnings to 1500 by Kenneth S. Latourette",
+      "quantity": "1,00",
+      "total_price": "4,50"
+    },
+    {
+      "description": "An Hour With Jesus",
+      "quantity": "2,00",
+      "total_price": "9,88"
+    },
+    {
+      "description": "Dr. Bob and the Good Oldtimers",
+      "quantity": "5,00",
+      "total_price": "30,86"
+    },
+    {
+      "description": "One Year through the Bible by David R. Veerman",
+      "quantity": "2,00",
+      "total_price": "9,88"
+    },
+    {
+      "description": "Theodore Boone: The Activist by John Grisham",
+      "quantity": "4,00",
+      "total_price": "19,76"
+    },
+    {
+      "description": "Photosynthesis by Rabinowitch",
+      "quantity": "5,00",
+      "total_price": "62,21"
+    }
+  ],
+  "subtotal": {
+    "tax": "14,76",
+    "discount": "",
+    "total": "162,33"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB94NVOV09121691518608",
+    "payment_method": ""
+  }
+}

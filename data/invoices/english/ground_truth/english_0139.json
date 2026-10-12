@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Moore and Sons",
+    "client_address": "18304 Valerie Row\nNorth Steve, HI 79797",
+    "seller_name": "Forbes, Young and Fisher",
+    "seller_address": "60822 Olson Crest\nNorth Andrewborough, FL 03034",
+    "invoice_number": "67851927",
+    "invoice_date": "09/22/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Garden Flower Carpet Quilted Bedroom Floor Princess Tapis Lace Rug Carpets",
+      "quantity": "1.00",
+      "total_price": "50.05"
+    },
+    {
+      "description": "Egg Bathroom Rug Carpet Area Rugs Rug Floor Mats Nordic Chic Room Decor",
+      "quantity": "1.00",
+      "total_price": "74.91"
+    },
+    {
+      "description": "Round Rug Carpets for Living Room Decor Kids Room Long Plush Rugs Bedroom Mats*",
+      "quantity": "4.00",
+      "total_price": "19.27"
+    },
+    {
+      "description": "New Candy Color Soft Anti-Skid Carpet Soft Non slip Rug Living Bedroom Floor Mat",
+      "quantity": "5.00",
+      "total_price": "65.95"
+    },
+    {
+      "description": "YILONG 1.2x1.7' 300L Tree And Birds Handmade Silk Rug Carpet Tapestry LH691A",
+      "quantity": "4.00",
+      "total_price": "827.20"
+    }
+  ],
+  "subtotal": {
+    "tax": "94.31",
+    "discount": "",
+    "total": "1037.38"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB21XGYT64179960030012",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Le, Lawson and Rios",
+    "client_address": "USS King\nFPO AE 90041",
+    "seller_name": "Rodriguez-Barnett",
+    "seller_address": "USNV Hall\nFPO AE 73643",
+    "invoice_number": "48531206",
+    "invoice_date": "08/03/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex XE2 SFF Desktop Computer W10 Pro Licensed",
+      "quantity": "3.00",
+      "total_price": "326.70"
+    },
+    {
+      "description": "Custom Gaming Desktop PC Computer - Core i5 4690, RX 470, 8GB RAM",
+      "quantity": "3.00",
+      "total_price": "1 187.97"
+    },
+    {
+      "description": "Dell Optiplex Windows 10 Pro Desktop Computer PC i5 4th Gen 3.2GHz 8GB 512SSD",
+      "quantity": "3.00",
+      "total_price": "527.97"
+    },
+    {
+      "description": "Dell Optiplex 9010 PC Computer Intel Core",
+      "quantity": "2.00",
+      "total_price": "219.78"
+    },
+    {
+      "description": "HP Windows 10 Pro Fast Desktop Computer PC | Intel 3.00 | 8GB | 1TB WIFI",
+      "quantity": "4.00",
+      "total_price": "307.78"
+    },
+    {
+      "description": "Gaming PC Desktop Computer RGB Intel i7, RTX 2060, 16GB RAM, 240GB SSD, 2TB HDD",
+      "quantity": "3.00",
+      "total_price": "2 982.54"
+    },
+    {
+      "description": "hp or Dell Desktop PC Computer Dual Core 4GB RAM DUAL 19\" LCDs WiFi Windows 10",
+      "quantity": "3.00",
+      "total_price": "593.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "558.79",
+    "discount": "",
+    "total": "6 146.70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Hines, Hickman and Johnson",
+    "client_address": "6230 Hill Turnpike Apt. 357\nDavisberg, TN 25348",
+    "seller_name": "Lambert-Gomez",
+    "seller_address": "606 Kristy Cliffs\nNew Jefferytown, GA 07818",
+    "invoice_number": "29800590",
+    "invoice_date": "08/10/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Original xbox console (Works Great, Tested)",
+      "quantity": "2.00",
+      "total_price": "83.60"
+    },
+    {
+      "description": "Sega V Saturn Victor Console RG-JX1 Gray Tested Working Japan",
+      "quantity": "3.00",
+      "total_price": "395.97"
+    },
+    {
+      "description": "Nintendo Switch 32GB Neon Red/Neon Blue Console",
+      "quantity": "1.00",
+      "total_price": "330.00"
+    },
+    {
+      "description": "Nintendo Switch Console Tablet Only Unpatched Hackable Low Serial Number",
+      "quantity": "1.00",
+      "total_price": "274.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "98.60",
+    "discount": "",
+    "total": "1084.56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB84XXYM74021956790771",
+    "payment_method": ""
+  }
+}

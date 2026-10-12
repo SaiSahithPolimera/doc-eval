@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Briggs Inc",
+    "client_address": "17347 Richardson Port Apt. 704\nNorth Heatherhaven, AZ 88060",
+    "seller_name": "Johnson LLC",
+    "seller_address": "991 Delgado Locks\nSouth Christineview, VT 35692",
+    "invoice_number": "68094256",
+    "invoice_date": "02/18/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "36 Inches Marble Meeting Table\nTop Inlay Dinning Table with\nRed Jasper Stone Art",
+      "quantity": "1.00",
+      "total_price": "1 513,87"
+    },
+    {
+      "description": "Multi Color Stones Inlay Art\nCoffee Table Top Marble Patio\nSofa Table 27 Inches",
+      "quantity": "3.00",
+      "total_price": "1 707,75"
+    }
+  ],
+  "subtotal": {
+    "tax": "292,88",
+    "discount": "",
+    "total": "3 221,63"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

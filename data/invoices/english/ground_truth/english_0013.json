@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Phillips-Moreno",
+    "client_address": "1293 Lawrence Estates Suite 940\nBesthaven, NV 23717",
+    "seller_name": "Gilmore, Brady and Carter",
+    "seller_address": "56436 Amy Dam Suite 437\nLake Rebecca, LA 78907",
+    "invoice_number": "67117171",
+    "invoice_date": "01/27/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Complete Idiots Guide to Trouble-Free Home Re",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    },
+    {
+      "description": "Aesop's Fables Aesop Illustrated By A. Rackham Sealed Leather Bound Collectible",
+      "quantity": "4.00",
+      "total_price": "152.46"
+    }
+  ],
+  "subtotal": {
+    "tax": "15.66",
+    "discount": "",
+    "total": "172.22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

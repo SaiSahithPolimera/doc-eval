@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Ward-Jordan",
+    "client_address": "8182 Hancock Street Apt. 613\nWest David, MA 55043",
+    "seller_name": "Williams-Morris",
+    "seller_address": "232 Kelly Route\nAdamsborough, TX 58099",
+    "invoice_number": "20295549",
+    "invoice_date": "11/20/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex SFF Desktop Computer Windows 10 4GB 160GB",
+      "quantity": "4.00",
+      "total_price": "395.96"
+    },
+    {
+      "description": "Lenovo C20-00...all in one desktop computer...with Wireless Mouse.....",
+      "quantity": "5.00",
+      "total_price": "1527.02"
+    },
+    {
+      "description": "Fast Dell Optiplex Desktop PC Computer Dual Core 3.4Ghz 8GB 1TB Win 10 Pro WIFI",
+      "quantity": "2.00",
+      "total_price": "477.40"
+    },
+    {
+      "description": "Fast Dell Optiplex Windows 10 Desktop Computer Tower PC Core i3 3.1GHz 4GB 320GB",
+      "quantity": "1.00",
+      "total_price": "98.95"
+    },
+    {
+      "description": "W5 Pro Mini Pocket PC Windows 10 Computer Stick Intel Z8350 Quad Core",
+      "quantity": "3.00",
+      "total_price": "392.70"
+    },
+    {
+      "description": "Fast i7 RGB Gaming Desktop PC Computer VR-Ready WiFi AAA Fortnite GTAV PUBG IG3",
+      "quantity": "5.00",
+      "total_price": "4345.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "657.91",
+    "discount": "",
+    "total": "7237.02"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Sanchez-Wilson",
+    "client_address": "027 Mark Street Suite 513\nEricmouth, OK 37355",
+    "seller_name": "Smith, Johnson and Cannon",
+    "seller_address": "689 Ashley Port Apt. 129\nHughesland, NM 96486",
+    "invoice_number": "30231187",
+    "invoice_date": "07/22/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Dangeruss Wilson Youth Flex Shoes Green Blue Sneakers Kids Size 12.5",
+      "quantity": "1.00",
+      "total_price": "21.95"
+    },
+    {
+      "description": "Joma Boys Youth Super Copa 102 Soccer Cleats 1.5 White Yellow Blue Futbol NEW",
+      "quantity": "1.00",
+      "total_price": "21.99"
+    },
+    {
+      "description": "FABULOUS Nike Boy's Kyrie 3 White Basketball Shoes Size 5.5Y 859466-103 WITH BOX",
+      "quantity": "3.00",
+      "total_price": "98.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "12.99",
+    "discount": "",
+    "total": "142.90"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

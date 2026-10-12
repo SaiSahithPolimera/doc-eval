@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Lopez Ltd",
+    "client_address": "Unit 0427 Box 2729\nDPO AA 15407",
+    "seller_name": "Austin-Mcmillan",
+    "seller_address": "Unit 4134 Box 4306\nDPO AA 51921",
+    "invoice_number": "43494216",
+    "invoice_date": "10/31/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fast Dell Optiplex Desktop PC Computer Dual Core 3.4Ghz 8GB 1TB Win 10 Pro WIFI",
+      "quantity": "1.00",
+      "total_price": "238.70"
+    },
+    {
+      "description": "Dell Optiplex 9010 PC Computer Intel Core",
+      "quantity": "1.00",
+      "total_price": "109.89"
+    },
+    {
+      "description": "gaming pc desktop computer intel i5",
+      "quantity": "5.00",
+      "total_price": "4 675.00"
+    },
+    {
+      "description": "HP Z220 Desktop Computer Barebone system",
+      "quantity": "2.00",
+      "total_price": "154.00"
+    },
+    {
+      "description": "Dell Optiplex SFF Desktop Computer Windows 10 4GB 160GB",
+      "quantity": "2.00",
+      "total_price": "197.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "488.69",
+    "discount": "",
+    "total": "5 375.57"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB76GYOC48945359271716",
+    "payment_method": ""
+  }
+}

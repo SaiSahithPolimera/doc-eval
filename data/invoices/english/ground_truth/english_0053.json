@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Taylor and Sons",
+    "client_address": "1445 Silva Trace\nNorth Susan, TX 31627",
+    "seller_name": "Mcdaniel Inc",
+    "seller_address": "980 Henry Ville\nPenaborough, VT 44420",
+    "invoice_number": "25604558",
+    "invoice_date": "03/08/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "MARC JACOBS IVORY COTTON SHORT SLEEVE BEIGE SILK OVERLAY DRESS SMALL",
+      "quantity": "3.00",
+      "total_price": "52.77"
+    },
+    {
+      "description": "Cabi 5610 Striped White Blue Launch Maxi Dress Womens Sz M",
+      "quantity": "4.00",
+      "total_price": "215.56"
+    },
+    {
+      "description": "Boden Size 8 US Green & Navy Dark Blue Belted Midi Wool Knit Sweater Fall Dress",
+      "quantity": "1.00",
+      "total_price": "38.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "27.89",
+    "discount": "",
+    "total": "306.82"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

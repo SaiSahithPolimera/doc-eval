@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Wilson-Hernandez",
+    "client_address": "5998 Stephen Squares\nMaryville, OH 19487",
+    "seller_name": "Campos LLC",
+    "seller_address": "15809 Christina Cove Apt. 190\nDanielmouth, OR 11509",
+    "invoice_number": "78605417",
+    "invoice_date": "08/07/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Pre School Kids Size 12C Jordan Jumpman Team II (PS) AQ2797-300",
+      "quantity": "3.00",
+      "total_price": "197.97"
+    },
+    {
+      "description": "Nike Air Force 1 Low 314192-117 Triple White Youth Boys Size 5Y",
+      "quantity": "3.00",
+      "total_price": "181.34"
+    },
+    {
+      "description": "Adult Girl Version Hermione Granger Cosplay Costume Gryffindor Kid size In Stock",
+      "quantity": "2.00",
+      "total_price": "141.15"
+    },
+    {
+      "description": "Adidas Baseball Youth Cleats Spikes Kids Shoes Black White Size 12K",
+      "quantity": "3.00",
+      "total_price": "39.57"
+    },
+    {
+      "description": "Harry Potter Hogwarts Adult Child Robe Cloak Halloween COS Costumes Party Xmas.",
+      "quantity": "5.00",
+      "total_price": "96.14"
+    },
+    {
+      "description": "Sperry Infant Size 6 Boat Shoes",
+      "quantity": "5.00",
+      "total_price": "5.45"
+    },
+    {
+      "description": "DC Kids Pixie 3 Sneaker (Toddler/Little Kid/Big Kid) Color WHITE/BATTLESHIP",
+      "quantity": "1.00",
+      "total_price": "60.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "65.65",
+    "discount": "",
+    "total": "722.11"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Nash, Benitez and Johnston",
+    "client_address": "USCGC Murphy\nFPO AA 28870",
+    "seller_name": "Brown, Lowery and Sandoval",
+    "seller_address": "932 Loretta Tunnel\nJerryton, AR 32574",
+    "invoice_number": "17599610",
+    "invoice_date": "10/11/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Lives of the Artists, Vol. 2",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    },
+    {
+      "description": "Haida: Their Art and Culture",
+      "quantity": "4.00",
+      "total_price": "21.52"
+    }
+  ],
+  "subtotal": {
+    "tax": "3.30",
+    "discount": "",
+    "total": "36.33"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB76EHRF92436526567449",
+    "payment_method": ""
+  }
+}

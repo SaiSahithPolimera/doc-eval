@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Parker-Fowler",
+    "client_address": "USCGC Gonzales\nFPO AP 32696",
+    "seller_name": "Padilla, Mccarthy and Gonzales",
+    "seller_address": "3157 Stephanie Court\nWest Ashleybury, OK 99405",
+    "invoice_number": "18975369",
+    "invoice_date": "05/26/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Gameboy Pocket Console Green with Box\nMGB-001 Japan Tested Working 55",
+      "quantity": "2.00",
+      "total_price": "154.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "14.00",
+    "discount": "",
+    "total": "154.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

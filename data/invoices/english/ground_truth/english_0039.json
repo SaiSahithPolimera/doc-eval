@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Morgan Ltd",
+    "client_address": "316 Alexander Run Apt. 930\nSouth Danabury, WV 35900",
+    "seller_name": "Reyes, Fox and Martinez",
+    "seller_address": "8258 Lang Trail Apt. 792\nPort Jasonhaven, NJ 07777",
+    "invoice_number": "84423800",
+    "invoice_date": "10/11/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "PUMA RS DREAMER SUPER MARIO 64 NINTENDO Little Kids US 2.5",
+      "quantity": "2.00",
+      "total_price": "275.00"
+    },
+    {
+      "description": "kid shoes",
+      "quantity": "4.00",
+      "total_price": "220.00"
+    },
+    {
+      "description": "Newborn Infant Baby Girl Boy Kid Winter Warm Coat Knit Outwear Hooded Jumpsuit",
+      "quantity": "5.00",
+      "total_price": "124.80"
+    },
+    {
+      "description": "5 YOUTH Boys Big Kids Nike Jordan 6-17-23 Basketball White red Black 428818 100",
+      "quantity": "3.00",
+      "total_price": "296.97"
+    },
+    {
+      "description": "PUMA Boys Youth Universal FG Jr Soccer Cleats 5 White High Risk Red Black 5Y",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "93.34",
+    "discount": "",
+    "total": "1026.71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB06YQKI12270767261206",
+    "payment_method": ""
+  }
+}

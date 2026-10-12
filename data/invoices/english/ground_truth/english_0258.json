@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Quinn-Campos",
+    "client_address": "90271 Nathaniel Square Apt. 059\nEast Tonyaville, WV 90098",
+    "seller_name": "Robles, Carroll and Pittman",
+    "seller_address": "429 Bethany Shore Apt. 216\nMcdonaldshire, NH 35870",
+    "invoice_number": "32483210",
+    "invoice_date": "11/29/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "LuLaRoe Nicole Dress Size Large 25",
+      "quantity": "1.00",
+      "total_price": "2.19"
+    },
+    {
+      "description": "Old Navy Womens Sleeveless Rayon Dress Hawaiian Floral Print Size XS",
+      "quantity": "4.00",
+      "total_price": "52.80"
+    },
+    {
+      "description": "Banana Republic Maroon Abstract ruffled wrap Dress With slip xs 0",
+      "quantity": "4.00",
+      "total_price": "22.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "7.00",
+    "discount": "",
+    "total": "76.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

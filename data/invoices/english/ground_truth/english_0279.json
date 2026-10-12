@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Navarro Inc",
+    "client_address": "262 Smith View Suite 482\nPort Christian, AK 57824",
+    "seller_name": "Shah, Parsons and Shea",
+    "seller_address": "7139 Sharp Circle Suite 168\nNorth Robertmouth, ND 43505",
+    "invoice_number": "50405163",
+    "invoice_date": "04/16/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Gameboy Pocket Console Green with Box MGB-001 Japan Tested Working 55",
+      "quantity": "4.00",
+      "total_price": "308.00"
+    },
+    {
+      "description": "L442 Nintendo Gamecube Official Console Orange Japan GC w/Controller adapter",
+      "quantity": "5.00",
+      "total_price": "384.94"
+    },
+    {
+      "description": "Playstation 2 Slim console white SCPH-90000 boxed Japan PS2 System",
+      "quantity": "5.00",
+      "total_price": "1094.50"
+    },
+    {
+      "description": "Original Nintendo Gaming Console with Robot, 9 games & extras",
+      "quantity": "1.00",
+      "total_price": "522.50"
+    },
+    {
+      "description": "Nintendo Switch Lite Console 32gb Coral/Pink",
+      "quantity": "3.00",
+      "total_price": "755.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "278.69",
+    "discount": "",
+    "total": "3065.64"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

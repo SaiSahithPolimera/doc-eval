@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Harris-Barrera",
+    "client_address": "72930 Benjamin Forge\nTerrimouth, VA 11648",
+    "seller_name": "Smith, Blackburn and Barton",
+    "seller_address": "527 Gamble Field\nLake Susan, MN 36957",
+    "invoice_number": "50712639",
+    "invoice_date": "01/10/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "foamposite Size 6c",
+      "quantity": "4,00",
+      "total_price": "98,56"
+    },
+    {
+      "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 4\nWhite Red Futbol NEW",
+      "quantity": "5,00",
+      "total_price": "109,94"
+    }
+  ],
+  "subtotal": {
+    "tax": "18,95",
+    "discount": "",
+    "total": "208,50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

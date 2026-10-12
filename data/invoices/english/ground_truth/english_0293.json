@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Walker PLC",
+    "client_address": "7089 Lopez Rapids\nPort Jeremyville, AK 76472",
+    "seller_name": "Rivas PLC",
+    "seller_address": "86762 Stephanie Dam\nSouth Haley, SC 48238",
+    "invoice_number": "51661013",
+    "invoice_date": "05/11/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "J.Crew Collection Black & White\nsweater Dress sz S",
+      "quantity": "5.00",
+      "total_price": "165.00"
+    },
+    {
+      "description": "WD NY BLACK & OFF WHITE\nDRESS SIZE 8 Button Front",
+      "quantity": "3.00",
+      "total_price": "33.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "18.00",
+    "discount": "",
+    "total": "198.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

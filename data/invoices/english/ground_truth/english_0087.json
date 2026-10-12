@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Nelson PLC",
+    "client_address": "484 Lisa Pine\nNorth Jenniferstad, MT 51984",
+    "seller_name": "Gonzalez LLC",
+    "seller_address": "244 Nicholas Bypass\nBennettshire, ID 07883",
+    "invoice_number": "80489404",
+    "invoice_date": "12/21/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "New Fully Automatic Red Wine Bottle Opener Electric Red Wine Opener Corkscrew",
+      "quantity": "1.00",
+      "total_price": "28.59"
+    },
+    {
+      "description": "38/40/42/44mm Silicone Sport iWatch Band Strap for Apple Watch Series 6 5 4 3 SE",
+      "quantity": "2.00",
+      "total_price": "8.10"
+    },
+    {
+      "description": "Vintage Crystal Red Wine Glasses NOS West Germany 1983 6 10 ounce elegant stems",
+      "quantity": "4.00",
+      "total_price": "155.98"
+    },
+    {
+      "description": "Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver",
+      "quantity": "2.00",
+      "total_price": "43.96"
+    },
+    {
+      "description": "QcoQce Wine Bottle Opener",
+      "quantity": "4.00",
+      "total_price": "132.00"
+    },
+    {
+      "description": "9.5 Inch Dinosaur Bones Wine Bottle Holder",
+      "quantity": "2.00",
+      "total_price": "52.80"
+    },
+    {
+      "description": "Wine Rack",
+      "quantity": "5.00",
+      "total_price": "49.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "42.81",
+    "discount": "",
+    "total": "470.92"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB43OYPG18782157635961",
+    "payment_method": ""
+  }
+}

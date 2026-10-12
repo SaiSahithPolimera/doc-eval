@@ -1,0 +1,103 @@
+Invoice no: 73285932
+Date of issue:
+07/25/2017
+Seller:
+Client:
+Merritt, Williams and Young
+Olson, Cisneros and Moore
+6801 Frank Run
+80943 Beck Divide
+West Mary, IN 06055
+Wadeport, IA 90419
+Tax Id: 963-86-7453
+Tax Id: 901-73-0142
+IBAN: GB16HUWQ31434229260013
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Bcbgeneration Black Sleeveless
+2,00
+each
+2,99
+5,98
+10%
+6,58
+Lace Back Cut Out Dress Sz 2
+2.
+2pcs baby boys clothes cotton
+5,00
+each
+10,99
+54,95
+10%
+60,45
+hoodied top+pants baby boys
+Outfits gentleman
+3.
+NWT $1200 J.Crew Silk Chiffon
+1,00
+each
+295,00
+295,00
+10%
+324,50
+Ivory Wedding Dress with
+Beading
+4.
+Shein Blue And White Striped
+5,00
+each
+8,00
+40,00
+10%
+44,00
+Wrap Dress
+5.
+Guess Dress Size 6
+2,00
+each
+20,00
+40,00
+10%
+44,00
+6.
+CLIFFORD & WILLS BLACK
+5,00
+each
+5,99
+29,95
+10%
+32,95
+NET/MESH OVER TAUPE LONG
+DRESS SIZE 4
+7.
+Matilda Jane Women's Light
+3,00
+each
+50,00
+150,00
+10%
+165,00
+Rising High Low Green Floral
+Dress Size L Pockets
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+615,88
+61,59
+677,47
+Total
+$ 615,88
+$ 61,59
+$ 677,47

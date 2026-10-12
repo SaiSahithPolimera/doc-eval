@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Hansen-Barrett",
+    "client_address": "6512 Jones Forge\nPort Douglas, WY 20794",
+    "seller_name": "Carter-Carroll",
+    "seller_address": "54629 Eric Roads Suite 667\nLake Curtis, MD 41803",
+    "invoice_number": "48844293",
+    "invoice_date": "10/31/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Magnavox Odyssey 2 Microprocessor Console System w Joy Sticks & 15 Games - 1978",
+      "quantity": "5.00",
+      "total_price": "852.50"
+    },
+    {
+      "description": "Sony PlayStation 2 Fat Console PS2 SCPH-30001",
+      "quantity": "1.00",
+      "total_price": "88.00"
+    },
+    {
+      "description": "Microsoft Xbox Series X 1TB Video Game Console - Black, Preorder Confirm PRESALE",
+      "quantity": "3.00",
+      "total_price": "2 408.93"
+    },
+    {
+      "description": "Nintendo 3DS LL super famicom Edition Japan Limited Console Game USED ER",
+      "quantity": "1.00",
+      "total_price": "296.88"
+    },
+    {
+      "description": "Sony PlayStation 3 PS3 CECH-2501A Slim 150GB Black Console TESTED",
+      "quantity": "5.00",
+      "total_price": "659.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "391.48",
+    "discount": "",
+    "total": "4 306.26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

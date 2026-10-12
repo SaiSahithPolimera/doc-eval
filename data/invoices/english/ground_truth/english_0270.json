@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "King Inc",
+    "client_address": "78997 Brent Court\nJonesland, ΜΑ 32167",
+    "seller_name": "Wagner, Jensen and Key",
+    "seller_address": "2023 Morgan Islands\nLake Jenniferland, IL 67123",
+    "invoice_number": "91296589",
+    "invoice_date": "09/04/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Moroccan Amazigh Handmade Carpet 14'2\" x 7'5\"",
+      "quantity": "4,00",
+      "total_price": "1 504,80"
+    },
+    {
+      "description": "Chindi Rugs Carpet New Design\nBohemian Garden Yoga Mat\nIndian Kilim Counterpane",
+      "quantity": "5,00",
+      "total_price": "164,94"
+    }
+  ],
+  "subtotal": {
+    "tax": "151,80",
+    "discount": "",
+    "total": "1 669,75"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

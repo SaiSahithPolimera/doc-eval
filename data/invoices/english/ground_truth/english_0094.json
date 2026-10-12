@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Espinoza LLC",
+    "client_address": "7698 Davis Freeway\nRachelport, CO 79421",
+    "seller_name": "Mckenzie, Clay and Campos",
+    "seller_address": "76099 Bryan View Suite 318\nGregoryberg, NM 46284",
+    "invoice_number": "77658002",
+    "invoice_date": "01/21/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Divided Black Asymmetrical Dress -size 8 - NWT",
+      "quantity": "1.00",
+      "total_price": "8.79"
+    },
+    {
+      "description": "Eileen Fisher Women's Long Sleeve Fleece Lined Front Pockets Dress XS Gray",
+      "quantity": "4.00",
+      "total_price": "70.36"
+    },
+    {
+      "description": "db Yellow Link Print Fit and Flare Sleeveless Dress Sz M/L",
+      "quantity": "3.00",
+      "total_price": "49.47"
+    },
+    {
+      "description": "womens sparkle dress size 2X Holiday Party RED metallic",
+      "quantity": "5.00",
+      "total_price": "54.95"
+    },
+    {
+      "description": "Lands End Womens 3/4 Sleeve Dress Plus 3X Navy Blue Floral Cotton Knit 482038",
+      "quantity": "4.00",
+      "total_price": "93.41"
+    },
+    {
+      "description": "Liza Byrd Dress Sz L- Coral Green Medallion Print Short Sleeve 100% Cotton Line",
+      "quantity": "2.00",
+      "total_price": "39.58"
+    },
+    {
+      "description": "CLIFFORD & WILLS BLACK NET/MESH OVER TAUPE LONG DRESS SIZE 4",
+      "quantity": "1.00",
+      "total_price": "6.59"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.38",
+    "discount": "",
+    "total": "323.14"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

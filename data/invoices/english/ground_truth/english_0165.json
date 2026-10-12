@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Brown Ltd",
+    "client_address": "5208 Elizabeth Rapids Suite 596\nLake Cliffordchester, DC 82996",
+    "seller_name": "Skinner-Molina",
+    "seller_address": "PSC 6999, Box 6622\nAPO AE 40057",
+    "invoice_number": "82786776",
+    "invoice_date": "09/26/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Air Precision High-Top\nBasketball White/Black Shoes\nBoy's Size 7.5",
+      "quantity": "1.00",
+      "total_price": "5.49"
+    },
+    {
+      "description": "Joma Youth Boy Supercopa 201\nSoccer Cleats 4.5 Negro Verde\nMultitaco Black Green",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "Durango Lil' Little Kid Western\nCasual Western Purple Boys -\nSize 2 M",
+      "quantity": "1.00",
+      "total_price": "74.80"
+    },
+    {
+      "description": "SEVENTEEN Semicolon Special\nAlbum [Photocard / Digi Pack\nCover / Mini Card]",
+      "quantity": "3.00",
+      "total_price": "16.47"
+    }
+  ],
+  "subtotal": {
+    "tax": "14.79",
+    "discount": "",
+    "total": "162.72"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Sanchez, Miller and Mitchell",
+    "client_address": "36708 Dawn Roads Apt. 402\nNew Kennethview, RI 40298",
+    "seller_name": "Vega Inc",
+    "seller_address": "08135 Meyer Walk\nWilsonport, OR 74032",
+    "invoice_number": "81149702",
+    "invoice_date": "02/05/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "6 Pairs Of Jordan's Size 7y",
+      "quantity": "2.00",
+      "total_price": "286.00"
+    },
+    {
+      "description": "Little Boys Size 2 Son Of Mars Jordan",
+      "quantity": "2.00",
+      "total_price": "41.80"
+    },
+    {
+      "description": "Timberland Women's/Junior's Premium 6\" Navy Waterproof Boots 3793A",
+      "quantity": "2.00",
+      "total_price": "175.98"
+    },
+    {
+      "description": "New KID CUDI \"WZRD\" Rap Hip Hop Soul Music Men's Black T-Shirt Size S to 3XL",
+      "quantity": "5.00",
+      "total_price": "123.69"
+    },
+    {
+      "description": "5 YOUTH Boys Big Kids Nike Jordan 6-17-23 Basketball White red Black 428818 100",
+      "quantity": "3.00",
+      "total_price": "296.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "84.04",
+    "discount": "",
+    "total": "924.44"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

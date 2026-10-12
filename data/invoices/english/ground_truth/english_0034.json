@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Shepard, Garcia and Summers",
+    "client_address": "83872 Neal Villages Apt. 420\nMoodyport, DE 12787",
+    "seller_name": "Gonzales-Hart",
+    "seller_address": "4245 Owens Roads Apt. 890\nRiverahaven, AK 40128",
+    "invoice_number": "12408005",
+    "invoice_date": "08/08/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Matilda Jane Womans Lets Go Together Black Knit Dress Size M Medium NWT",
+      "quantity": "5.00",
+      "total_price": "107.80"
+    },
+    {
+      "description": "Liza Byrd Dress Sz L- Coral Green Medallion Print Short Sleeve 100% Cotton Line",
+      "quantity": "4.00",
+      "total_price": "79.16"
+    }
+  ],
+  "subtotal": {
+    "tax": "17.00",
+    "discount": "",
+    "total": "186.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Bryant-Taylor",
+    "client_address": "075 Gary Union Suite 231\nNew Lindsayberg, WY 10457",
+    "seller_name": "James PLC",
+    "seller_address": "452 Michelle Branch\nAaronberg, UT 13177",
+    "invoice_number": "93219493",
+    "invoice_date": "05/16/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Microsoft Xbox 360 Console 49\nGame Bundle 250GB Black",
+      "quantity": "3.00",
+      "total_price": "82.50"
+    },
+    {
+      "description": "N64 Nintendo System Console\nLot Bundle W/ 2 Games 1\nController Tested Working",
+      "quantity": "4.00",
+      "total_price": "422.36"
+    },
+    {
+      "description": "Nintendo Switch Lite Turquoise\nBlue CONSOLE ONLY - No\nCharger [B4-1]",
+      "quantity": "2.00",
+      "total_price": "286.00"
+    },
+    {
+      "description": "SEGA Dreamcast White Console\n[Japan Import] HKT-3000",
+      "quantity": "4.00",
+      "total_price": "409.20"
+    },
+    {
+      "description": "B451 Nintendo DSi console Pink\nJapan NDS x",
+      "quantity": "5.00",
+      "total_price": "54.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "114.09",
+    "discount": "",
+    "total": "1255.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Russell-Cruz",
+    "client_address": "USNV Olson\nFPO AP 50747",
+    "seller_name": "Smith, Johnson and Ramsey",
+    "seller_address": "3581 Ruben Gateway Suite 160\nNew Kayla, NH 28229",
+    "invoice_number": "12459784",
+    "invoice_date": "08/19/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Great One: The Complete Wayne Gretzky Collection",
+      "quantity": "4.00",
+      "total_price": "21.52"
+    },
+    {
+      "description": "return to virgin river by robyn carr",
+      "quantity": "4.00",
+      "total_price": "13.16"
+    },
+    {
+      "description": "Michael Jackson: A Life in Music (Paperback or Softback)",
+      "quantity": "2.00",
+      "total_price": "27.13"
+    },
+    {
+      "description": "Luke s Fate Star Wars",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    },
+    {
+      "description": "Little Women by Louisa May Alcott Illustrated Brand New Collectible Hardcover",
+      "quantity": "5.00",
+      "total_price": "81.23"
+    },
+    {
+      "description": "The Blooding by Joseph Wambaugh",
+      "quantity": "1.00",
+      "total_price": "4.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "14.80",
+    "discount": "",
+    "total": "162.79"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

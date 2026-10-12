@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Nixon Ltd",
+    "client_address": "7253 Weiss Loop Suite 364\nMitchellshire, IN 22217",
+    "seller_name": "Fisher LLC",
+    "seller_address": "8622 Jennifer Keys\nLake Felicia, DE 72619",
+    "invoice_number": "37066060",
+    "invoice_date": "05/07/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Super Nintendo SNES System Console SNS-001 with 2 Controllers Cleaned And Tested",
+      "quantity": "2.00",
+      "total_price": "329.98"
+    },
+    {
+      "description": "Nintendo 64 console complete in box with extra controller",
+      "quantity": "4.00",
+      "total_price": "1099.96"
+    },
+    {
+      "description": "HUGE Sony PlayStation 3 Console Lot w/ 30 Games! System Bundle PS3",
+      "quantity": "1.00",
+      "total_price": "329.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "159.99",
+    "discount": "",
+    "total": "1759.88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

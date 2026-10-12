@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Goodman, Rogers and Williams",
+    "client_address": "9027 Velez River\nWest Ginamouth, NJ 71857",
+    "seller_name": "Smith-Strickland",
+    "seller_address": "Unit 2720 Box 0088\nDPO AE 58579",
+    "invoice_number": "94772624",
+    "invoice_date": "03/01/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "3 Ikea Stainless Steel 4-bottle\nWine Rack 300.557.60 - great\ncondition gift it!",
+      "quantity": "2.00",
+      "total_price": "55.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "5.00",
+    "discount": "",
+    "total": "55.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Johnson, Newman and Nelson",
+    "client_address": "20195 Lisa Island\nSouth Rebeccatown, OR 94663",
+    "seller_name": "Stone, Fernandez and Swanson",
+    "seller_address": "6995 Hunter Place Apt. 926\nNorth Alexander, ME 80117",
+    "invoice_number": "88628178",
+    "invoice_date": "07/18/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Desktop Computer AMD\nSempron LE1250 No HDD No OS",
+      "quantity": "5.00",
+      "total_price": "54.95"
+    },
+    {
+      "description": "HP Z220 Desktop Computer\nBarebone system",
+      "quantity": "3.00",
+      "total_price": "231.00"
+    },
+    {
+      "description": "Dell Desktop Computer Tower\nOptiplex Core i5 8GB 1TB HD\nDVD Wifi Windows 10 Pro",
+      "quantity": "1.00",
+      "total_price": "186.95"
+    },
+    {
+      "description": "Custom Gaming Desktop PC\nComputer - Core i5 4690, RX\n470, 8GB RAM",
+      "quantity": "3.00",
+      "total_price": "1187.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "150.99",
+    "discount": "",
+    "total": "1660.86"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

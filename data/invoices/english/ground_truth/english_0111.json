@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Thompson, Terry and Johnson",
+    "client_address": "47851 Michael Rapids Suite 469\nScottbury, MS 96580",
+    "seller_name": "Parker, Khan and Parker",
+    "seller_address": "2487 Todd Green Suite 559\nJacktown, UT 04354",
+    "invoice_number": "35312696",
+    "invoice_date": "05/11/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Liza Byrd Dress Sz L- Coral Green Medallion Print Short Sleeve 100% Cotton Line",
+      "quantity": "2.00",
+      "total_price": "39.58"
+    },
+    {
+      "description": "Bcbgeneration Black Sleeveless Lace Back Cut Out Dress Sz 2",
+      "quantity": "1.00",
+      "total_price": "3.29"
+    },
+    {
+      "description": "Tommy Bahama Women's V Neck Linen Floral Dress Size M Beige Short Sleeve Tan",
+      "quantity": "2.00",
+      "total_price": "76.98"
+    },
+    {
+      "description": "Lands End Womens 3/4 Sleeve Dress Plus 3X Navy Blue Floral Cotton Knit 482038",
+      "quantity": "5.00",
+      "total_price": "116.77"
+    },
+    {
+      "description": "Fashion Sexy Backless Tight-fitting Halter Dress Cocktail Party Weeding Elegant",
+      "quantity": "2.00",
+      "total_price": "19.36"
+    },
+    {
+      "description": "Lumiere Large Multicolored Orange Short Dress NWT",
+      "quantity": "2.00",
+      "total_price": "10.98"
+    },
+    {
+      "description": "SCOTT MCCINTOCK SIZE 12 BLACK PARTY DRESS WITH SPARKLIND TOP",
+      "quantity": "2.00",
+      "total_price": "55.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.27",
+    "discount": "",
+    "total": "321.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB24PPHX39330226937268",
+    "payment_method": ""
+  }
+}

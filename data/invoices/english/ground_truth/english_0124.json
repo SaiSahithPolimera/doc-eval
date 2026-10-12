@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Sheppard Ltd",
+    "client_address": "65570 Daniel Pike Apt. 160\nHernandezhaven, NY 51451",
+    "seller_name": "Johnson-Mcdonald",
+    "seller_address": "07648 Kerr Parks\nNew Robin, TX 97193",
+    "invoice_number": "29998351",
+    "invoice_date": "12/21/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "4'x6' Wool Floral Handmade Rugs Carpet Moroccan Pastel Color Living Room Navajo",
+      "quantity": "3,00",
+      "total_price": "986,70"
+    },
+    {
+      "description": "YILONG 4'x6' Golden Handmade Carpet House Decor Hand Knotted Silk Rugs 088B",
+      "quantity": "4,00",
+      "total_price": "15 840,00"
+    },
+    {
+      "description": "Fluffy Floor Mat Anti-Skid Shaggy Area Rugs Dining Living Room Carpet Home Decor",
+      "quantity": "3,00",
+      "total_price": "12,84"
+    },
+    {
+      "description": "Home Christmas Santa Claus Anti-slip Room Floor Mat Decor Carpet Rug Xmas Decor",
+      "quantity": "4,00",
+      "total_price": "57,60"
+    },
+    {
+      "description": "Rug Area Hand Knotted Wool Oriental Carpet Vintage Geometric Traditional Handmad",
+      "quantity": "3,00",
+      "total_price": "1 353,00"
+    },
+    {
+      "description": "Striped Contemporary Gabbeh Kashkoli Oriental Area Rug Handmade Wool Carpet 6x8",
+      "quantity": "4,00",
+      "total_price": "1 835,86"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 826,00",
+    "discount": "",
+    "total": "20 085,99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB03WLPW04938114706004",
+    "payment_method": ""
+  }
+}

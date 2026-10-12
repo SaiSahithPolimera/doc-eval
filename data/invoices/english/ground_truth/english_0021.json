@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Garcia-Perkins",
+    "client_address": "897 Gonzalez Junction Apt. 934\nJesseburgh, MN 12053",
+    "seller_name": "Potts, Pittman and Beck",
+    "seller_address": "USNV Stone\nFPO AE 65337",
+    "invoice_number": "65123866",
+    "invoice_date": "11/20/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz",
+      "quantity": "1.00",
+      "total_price": "3.63"
+    },
+    {
+      "description": "The World of Van Gogh from Time Life Library of Art",
+      "quantity": "4.00",
+      "total_price": "65.87"
+    },
+    {
+      "description": "Principles of Virology, 2 Volume Set (ASM Books)",
+      "quantity": "5.00",
+      "total_price": "670.45"
+    },
+    {
+      "description": "A boy who grew up eating nightmare It's Okay to Not Be Okay Picturebook",
+      "quantity": "3.00",
+      "total_price": "64.35"
+    },
+    {
+      "description": "The Value Of Time",
+      "quantity": "5.00",
+      "total_price": "97.52"
+    },
+    {
+      "description": "The Home Stretch",
+      "quantity": "2.00",
+      "total_price": "11.84"
+    }
+  ],
+  "subtotal": {
+    "tax": "83.06",
+    "discount": "",
+    "total": "913.65"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

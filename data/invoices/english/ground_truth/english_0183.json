@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Powell-Floyd",
+    "client_address": "1956 Adams Island Apt. 000\nWheelerside, KY 77866",
+    "seller_name": "Fitzgerald Group",
+    "seller_address": "65165 Mark Vista Suite 750\nKaylaberg, IA 50008",
+    "invoice_number": "54661411",
+    "invoice_date": "07/29/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Bohemia Style Round Morocco Area Rug Tassel Carpet Mat Floor Blanket Room Decor",
+      "quantity": "3.00",
+      "total_price": "154.74"
+    },
+    {
+      "description": "Color Skull Series Small Large Long Floor Carpet Area Rugs Various Size Soft Rug",
+      "quantity": "3.00",
+      "total_price": "119.79"
+    },
+    {
+      "description": "3D Swirl Print Optical Illusion Area Rug Carpet Floor Pad Non-slip Doormat Mats",
+      "quantity": "1.00",
+      "total_price": "13.16"
+    },
+    {
+      "description": "Rug Area Hand Knotted Wool Oriental Carpet Vintage Geometric Traditional Handmad",
+      "quantity": "3.00",
+      "total_price": "1 353.00"
+    },
+    {
+      "description": "YILONG 1.2x1.7' 300L Tree And Birds Handmade Silk Rug Carpet Tapestry LH691A",
+      "quantity": "3.00",
+      "total_price": "620.40"
+    },
+    {
+      "description": "Indian Green Red Color 2.6'x4' Carpet Hand Knotted Living Room Traditional Chobi",
+      "quantity": "3.00",
+      "total_price": "709.50"
+    },
+    {
+      "description": "Yilong 3'x5' Blue HandKnotted Silk Area Rug Antistatic Home Decor Carpet 975B",
+      "quantity": "5.00",
+      "total_price": "4 950.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "720.05",
+    "discount": "",
+    "total": "7 920.58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

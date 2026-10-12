@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Black-Jackson",
+    "client_address": "3674 Graham Cliff Suite 842\nEast Brandonport, HI 46902",
+    "seller_name": "Schneider, Aguirre and Dennis",
+    "seller_address": "0670 Mccann Knoll Suite 220\nPhylliston, NC 68045",
+    "invoice_number": "20591219",
+    "invoice_date": "01/12/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Fall of Berlin 1945 by Antony Beevor",
+      "quantity": "5.00",
+      "total_price": "24.70"
+    },
+    {
+      "description": "CCNA 200-301 50 GB AUG 2020 Cisco Video/Official Books/Exam Dumps/Licences",
+      "quantity": "3.00",
+      "total_price": "6.57"
+    },
+    {
+      "description": "Art History Portables Book 6 by Michael W. Cothren and Marilyn Stokstad 5th edtn",
+      "quantity": "2.00",
+      "total_price": "57.20"
+    },
+    {
+      "description": "Admission Assessment Exam Review 4th Edition by HESI (P.Đ.F)",
+      "quantity": "5.00",
+      "total_price": "13.75"
+    },
+    {
+      "description": "Game of Thrones: The Poster Collection (Paperback or Softback)",
+      "quantity": "4.00",
+      "total_price": "91.83"
+    },
+    {
+      "description": "CS Forester' Hornblower Saga 11 Books Series Collection Set - BRAND NEW",
+      "quantity": "3.00",
+      "total_price": "560.83"
+    },
+    {
+      "description": "Rebecca to the Rescue (American Girl (Quality))",
+      "quantity": "3.00",
+      "total_price": "16.14"
+    }
+  ],
+  "subtotal": {
+    "tax": "70.09",
+    "discount": "",
+    "total": "771.01"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

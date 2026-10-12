@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Ray, Hurst and Cruz",
+    "client_address": "042 Taylor Extensions Apt. 218\nNorth Rachelstad, NC 44120",
+    "seller_name": "Poole-Boyle",
+    "seller_address": "040 Jones Stravenue\nAyalaside, AR 62889",
+    "invoice_number": "77015917",
+    "invoice_date": "12/21/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "King Arthur And His Knights\nNew Sealed Illustrated Leather\nBound Gift Hardback",
+      "quantity": "5,00",
+      "total_price": "109.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.99",
+    "discount": "",
+    "total": "109.94"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB85JRSP66679190512842",
+    "payment_method": ""
+  }
+}

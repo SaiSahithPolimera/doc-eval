@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Becker LLC",
+    "client_address": "892 Thomas Loaf Suite 430\nSouth Jeffrey, TN 64104",
+    "seller_name": "Obrien Inc",
+    "seller_address": "90335 Rodriguez Ford\nLake Jennifer, SD 67536",
+    "invoice_number": "32357396",
+    "invoice_date": "04/19/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "18\" Marble White Top Chess Table Handmade Collectible Black Friday Gift Décor",
+      "quantity": "3,00",
+      "total_price": "1 851,30"
+    },
+    {
+      "description": "Antique Vintage style hand carved table *Unique*",
+      "quantity": "3,00",
+      "total_price": "42 900,00"
+    },
+    {
+      "description": "Multi Color Stones Inlay Art Coffee Table Top Marble Patio Sofa Table 27 Inches",
+      "quantity": "3,00",
+      "total_price": "1 707,75"
+    },
+    {
+      "description": "25\"x25\" White Marble Top Counter Table Carnelian Marquetry Art Columbus Day Gift",
+      "quantity": "5,00",
+      "total_price": "15 004,00"
+    },
+    {
+      "description": "18\" White Marble Corner Coffee Table Top Lapis Floral Inlay Kitchen Decors W282",
+      "quantity": "3,00",
+      "total_price": "1 315,51"
+    }
+  ],
+  "subtotal": {
+    "tax": "5 707,14",
+    "discount": "",
+    "total": "62 778,56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB17RTUC13119295890169",
+    "payment_method": ""
+  }
+}

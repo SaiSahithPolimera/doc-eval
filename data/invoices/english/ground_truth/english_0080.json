@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Fisher, Gonzalez and Garcia",
+    "client_address": "939 Solomon Stream\nMikeside, OK 42819",
+    "seller_name": "Davis-Shepherd",
+    "seller_address": "776 Alison Inlet\nLake Marissa, PA 96579",
+    "invoice_number": "18670724",
+    "invoice_date": "02/02/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "B351 Nintendo new 3DS console\nWhite Japan w/stylus pen",
+      "quantity": "3.00",
+      "total_price": "263.97"
+    },
+    {
+      "description": "SONY Playstation2 Console\nSCPH-50000 \" Peal Color \" /\nTESTED 11177",
+      "quantity": "3.00",
+      "total_price": "198.00"
+    },
+    {
+      "description": "PS2 SAKURA PINK Console\nSystem Boxed SCPH-50000\nTested Japan",
+      "quantity": "4.00",
+      "total_price": "730.40"
+    },
+    {
+      "description": "HUGE Sony PlayStation 3\nConsole Lot w/ 30 Games!\nSystem Bundle PS3",
+      "quantity": "2.00",
+      "total_price": "659.89"
+    },
+    {
+      "description": "Nintendo Gameboy Original\nConsole Gray with Box Manual\nDMB-01 Japan Tested 67",
+      "quantity": "1.00",
+      "total_price": "154.00"
+    },
+    {
+      "description": "Nintendo 3DS Handheld Console\nPurple",
+      "quantity": "4.00",
+      "total_price": "435.56"
+    }
+  ],
+  "subtotal": {
+    "tax": "221.98",
+    "discount": "",
+    "total": "2441.81"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

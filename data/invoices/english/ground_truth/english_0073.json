@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Mcintyre, Becker and Moore",
+    "client_address": "4441 Wise Keys\nSkinnermouth, SC 35784",
+    "seller_name": "Aguilar-Thompson",
+    "seller_address": "8038 Silva Trace Suite 635\nValeriemouth, WV 14566",
+    "invoice_number": "46915335",
+    "invoice_date": "07/08/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wine Bottle Holder From Costa Rica Has A Parrot Painted On It",
+      "quantity": "4.00",
+      "total_price": "22.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.00",
+    "discount": "",
+    "total": "22.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

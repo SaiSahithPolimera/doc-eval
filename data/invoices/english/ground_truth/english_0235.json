@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Williams LLC",
+    "client_address": "6920 Barron Estate Apt. 933\nKristenport, MO 04650",
+    "seller_name": "Hurst Ltd",
+    "seller_address": "Unit 7560 Box 5577\nDPO AE 32442",
+    "invoice_number": "71490900",
+    "invoice_date": "11/01/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "FAST Dell Windows 10 Desktop Computer Core 2 Duo 4GB Ram 250GB DVD WiFi 22\" LCD",
+      "quantity": "5,00",
+      "total_price": "934,73"
+    },
+    {
+      "description": "HP Desktop Computer PC Core i5 16GB 2TB HD 256GB SSD 22\" LCD Windows 10",
+      "quantity": "5,00",
+      "total_price": "769,73"
+    }
+  ],
+  "subtotal": {
+    "tax": "154,95",
+    "discount": "",
+    "total": "1 704,45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB89QTJX03185589252892",
+    "payment_method": ""
+  }
+}

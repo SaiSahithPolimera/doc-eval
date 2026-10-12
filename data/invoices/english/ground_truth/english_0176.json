@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Brown-Taylor",
+    "client_address": "397 Kathryn Dale Suite 540\nWest Tinamouth, MD 72150",
+    "seller_name": "Henderson Group",
+    "seller_address": "905 Matthew Drives Apt. 923\nWest Hannah, NM 66222",
+    "invoice_number": "22393723",
+    "invoice_date": "05/22/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NEW Oak Barrel Wooden Barrel for Storage Aging Wine Whiskey Spirits Wine Barrel",
+      "quantity": "4.00",
+      "total_price": "122.76"
+    },
+    {
+      "description": "New Never Used CROFTON CHEFS COLLECTION WINE COOLING STICK IN PACKAGE",
+      "quantity": "1.00",
+      "total_price": "3.30"
+    },
+    {
+      "description": "NEW 6 Pcs Rabbit Wine Opener Set With Accessories Tools Gift Box #A16",
+      "quantity": "5.00",
+      "total_price": "109.73"
+    }
+  ],
+  "subtotal": {
+    "tax": "21.44",
+    "discount": "",
+    "total": "235.79"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

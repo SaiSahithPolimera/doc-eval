@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Hamilton Ltd",
+    "client_address": "9899 Bryan Springs\nClarkshire, AR 57184",
+    "seller_name": "Hodge-Stokes",
+    "seller_address": "405 Christensen Loop\nBrownbury, OH 52221",
+    "invoice_number": "17290430",
+    "invoice_date": "05/27/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Abstract Blue Gray Gradient Bedside Area Rugs Bedroom Decor Carpets Non-Slip Mat",
+      "quantity": "5,00",
+      "total_price": "203,39"
+    },
+    {
+      "description": "Yilong 5'x7.3' Hand Knotted Silk Rug Home Decor Traditional Raindrop Carpet 1549",
+      "quantity": "4,00",
+      "total_price": "12 320,00"
+    },
+    {
+      "description": "Romantic Rose Flowers Area Rugs Kitchen Living Room Floor Mat Non-slip Carpets",
+      "quantity": "1,00",
+      "total_price": "14,71"
+    },
+    {
+      "description": "Checkered Gabbeh Kashkoli Oriental Area Rug Contemporary Hand-knotted 6x8 Carpet",
+      "quantity": "5,00",
+      "total_price": "2 294,82"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 348,45",
+    "discount": "",
+    "total": "14 832,92"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

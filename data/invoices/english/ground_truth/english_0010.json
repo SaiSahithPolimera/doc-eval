@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Allen, Murray and Carroll",
+    "client_address": "87328 Arnold Crossroad Suite 206\nSouth Amy, MS 29781",
+    "seller_name": "Bishop, Kelley and Wright",
+    "seller_address": "058 Sullivan Village\nNorth Isabella, ND 69747",
+    "invoice_number": "72591450",
+    "invoice_date": "05/13/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex Desktop Computer\nwith Dual 19\" LCD Monitors\nWindows 10 Pro",
+      "quantity": "5,00",
+      "total_price": "824,73"
+    },
+    {
+      "description": "Fast Dell Optiplex Windows 10\nPro Desktop Computer Dual\nCore 6GB 160GB DVD WIFI",
+      "quantity": "3,00",
+      "total_price": "395,84"
+    },
+    {
+      "description": "HP ProDesk 400 G5 Mini\nDesktop Computer i5-9500T\n8GB 256GB SSD W10P",
+      "quantity": "5,00",
+      "total_price": "1 102,75"
+    },
+    {
+      "description": "custom gaming computer",
+      "quantity": "2,00",
+      "total_price": "990,00"
+    },
+    {
+      "description": "FAST Dell Optiplex Windows 10\nDesktop Computer Tower C2D\n4GB DVD WiFi 17\" LCD",
+      "quantity": "3,00",
+      "total_price": "412,34"
+    },
+    {
+      "description": "AMD Dual Core 3.9Ghz 4GB\nDDR3 500GB WiFi Windows 10\noffice Desktop PC Computer",
+      "quantity": "3,00",
+      "total_price": "824,97"
+    },
+    {
+      "description": "Custom Build Dell Optiplex 9020\nMT i5-4570 3.20GHz Desktop\nComputer PC",
+      "quantity": "3,00",
+      "total_price": "732,57"
+    }
+  ],
+  "subtotal": {
+    "tax": "480,29",
+    "discount": "",
+    "total": "5 283,18"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

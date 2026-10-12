@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Alexander-Arias",
+    "client_address": "63947 Erin Parkway Apt. 073\nGuzmanshire, NY 08857",
+    "seller_name": "Cruz-Carter",
+    "seller_address": "11251 Braun Square\nNorth Alejandro, UT 73496",
+    "invoice_number": "35593328",
+    "invoice_date": "06/08/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "hp all in one desktop computer touch screen",
+      "quantity": "4.00",
+      "total_price": "902.00"
+    },
+    {
+      "description": "W5 Pro Mini Pocket PC Windows 10 Computer Stick Intel Z8350 Quad Core",
+      "quantity": "3.00",
+      "total_price": "392.70"
+    },
+    {
+      "description": "Gaming PC Desktop Computer HDMI RGB Intel i7 RTX 2060, HDD+SSD, Windows 10, Wifi",
+      "quantity": "1.00",
+      "total_price": "1099.45"
+    },
+    {
+      "description": "Lenovo C20-00... all in one desktop computer...with Wireless Mouse.....",
+      "quantity": "2.00",
+      "total_price": "610.81"
+    }
+  ],
+  "subtotal": {
+    "tax": "273.18",
+    "discount": "",
+    "total": "3004.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

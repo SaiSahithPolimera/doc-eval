@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Leonard LLC",
+    "client_address": "7313 Roberts Extensions\nLake Kevin, ID 16074",
+    "seller_name": "King Inc",
+    "seller_address": "6996 Martin Inlet Suite 129\nSouth Bonnie, ND 88035",
+    "invoice_number": "89876179",
+    "invoice_date": "04/14/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "DESIGNER MICHAEL KORS\nDRESS SIZE S",
+      "quantity": "4,00",
+      "total_price": "88,00"
+    },
+    {
+      "description": "Lily Pulitzer Beach Fit & Flare\nDress 8 New",
+      "quantity": "2,00",
+      "total_price": "149,60"
+    }
+  ],
+  "subtotal": {
+    "tax": "21,60",
+    "discount": "",
+    "total": "237,60"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

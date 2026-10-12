@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Spears-Wilson",
+    "client_address": "652 Vanessa Prairie\nLake Danielleborough, KY 14802",
+    "seller_name": "Cook and Sons",
+    "seller_address": "71766 Dustin Port\nLake Janetfort, PA 32173",
+    "invoice_number": "35963820",
+    "invoice_date": "07/22/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "A History of Christianity Vol. 1: Beginnings to 1500 by Kenneth S. Latourette",
+      "quantity": "4.00",
+      "total_price": "18.00"
+    },
+    {
+      "description": "Beloved by Toni Morrison",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    },
+    {
+      "description": "The Great One: The Complete Wayne Gretzky Collection",
+      "quantity": "3.00",
+      "total_price": "16.14"
+    },
+    {
+      "description": "Nightmares in the Sky: Gargoyles and Grotesques",
+      "quantity": "5.00",
+      "total_price": "41.25"
+    },
+    {
+      "description": "The Fortune of War (Aubrey / Maturin) by Patrick OBrian",
+      "quantity": "5.00",
+      "total_price": "24.70"
+    },
+    {
+      "description": "Die with Zero by Bill Perkins (P'.Đ,'F, 2020)",
+      "quantity": "4.00",
+      "total_price": "15.36"
+    },
+    {
+      "description": "Against All Odds: The Untold Story of Canada's Unlikely Hockey Heroes",
+      "quantity": "5.00",
+      "total_price": "24.26"
+    }
+  ],
+  "subtotal": {
+    "tax": "14.50",
+    "discount": "",
+    "total": "159.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

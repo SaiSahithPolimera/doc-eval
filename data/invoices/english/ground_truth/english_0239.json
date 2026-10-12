@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Williams, Yang and Jackson",
+    "client_address": "8088 Fowler Port\nEast Carltown, WV 38653",
+    "seller_name": "Peterson LLC",
+    "seller_address": "714 Michael Ports\nGarciafurt, IN 00967",
+    "invoice_number": "23385207",
+    "invoice_date": "06/23/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "SONY Playstation2 Console\nSCPH-39000 \"Aqua Color \" /\nTESTED 11179",
+      "quantity": "4.00",
+      "total_price": "264.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "24.00",
+    "discount": "",
+    "total": "264.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

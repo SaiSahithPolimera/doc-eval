@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Morrison, Stewart and Graham",
+    "client_address": "51370 Thompson Oval Suite 431\nBeckerburgh, ME 77062",
+    "seller_name": "Mason-Beltran",
+    "seller_address": "5622 Erik Knolls\nNew Kristafurt, MT 51436",
+    "invoice_number": "61819195",
+    "invoice_date": "08/28/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Sing My Way Home: Voices of\nthe New American Roots",
+      "quantity": "2.00",
+      "total_price": "12.34"
+    },
+    {
+      "description": "Goodnight from London: A\nNovel",
+      "quantity": "5.00",
+      "total_price": "24.70"
+    },
+    {
+      "description": "The WORLD of ART Time Life\nBooks~CompleteSet of 24 +\nAmerican Modern Art",
+      "quantity": "5.00",
+      "total_price": "275.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "28.37",
+    "discount": "",
+    "total": "312.04"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

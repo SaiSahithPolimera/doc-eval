@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Alvarado-Patel",
+    "client_address": "222 Harris Club\nSusanchester, MA 97802",
+    "seller_name": "Swanson, Garza and Snyder",
+    "seller_address": "04920 Brianna Motorway Suite 351\nSusanton, NJ 27596",
+    "invoice_number": "11724045",
+    "invoice_date": "04/09/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Hippie 3D Starry Sky Carpet\nChild Play Area Rug Kids Room\nCarpets Mat Home Decor",
+      "quantity": "5.00",
+      "total_price": "64.29"
+    },
+    {
+      "description": "Deluxe Soft Faux Sheepskin\nShaggy Area Floor Rugs Kids\nPlay Carpet",
+      "quantity": "4.00",
+      "total_price": "61.69"
+    },
+    {
+      "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+      "quantity": "2.00",
+      "total_price": "57.44"
+    },
+    {
+      "description": "51.2x31.5in Area Rugs Road\nTraffic Baby Crawling Carpet\nBlanket Floor Mat",
+      "quantity": "1.00",
+      "total_price": "47.07"
+    },
+    {
+      "description": "Silky Fake Fur Fluffy Carpets\nNon-slip Shaggy Area Rug Floor\nMat Light Pink",
+      "quantity": "1.00",
+      "total_price": "15.53"
+    },
+    {
+      "description": "6'8 x 5' Handwoven Afghan\nKilim Wool Area Rug Kelim Tapis\nOriental Carpet #4434",
+      "quantity": "3.00",
+      "total_price": "854.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "100.07",
+    "discount": "",
+    "total": "1100.73"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

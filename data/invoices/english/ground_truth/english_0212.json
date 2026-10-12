@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Smith, Hebert and Smith",
+    "client_address": "7860 Tiffany Drive\nNorth Andrewview, CT 50988",
+    "seller_name": "Short-Dixon",
+    "seller_address": "697 Carla Parks Apt. 401\nTurnerfort, WA 66552",
+    "invoice_number": "38173030",
+    "invoice_date": "12/17/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Yilong 5'x7.5' Hand Knotted Silk Area Rug Medium Size Classic Floor Carpets 0186",
+      "quantity": "2.00",
+      "total_price": "6160.00"
+    },
+    {
+      "description": "3pcs Faux Fur Seat Pads 30cm Round Cushions Fleece Floor Carpets Decorative",
+      "quantity": "3.00",
+      "total_price": "48.38"
+    }
+  ],
+  "subtotal": {
+    "tax": "564.40",
+    "discount": "",
+    "total": "6208.38"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB44UVRX06742416736608",
+    "payment_method": ""
+  }
+}

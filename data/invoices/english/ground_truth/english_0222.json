@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Boyle-Bowman",
+    "client_address": "6907 Allison Mills Suite 764\nPort Vincentburgh, WA 33848",
+    "seller_name": "Jones-Morris",
+    "seller_address": "PSC 8576, Box 8170\nAPO AP 48218",
+    "invoice_number": "18001647",
+    "invoice_date": "03/21/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Black House: A Novel by Stephen King, Peter Straub",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    },
+    {
+      "description": "A Million Little Bricks The Unofficial Illustrated History of the LE",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "3.59",
+    "discount": "",
+    "total": "39.51"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

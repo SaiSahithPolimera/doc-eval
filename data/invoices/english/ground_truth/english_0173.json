@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Foster-Nelson",
+    "client_address": "13818 Melinda Ramp\nSamuelmouth, NV 13900",
+    "seller_name": "Thompson, Jackson and Ware",
+    "seller_address": "544 Foley Keys\nPort Adrian, NE 50962",
+    "invoice_number": "29515593",
+    "invoice_date": "03/21/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "(2) stacking Metal 8 Wine bottle holder Storage Rack, 8 bottles counter Display",
+      "quantity": "3.00",
+      "total_price": "56.07"
+    },
+    {
+      "description": "Wine Bottle Opener Corkscrew Set RED 5 pc Stopper Pourer Foil Cutter Bottle",
+      "quantity": "4.00",
+      "total_price": "38.06"
+    },
+    {
+      "description": "Waterford Elegance Chardonnay Wine Glass, Pair - 40001097 New In Box",
+      "quantity": "4.00",
+      "total_price": "87.91"
+    },
+    {
+      "description": "USB Charging Bar Home Pumps Wine Opener Bottles Electric Automatic Kitchen Tool",
+      "quantity": "1.00",
+      "total_price": "38.80"
+    },
+    {
+      "description": "Wine Glasses - set of 6",
+      "quantity": "3.00",
+      "total_price": "33.00"
+    },
+    {
+      "description": "Set of 2 Stemless Christmas Wine Glasses NEW",
+      "quantity": "4.00",
+      "total_price": "52.80"
+    },
+    {
+      "description": "Wine Bottle Holder",
+      "quantity": "2.00",
+      "total_price": "23.65"
+    }
+  ],
+  "subtotal": {
+    "tax": "30.03",
+    "discount": "",
+    "total": "330.29"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB54QNHU33327112150795",
+    "payment_method": ""
+  }
+}

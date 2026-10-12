@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Ellis Group",
+    "client_address": "4257 Joseph Crossing\nNew Natasha, WV 95056",
+    "seller_name": "Banks Group",
+    "seller_address": "1109 Newton Ville\nGilesborough, DC 08319",
+    "invoice_number": "95163776",
+    "invoice_date": "07/10/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "CLEARANCE! Fast Dell Desktop Computer PC DUAL CORE WINDOWS 10 4/8/16GB RAM",
+      "quantity": "3.00",
+      "total_price": "689.70"
+    },
+    {
+      "description": "HP T520 Thin Client Computer AMD GX-212JC 1.2GHz 4GB RAM TESTED !!READ BELOW!!",
+      "quantity": "1.00",
+      "total_price": "41.53"
+    }
+  ],
+  "subtotal": {
+    "tax": "66.48",
+    "discount": "",
+    "total": "731.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

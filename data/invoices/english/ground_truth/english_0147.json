@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Ray, Evans and Davis",
+    "client_address": "USNS Graves\nFPO AP 68014",
+    "seller_name": "Gentry-Villarreal",
+    "seller_address": "9869 Evans River Apt. 348\nBarbaraburgh, MN 78518",
+    "invoice_number": "39772830",
+    "invoice_date": "03/30/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gold Framework on Broken Marble Living Room and Bedroom Area Rugs Carpet CNK2406",
+      "quantity": "1.00",
+      "total_price": "27.49"
+    },
+    {
+      "description": "Soft Sheepskin Mat Faux Fur Fake Rug Shaggy Non Slip Floor Carpet Black",
+      "quantity": "1.00",
+      "total_price": "10.82"
+    },
+    {
+      "description": "YILONG 1.2x1.7' 300L Handmade Tree of Life Silk Carpet Home Tapestry LH693A",
+      "quantity": "3.00",
+      "total_price": "620.40"
+    },
+    {
+      "description": "Indian Rectangular Beautifully Made Chindi Rag Rug Floor Carpet Ethnic Mat",
+      "quantity": "5.00",
+      "total_price": "164.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "74.88",
+    "discount": "",
+    "total": "823.66"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

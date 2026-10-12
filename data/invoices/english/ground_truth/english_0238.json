@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Meyer, Lambert and Smith",
+    "client_address": "94070 Durham Orchard Suite 505\nWest Kyleburgh, VA 36158",
+    "seller_name": "Fisher PLC",
+    "seller_address": "985 Barnes Street Suite 193\nEast Laura, OH 47472",
+    "invoice_number": "85765662",
+    "invoice_date": "04/22/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Bobby Fischer s Chess Games",
+      "quantity": "5.00",
+      "total_price": "74.41"
+    },
+    {
+      "description": "Dutch Cooking (The Netherlands Cookbook) by Heleen A. M. Halverhout Book The",
+      "quantity": "1.00",
+      "total_price": "13.89"
+    },
+    {
+      "description": "Philadelphia Museum of Art: Handbook of the Collec",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.82",
+    "discount": "",
+    "total": "108.06"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

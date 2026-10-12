@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Romero Inc",
+    "client_address": "3498 Margaret Shores\nNoahtown, WA 89768",
+    "seller_name": "Davis, Thomas and Larson",
+    "seller_address": "6943 Long Street Suite 644\nEast Jennifer, WV 57076",
+    "invoice_number": "69875170",
+    "invoice_date": "07/18/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Antique Vintage style hand carved table *Unique*",
+      "quantity": "5,00",
+      "total_price": "71 500,00"
+    },
+    {
+      "description": "Floral two seater fabric sofa",
+      "quantity": "2,00",
+      "total_price": "437,80"
+    },
+    {
+      "description": "6'x3' White Marble Living Room Dining Table Top Marquetry Inlay Furniture H4743A",
+      "quantity": "3,00",
+      "total_price": "18 447,69"
+    },
+    {
+      "description": "6'x3' Black Marble Top Dining Table Scagliola Inlay Antique Arts Kitchen Decor",
+      "quantity": "4,00",
+      "total_price": "23 170,27"
+    },
+    {
+      "description": "7'x4' Buy Marble Dining Table With Black Top Marquetry Inlay Hallway Decor E944",
+      "quantity": "5,00",
+      "total_price": "80 965,94"
+    }
+  ],
+  "subtotal": {
+    "tax": "17 683,79",
+    "discount": "",
+    "total": "194 521,70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

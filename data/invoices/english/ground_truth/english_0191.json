@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Jones, Anderson and Santana",
+    "client_address": "86752 Brenda Port Apt. 664\nHollyfort, WY 05948",
+    "seller_name": "Webb-Oconnor",
+    "seller_address": "596 Traci Harbor\nEast Alexis, CT 62389",
+    "invoice_number": "27166082",
+    "invoice_date": "09/29/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Faux Fur Star Heart Bedroom Mat Non Slip Shaggy Area Rug Fluffy Floor Carpet Rug",
+      "quantity": "4.00",
+      "total_price": "245.34"
+    },
+    {
+      "description": "Yilong 5'x7.5' Hand Knotted Silk Area Rug Medium Size Classic Floor Carpets 0186",
+      "quantity": "3.00",
+      "total_price": "9240.00"
+    },
+    {
+      "description": "3D Starry sky Carpet Child Play Area Rug Kids Room Carpets Mat for Living Room",
+      "quantity": "4.00",
+      "total_price": "51.44"
+    },
+    {
+      "description": "Yilong 2'x3' Traditional Handmade Silk Area Rugs Kid Friendly Floor Carpet 356B",
+      "quantity": "4.00",
+      "total_price": "5280.00"
+    },
+    {
+      "description": "Rectangle Faux Fur Sheepskin Rug Fluffy Area Rug Floor Carpets Dark Pink",
+      "quantity": "4.00",
+      "total_price": "131.78"
+    },
+    {
+      "description": "6'8 x 5' Handwoven Afghan Kilim Wool Area Rug Kelim Tapis Oriental Carpet #4434",
+      "quantity": "3.00",
+      "total_price": "854.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "1436.66",
+    "discount": "",
+    "total": "15803.26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

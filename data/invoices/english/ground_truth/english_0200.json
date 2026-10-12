@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Davis-Greene",
+    "client_address": "7492 Chelsea Groves\nWest Lisa, CA 36745",
+    "seller_name": "Brooks Inc",
+    "seller_address": "61527 Bass Glen Apt. 650\nEast Brian, NH 49547",
+    "invoice_number": "54329016",
+    "invoice_date": "01/18/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+      "quantity": "2.00",
+      "total_price": "239.90"
+    },
+    {
+      "description": "Intel core i7 Geforce GTX1060 Super Game Gamer Master Gaming Desktop Computer PC",
+      "quantity": "1.00",
+      "total_price": "689.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "92.99",
+    "discount": "",
+    "total": "1022.88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

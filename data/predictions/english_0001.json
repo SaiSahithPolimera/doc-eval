@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Williams, Schneider and Gomez",
+    "client_address": "588 Morales Rapids, East Zacharyville, IA 99376",
+    "seller_name": "Scott-Howard",
+    "seller_address": "45558 Davis Mountains, East Katherineton, MT  53545",
+    "invoice_number": "37451664",
+    "invoice_date": "06/11/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "PUMA Boys Youth Universal FG 2,00 each",
+      "quantity": "2,00",
+      "total_price": "39,98"
+    },
+    {
+      "description": "Jr Soccer Cleats 2.5 White High Red NEW Futbol",
+      "quantity": "",
+      "total_price": ""
+    },
+    {
+      "description": "Lotto Youth Boys Fuerzapura 5,00 each",
+      "quantity": "5,00",
+      "total_price": "99,95"
+    },
+    {
+      "description": "L500 Jr Soccer Cleats Size 2.5 White Blue M6147 2.5Y",
+      "quantity": "",
+      "total_price": ""
+    }
+  ],
+  "subtotal": {
+    "tax": "13,99",
+    "discount": "",
+    "total": "153,92"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "GB31KIAV64209378666800",
+    "account_number": "GB31KIAV64209378666800",
+    "payment_method": ""
+  }
+}

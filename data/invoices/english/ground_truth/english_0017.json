@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Watson-Blanchard",
+    "client_address": "PSC 0164, Box 7355\nAPO AA 37205",
+    "seller_name": "Lyons Inc",
+    "seller_address": "64411 Taylor Cape\nCarrollview, RI 87544",
+    "invoice_number": "25210895",
+    "invoice_date": "05/14/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "LuLaRoe Nicole Dress Size Large 25",
+      "quantity": "3.00",
+      "total_price": "6.57"
+    },
+    {
+      "description": "Escada Long Black Dress SZ 40\n100% Silk Lining",
+      "quantity": "1.00",
+      "total_price": "82.49"
+    }
+  ],
+  "subtotal": {
+    "tax": "8.10",
+    "discount": "",
+    "total": "89.06"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

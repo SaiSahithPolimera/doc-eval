@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Pierce Inc",
+    "client_address": "461 Matthew Via Apt. 391\nLake Troyview, MA 07142",
+    "seller_name": "Cook Ltd",
+    "seller_address": "2101 Meyer Plaza\nNorth Karen, LA 39773",
+    "invoice_number": "97388190",
+    "invoice_date": "12/13/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex 760 Windows 10\nProfessional Desktop Computer\n4GB 160GB DVD",
+      "quantity": "3,00",
+      "total_price": "329.84"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.99",
+    "discount": "",
+    "total": "329,84"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

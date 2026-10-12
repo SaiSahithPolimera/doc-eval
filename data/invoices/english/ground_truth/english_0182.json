@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Manning, Parker and Fleming",
+    "client_address": "9975 Leon Villages Apt. 845\nGonzalezberg, VA 02610",
+    "seller_name": "Hernandez, English and Yoder",
+    "seller_address": "2132 Jordan Circle Suite 033\nSouth Caseyton, SD 47553",
+    "invoice_number": "73459321",
+    "invoice_date": "11/19/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Jordan 10 Retro Fusion Red Size 6Y",
+      "quantity": "3.00",
+      "total_price": "198.00"
+    },
+    {
+      "description": "KushyShoo Children Kid Rain Boot Shoes Rubber, Monkey, Size Youth 1",
+      "quantity": "3.00",
+      "total_price": "75.87"
+    },
+    {
+      "description": "Lego Star Wars Minifigures Stormtrooper Darth Vader Yoda Obi Van Mandalorian New",
+      "quantity": "2.00",
+      "total_price": "6.56"
+    },
+    {
+      "description": "Kids Jordan 7 Retro Sz 2y",
+      "quantity": "1.00",
+      "total_price": "79.20"
+    },
+    {
+      "description": "crewcuts shoes",
+      "quantity": "2.00",
+      "total_price": "26.40"
+    },
+    {
+      "description": "Stacy Adams 43373-221 Kids 2M Classic Cognac Oxford",
+      "quantity": "2.00",
+      "total_price": "54.27"
+    },
+    {
+      "description": "Nike Oncore High Jr 6.0 (Kids) Size 4Y Black, Red, White",
+      "quantity": "2.00",
+      "total_price": "55.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "45.03",
+    "discount": "",
+    "total": "495.30"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

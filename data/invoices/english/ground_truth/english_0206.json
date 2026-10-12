@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Curtis-Wiggins",
+    "client_address": "080 Palmer Field\nNew Traci, WA 03606",
+    "seller_name": "Small Inc",
+    "seller_address": "920 Sarah Village\nNorth Yolanda, PA 13045",
+    "invoice_number": "47486295",
+    "invoice_date": "05/24/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Day Trading Joe Ross New Hard cover English edition",
+      "quantity": "5,00",
+      "total_price": "687,50"
+    },
+    {
+      "description": "A TIME FOR MERCY by John Grisham",
+      "quantity": "3,00",
+      "total_price": "8,88"
+    },
+    {
+      "description": "That Quail Robert",
+      "quantity": "2,00",
+      "total_price": "10,76"
+    },
+    {
+      "description": "Beverley Nichols: A Life by Bryan Connon 2005 Hardcover New",
+      "quantity": "3,00",
+      "total_price": "118,64"
+    },
+    {
+      "description": "Pictures From a Distant Country: Seeing America Through Old Paper Money",
+      "quantity": "2,00",
+      "total_price": "30,45"
+    },
+    {
+      "description": "Introduction to Thematic Cartography",
+      "quantity": "3,00",
+      "total_price": "29,67"
+    },
+    {
+      "description": "Rebecca to the Rescue (American Girl (Quality))",
+      "quantity": "4,00",
+      "total_price": "21,52"
+    }
+  ],
+  "subtotal": {
+    "tax": "82,49",
+    "discount": "",
+    "total": "907,40"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB21QKNQ69324663047136",
+    "payment_method": ""
+  }
+}

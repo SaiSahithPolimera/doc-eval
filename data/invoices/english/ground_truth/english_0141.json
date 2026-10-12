@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Santos PLC",
+    "client_address": "8610 Chandler Ridge\nKatherinefurt, ND 73081",
+    "seller_name": "Harris-Thomas",
+    "seller_address": "068 Sara Island Apt. 608\nNorth Jasonberg, AZ 77627",
+    "invoice_number": "32762320",
+    "invoice_date": "12/04/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gold Band Wine Glasses Clear glass round stems 2 12 ounce elegant stems",
+      "quantity": "1.00",
+      "total_price": "2.19"
+    },
+    {
+      "description": "Hoodie Wine Bottle Holder",
+      "quantity": "2.00",
+      "total_price": "25.72"
+    },
+    {
+      "description": "1Pc Wine Glass Holder Beautiful Goblet Storage Cup Draining Rack (Black)",
+      "quantity": "1.00",
+      "total_price": "19.20"
+    },
+    {
+      "description": "3 Ikea Stainless Steel 4-bottle Wine Rack 300.557.60 - great condition gift it!",
+      "quantity": "3.00",
+      "total_price": "82.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "11.78",
+    "discount": "",
+    "total": "129.60"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

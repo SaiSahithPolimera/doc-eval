@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Palmer, Chan and Salazar",
+    "client_address": "492 Turner Mountains\nJesushaven, NC 39447",
+    "seller_name": "Johnson, Buckley and Terry",
+    "seller_address": "Unit 5000 Box 4525\nDPO AP 19517",
+    "invoice_number": "58051696",
+    "invoice_date": "11/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Care & Repair of Furniture",
+      "quantity": "1.00",
+      "total_price": "4.68"
+    },
+    {
+      "description": "Lot of 3 - Major Genealogical Record Sources LDS Mormon UK - Welsh Patronymics",
+      "quantity": "1.00",
+      "total_price": "8.75"
+    },
+    {
+      "description": "The Fifty Greatest Conspiracies of All Time History s Biggest Myster",
+      "quantity": "1.00",
+      "total_price": "4.94"
+    },
+    {
+      "description": "The Elf on the Shelf: A Christmas Tradition",
+      "quantity": "4.00",
+      "total_price": "35.60"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.91",
+    "discount": "",
+    "total": "53.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB25SPFW99639143077581",
+    "payment_method": ""
+  }
+}

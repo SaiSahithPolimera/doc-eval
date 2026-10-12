@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Rivera, Cruz and Lane",
+    "client_address": "2837 Farley Key Apt. 148\nLuisfurt, NV 02906",
+    "seller_name": "Franklin, Wilson and Moore",
+    "seller_address": "16386 Connie Village\nWest Vanessa, FL 19084",
+    "invoice_number": "23436462",
+    "invoice_date": "03/06/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "15\"x15\" White Marble Chess Top Table Carnelian Inlay Art Black Friday Gift Deco",
+      "quantity": "4,00",
+      "total_price": "2 640,00"
+    },
+    {
+      "description": "18\" White Marble Corner Coffee Table Top Lapis Floral Inlay Kitchen Decors W282",
+      "quantity": "2,00",
+      "total_price": "877,01"
+    },
+    {
+      "description": "6'x3' Marble Dining Center Table Marquetry Inlay Italian Mosaic Patio Arts H3112",
+      "quantity": "2,00",
+      "total_price": "14 624,74"
+    },
+    {
+      "description": "25 Inches Black Marble Center Table Top with Multi Stones Coffee Table for Home",
+      "quantity": "5,00",
+      "total_price": "4 021,87"
+    },
+    {
+      "description": "12\" Marble Coffee Side Table Top Lapis Peacock Floral Inlay Bedroom Decors W019",
+      "quantity": "2,00",
+      "total_price": "547,32"
+    },
+    {
+      "description": "12\" White Marble Side Coffee Table Top Jasper Elephant Inlay Garden Decor W026",
+      "quantity": "5,00",
+      "total_price": "1 362,79"
+    },
+    {
+      "description": "48 Inch Marble Restaurant Table Inlay with Lapis Lazuli Stone Dinning Table Top",
+      "quantity": "5,00",
+      "total_price": "14 806,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "3 534,52",
+    "discount": "",
+    "total": "38 879,73"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

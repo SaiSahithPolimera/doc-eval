@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Sanchez, Watson and Turner",
+    "client_address": "954 Curtis Spring\nMorrisonstad, IL 82766",
+    "seller_name": "Anderson Ltd",
+    "seller_address": "96089 Walsh Views\nNorth Jamesside, FL 28958",
+    "invoice_number": "45279263",
+    "invoice_date": "02/18/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Harry Potter and the Chamber of Secrets (Book 2) by Rowling, J. K. Paperback The",
+      "quantity": "3.00",
+      "total_price": "25.15"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.29",
+    "discount": "",
+    "total": "25.15"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Chang, Moore and Faulkner",
+    "client_address": "9736 Warren Landing Suite 496\nPort Jacob, NM 04357",
+    "seller_name": "Marshall-Mullins",
+    "seller_address": "7958 Jack Parkway Suite 399\nEast Kaitlyn, MD 40443",
+    "invoice_number": "13891625",
+    "invoice_date": "10/14/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Custom Built Gaming Computer",
+      "quantity": "4,00",
+      "total_price": "957,00"
+    },
+    {
+      "description": "Dell Desktop Computer PC Core i5 3.1GHz 8GB RAM 500GB HD Wifi DVD Windows 10",
+      "quantity": "5,00",
+      "total_price": "687,23"
+    },
+    {
+      "description": "Computer Desktop Gaming i5 Ram 16 G",
+      "quantity": "5,00",
+      "total_price": "1 732,50"
+    },
+    {
+      "description": "NEW RGB Quad Core Gaming PC Desktop Computer 4.2 GHz 500 8GB RAM WIN 10 WIFI",
+      "quantity": "3,00",
+      "total_price": "989,97"
+    },
+    {
+      "description": "Dell Optiplex Desktop Computer PC Quad Core i5 16GB 1TB HD Wifi Windows 10 Pro",
+      "quantity": "5,00",
+      "total_price": "934,73"
+    },
+    {
+      "description": "Custom Build HP Desktop Computer 16GB | 2TB | SSD | Windows 10 Windows 7 PC WiFi",
+      "quantity": "5,00",
+      "total_price": "1 809,50"
+    },
+    {
+      "description": "HP Compaq 6200 Pro SFF Desktop Computer Pentium Windows 10 System 500GB 1TB",
+      "quantity": "5,00",
+      "total_price": "626,78"
+    }
+  ],
+  "subtotal": {
+    "tax": "703,43",
+    "discount": "",
+    "total": "7 737,70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

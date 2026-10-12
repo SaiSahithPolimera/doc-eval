@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Dennis, Levy and Bowen",
+    "client_address": "523 Leslie Manors\nLake Colleenville, CT 12053",
+    "seller_name": "Torres and Sons",
+    "seller_address": "4052 Brown Roads\nHaysstad, NJ 06418",
+    "invoice_number": "68688408",
+    "invoice_date": "03/20/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike 747998-401 Team Hustle D7 Kids Blue Mid Top Basketball Shoes Size 4Y US",
+      "quantity": "3.00",
+      "total_price": "36.27"
+    },
+    {
+      "description": "Jordan Nike Kid Air 1 Retro High Black Gray Elephant Size 7Y 838850-013",
+      "quantity": "1.00",
+      "total_price": "55.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "8.30",
+    "discount": "",
+    "total": "91.27"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

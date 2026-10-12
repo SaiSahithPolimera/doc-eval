@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Thompson-Wright",
+    "client_address": "813 Heather Square Apt. 393\nLisamouth, MA 10654",
+    "seller_name": "Ryan LLC",
+    "seller_address": "58848 Cindy Squares\nReevesview, HI 53812",
+    "invoice_number": "13026595",
+    "invoice_date": "01/26/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "FAST Dell Windows 10 Desktop Computer Core 2 Duo 4GB Ram 250GB DVD WiFi 22\" LCD",
+      "quantity": "1.00",
+      "total_price": "186.95"
+    },
+    {
+      "description": "Gaming PC Desktop Computer RGB Intel i7 GTX 1650, 16GB RAM, 2TB HDD, 240GB SSD",
+      "quantity": "4.00",
+      "total_price": "3035.96"
+    },
+    {
+      "description": "gaming computer",
+      "quantity": "5.00",
+      "total_price": "3410.00"
+    },
+    {
+      "description": "Desktop Computer Gaming PC Build Your Own Ryzen 3000G 3200G 3.5Ghz+ Vega or GTX",
+      "quantity": "1.00",
+      "total_price": "636.90"
+    }
+  ],
+  "subtotal": {
+    "tax": "660.89",
+    "discount": "",
+    "total": "7269.80"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

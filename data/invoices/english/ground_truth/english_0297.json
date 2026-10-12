@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Burns-Watts",
+    "client_address": "328 Flynn Ford Apt. 165\nPort Sara, NJ 14253",
+    "seller_name": "Sanchez, Richards and James",
+    "seller_address": "959 Gabriel Course\nClarkshire, ME 64877",
+    "invoice_number": "83642064",
+    "invoice_date": "10/17/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Gameboy Original Console Gray with Box Manual DMB-01 Japan Tested 67",
+      "quantity": "4.00",
+      "total_price": "616.00"
+    },
+    {
+      "description": "Nintendo 64 game console unit / controllers / games used untested",
+      "quantity": "4.00",
+      "total_price": "175.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "72.00",
+    "discount": "",
+    "total": "791.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

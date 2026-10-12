@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Garcia Ltd",
+    "client_address": "576 Duncan Prairie\nMoodyland, KS 74247",
+    "seller_name": "Ellis-Thomas",
+    "seller_address": "0992 Melinda Summit Suite 839\nWest Bryanstad, VA 84954",
+    "invoice_number": "61809225",
+    "invoice_date": "10/24/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "6'x3' Random Marble Dining Table Top Lapis Pietra Dura Inlay Decorative Art E947",
+      "quantity": "1.00",
+      "total_price": "5709.09"
+    },
+    {
+      "description": "18\"x18\" Marble White Top Counter Table Lapis Inlay Floral Art Halloween Gift Art",
+      "quantity": "4.00",
+      "total_price": "4800.00"
+    },
+    {
+      "description": "12\" White Marble Coffee Table Top Lapis Turquoise Floral Inlay Home Decors W538",
+      "quantity": "1.00",
+      "total_price": "295.73"
+    },
+    {
+      "description": "24\" Marble White Coffee Top Table Inlay Lapis Stone Furniture Indoor Decor W045",
+      "quantity": "4.00",
+      "total_price": "3672.68"
+    },
+    {
+      "description": "Nugget Play Couch - Dew Drop",
+      "quantity": "3.00",
+      "total_price": "1650.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "1612.75",
+    "discount": "",
+    "total": "17740.25"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB27BDBO32996705847308",
+    "payment_method": ""
+  }
+}

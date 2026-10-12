@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Lopez, Beard and James",
+    "client_address": "Unit 2670 Box 5736\nDPO AE 13536",
+    "seller_name": "Hawkins PLC",
+    "seller_address": "73589 Joe Canyon Suite 889\nNew Janet, MN 14762",
+    "invoice_number": "23882917",
+    "invoice_date": "03/29/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Birthday Girl 15 oz Hand Painted Wine Glass With Box & Recipe by Lolita New",
+      "quantity": "4.00",
+      "total_price": "57.16"
+    },
+    {
+      "description": "Wine spoon",
+      "quantity": "3.00",
+      "total_price": "16.50"
+    },
+    {
+      "description": "Metal 12\" tabletop Wine Bottle Display Rack Holder Caddy barware glass grapes",
+      "quantity": "1.00",
+      "total_price": "49.50"
+    },
+    {
+      "description": "Wine Bottle Holder From Costa Rica Has A Parrot Painted On It",
+      "quantity": "1.00",
+      "total_price": "5.50"
+    },
+    {
+      "description": "Vintage Anjou Water Goblets/Wine Glass New Set by Leonard Silver MFG 4 Piece Set",
+      "quantity": "5.00",
+      "total_price": "49.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "16.20",
+    "discount": "",
+    "total": "178.16"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

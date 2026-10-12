@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Hernandez, Wright and Pena",
+    "client_address": "01185 Sherry Manor\nRobertburgh, IL 76443",
+    "seller_name": "Peterson, Hester and Mckee",
+    "seller_address": "Unit 6986 Box 0053\nDPO AE 88791",
+    "invoice_number": "86164702",
+    "invoice_date": "05/15/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Dell Optiplex All in One\nWindows 10 Desktop Computer\n780 3.0GHz 4GB 250GB 19 LCD",
+      "quantity": "5,00",
+      "total_price": "714,95"
+    }
+  ],
+  "subtotal": {
+    "tax": "65,00",
+    "discount": "",
+    "total": "714,95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

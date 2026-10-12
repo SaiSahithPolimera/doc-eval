@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Allen PLC",
+    "client_address": "157 Michaela Station\nMariafort, IL 29394",
+    "seller_name": "Schmidt LLC",
+    "seller_address": "5107 Christina Orchard Apt. 670\nWest Conniemouth, MD 43698",
+    "invoice_number": "57986024",
+    "invoice_date": "10/17/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Straw Dogs : Thoughts on Humans and Other Animals, Paperback by Gray, John, L...",
+      "quantity": "5.00",
+      "total_price": "76.95"
+    },
+    {
+      "description": "Quilts of Illusion",
+      "quantity": "5.00",
+      "total_price": "31.85"
+    },
+    {
+      "description": "Selected poetry of W H Auden",
+      "quantity": "1.00",
+      "total_price": "5.38"
+    },
+    {
+      "description": "In the Footsteps of the Russian Snowman (Paperback or Softback)",
+      "quantity": "4.00",
+      "total_price": "113.83"
+    },
+    {
+      "description": "Steam Yacht Varuna, Brand New, Free shipping in the US",
+      "quantity": "1.00",
+      "total_price": "9.29"
+    }
+  ],
+  "subtotal": {
+    "tax": "21.57",
+    "discount": "",
+    "total": "237.29"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

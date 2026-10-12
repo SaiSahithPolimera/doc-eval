@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Lambert PLC",
+    "client_address": "59924 Melinda Shores\nLake Krystal, NH 19984",
+    "seller_name": "Valencia-Pearson",
+    "seller_address": "430 Reed Path Apt. 882\nPort Laura, CT 63695",
+    "invoice_number": "25078556",
+    "invoice_date": "01/09/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Ol' Red Wine Glasses Ball Mason Jar Fancy Rednecks Set of 2 New in Box",
+      "quantity": "4.00",
+      "total_price": "154.00"
+    },
+    {
+      "description": "Stemware Rack Display Kitchen Wine Glass Holder Bottle Carbon Steel Free Punch",
+      "quantity": "4.00",
+      "total_price": "186.21"
+    },
+    {
+      "description": "Twas The Nightcap Before Christmas Rosy Red Felt Fabric Wine Bottle Cover",
+      "quantity": "1.00",
+      "total_price": "18.65"
+    },
+    {
+      "description": "Wine Opener Accessories Gift Tools Set with Waiters Corkscrew Opener 5 Piece^",
+      "quantity": "2.00",
+      "total_price": "25.76"
+    },
+    {
+      "description": "Set Of 2 Etched \" Hers\" and \"Hers Too\" Wine Glasses",
+      "quantity": "1.00",
+      "total_price": "4.40"
+    },
+    {
+      "description": "Vintage Wine Basket Holder - 3 Bottles",
+      "quantity": "2.00",
+      "total_price": "72.58"
+    },
+    {
+      "description": "Selmash Lux Home Alcohol Distiller Kit for wine brewing, 15 20 30 l",
+      "quantity": "5.00",
+      "total_price": "868.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "120.91",
+    "discount": "",
+    "total": "1330.04"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

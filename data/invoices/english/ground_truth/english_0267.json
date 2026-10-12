@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Sosa-Jackson",
+    "client_address": "0258 Chen Expressway Apt. 645\nSanfordbury, SC 04439",
+    "seller_name": "Stephens, Lopez and Ramirez",
+    "seller_address": "194 Renee Row Suite 634\nNorth Jenniferview, OH 77470",
+    "invoice_number": "79990560",
+    "invoice_date": "05/09/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Diane Von Furstenberg Wrap\nRed Black Classic Dress Size 14",
+      "quantity": "3.00",
+      "total_price": "214.50"
+    },
+    {
+      "description": "NWOT Italian Dress Grey Black\nSize XS Made in Italy",
+      "quantity": "3.00",
+      "total_price": "148.47"
+    },
+    {
+      "description": "MARC JACOBS IVORY COTTON\nSHORT SLEEVE BEIGE SILK\nOVERLAY DRESS SMALL",
+      "quantity": "3.00",
+      "total_price": "52.77"
+    }
+  ],
+  "subtotal": {
+    "tax": "37.79",
+    "discount": "",
+    "total": "415.73"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB02HFQY37565201001373",
+    "payment_method": ""
+  }
+}

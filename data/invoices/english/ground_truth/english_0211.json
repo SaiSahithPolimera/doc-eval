@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Burgess, Hoover and Ho",
+    "client_address": "294 James Curve\nNorth Katherine, MN 18368",
+    "seller_name": "George and Sons",
+    "seller_address": "9078 Jared Causeway Suite 022\nRaymondburgh, ME 64287",
+    "invoice_number": "90834323",
+    "invoice_date": "07/27/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Entertaining",
+      "quantity": "2.00",
+      "total_price": "9.88"
+    },
+    {
+      "description": "Motorcycle Journeys Through North America : A Guide for Choosing and Planning",
+      "quantity": "2.00",
+      "total_price": "13.20"
+    },
+    {
+      "description": "The Complete Idiots Guide to Trouble-Free Home Re",
+      "quantity": "5.00",
+      "total_price": "24.70"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.34",
+    "discount": "",
+    "total": "47.77"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Stephens-Goodman",
+    "client_address": "5197 Rebekah Stravenue Suite 498\nNew Nicholasland, VA 18645",
+    "seller_name": "Davis, Evans and Cooper",
+    "seller_address": "475 Daniel Port\nMoralesborough, OK 44662",
+    "invoice_number": "24342647",
+    "invoice_date": "05/07/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "15\"x15\" White Marble Coffee Table Top With 15\" Tall Stand Semi Precious Art Deco",
+      "quantity": "4.00",
+      "total_price": "2 534,36"
+    },
+    {
+      "description": "12\" Marble Lapis Inlay Chess Table Top With 2\" Pieces & 15\" Wooden Stand W537",
+      "quantity": "3.00",
+      "total_price": "1 467,18"
+    },
+    {
+      "description": "18\"x18\" White Hand Curved Top Coffee Table Inlay Decorative Gift For Her Wedding",
+      "quantity": "1.00",
+      "total_price": "522,74"
+    }
+  ],
+  "subtotal": {
+    "tax": "411,30",
+    "discount": "",
+    "total": "4 524,28"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

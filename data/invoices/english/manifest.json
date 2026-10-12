@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "english_0000",
+    "source_id": "6984bad10f763d83586fdd2d",
+    "image": "images/english_0000.jpg",
+    "ground_truth": "ground_truth/english_0000.json",
+    "reference_ocr": "reference_ocr/english_0000.txt"
+  },
+  {
+    "id": "english_0001",
+    "source_id": "6984bad10f763d83586fdd2e",
+    "image": "images/english_0001.jpg",
+    "ground_truth": "ground_truth/english_0001.json",
+    "reference_ocr": "reference_ocr/english_0001.txt"
+  },
+  {
+    "id": "english_0002",
+    "source_id": "6984bad10f763d83586fdd2f",
+    "image": "images/english_0002.jpg",
+    "ground_truth": "ground_truth/english_0002.json",
+    "reference_ocr": "reference_ocr/english_0002.txt"
+  },
+  {
+    "id": "english_0003",
+    "source_id": "6984bad10f763d83586fdd30",
+    "image": "images/english_0003.jpg",
+    "ground_truth": "ground_truth/english_0003.json",
+    "reference_ocr": "reference_ocr/english_0003.txt"
+  },
+  {
+    "id": "english_0004",
+    "source_id": "6984bad10f763d83586fdd31",
+    "image": "images/english_0004.jpg",
+    "ground_truth": "ground_truth/english_0004.json",
+    "reference_ocr": "reference_ocr/english_0004.txt"
+  },
+  {
+    "id": "english_0005",
+    "source_id": "6984bad10f763d83586fdd32",
+    "image": "images/english_0005.jpg",
+    "ground_truth": "ground_truth/english_0005.json",
+    "reference_ocr": "reference_ocr/english_0005.txt"
+  },
+  {
+    "id": "english_0006",
+    "source_id": "6984bad10f763d83586fdd33",
+    "image": "images/english_0006.jpg",
+    "ground_truth": "ground_truth/english_0006.json",
+    "reference_ocr": "reference_ocr/english_0006.txt"
+  },
+  {
+    "id": "english_0007",
+    "source_id": "6984bad10f763d83586fdd34",
+    "image": "images/english_0007.jpg",
+    "ground_truth": "ground_truth/english_0007.json",
+    "reference_ocr": "reference_ocr/english_0007.txt"
+  },
+  {
+    "id": "english_0008",
+    "source_id": "6984bad10f763d83586fdd35",
+    "image": "images/english_0008.jpg",
+    "ground_truth": "ground_truth/english_0008.json",
+    "reference_ocr": "reference_ocr/english_0008.txt"
+  },
+  {
+    "id": "english_0009",
+    "source_id": "6984bad10f763d83586fdd36",
+    "image": "images/english_0009.jpg",
+    "ground_truth": "ground_truth/english_0009.json",
+    "reference_ocr": "reference_ocr/english_0009.txt"
+  },
+  {
+    "id": "english_0010",
+    "source_id": "6984bad10f763d83586fdd37",
+    "image": "images/english_0010.jpg",
+    "ground_truth": "ground_truth/english_0010.json",
+    "reference_ocr": "reference_ocr/english_0010.txt"
+  },
+  {
+    "id": "english_0011",
+    "source_id": "6984bad10f763d83586fdd38",
+    "image": "images/english_0011.jpg",
+    "ground_truth": "ground_truth/english_0011.json",
+    "reference_ocr": "reference_ocr/english_0011.txt"
+  },
+  {
+    "id": "english_0012",
+    "source_id": "6984bad10f763d83586fdd39",
+    "image": "images/english_0012.jpg",
+    "ground_truth": "ground_truth/english_0012.json",
+    "reference_ocr": "reference_ocr/english_0012.txt"
+  },
+  {
+    "id": "english_0013",
+    "source_id": "6984bad10f763d83586fdd3a",
+    "image": "images/english_0013.jpg",
+    "ground_truth": "ground_truth/english_0013.json",
+    "reference_ocr": "reference_ocr/english_0013.txt"
+  },
+  {
+    "id": "english_0014",
+    "source_id": "6984bad10f763d83586fdd3b",
+    "image": "images/english_0014.jpg",
+    "ground_truth": "ground_truth/english_0014.json",
+    "reference_ocr": "reference_ocr/english_0014.txt"
+  },
+  {
+    "id": "english_0015",
+    "source_id": "6984bad10f763d83586fdd3c",
+    "image": "images/english_0015.jpg",
+    "ground_truth": "ground_truth/english_0015.json",
+    "reference_ocr": "reference_ocr/english_0015.txt"
+  },
+  {
+    "id": "english_0016",
+    "source_id": "6984bad10f763d83586fdd3d",
+    "image": "images/english_0016.jpg",
+    "ground_truth": "ground_truth/english_0016.json",
+    "reference_ocr": "reference_ocr/english_0016.txt"
+  },
+  {
+    "id": "english_0017",
+    "source_id": "6984bad10f763d83586fdd3e",
+    "image": "images/english_0017.jpg",
+    "ground_truth": "ground_truth/english_0017.json",
+    "reference_ocr": "reference_ocr/english_0017.txt"
+  },
+  {
+    "id": "english_0018",
+    "source_id": "6984bad10f763d83586fdd3f",
+    "image": "images/english_0018.jpg",
+    "ground_truth": "ground_truth/english_0018.json",
+    "reference_ocr": "reference_ocr/english_0018.txt"
+  },
+  {
+    "id": "english_0019",
+    "source_id": "6984bad10f763d83586fdd40",
+    "image": "images/english_0019.jpg",
+    "ground_truth": "ground_truth/english_0019.json",
+    "reference_ocr": "reference_ocr/english_0019.txt"
+  },
+  {
+    "id": "english_0020",
+    "source_id": "6984bad10f763d83586fdd41",
+    "image": "images/english_0020.jpg",
+    "ground_truth": "ground_truth/english_0020.json",
+    "reference_ocr": "reference_ocr/english_0020.txt"
+  },
+  {
+    "id": "english_0021",
+    "source_id": "6984bad10f763d83586fdd42",
+    "image": "images/english_0021.jpg",
+    "ground_truth": "ground_truth/english_0021.json",
+    "reference_ocr": "reference_ocr/english_0021.txt"
+  },
+  {
+    "id": "english_0022",
+    "source_id": "6984bad10f763d83586fdd43",
+    "image": "images/english_0022.jpg",
+    "ground_truth": "ground_truth/english_0022.json",
+    "reference_ocr": "reference_ocr/english_0022.txt"
+  },
+  {
+    "id": "english_0023",
+    "source_id": "6984bad10f763d83586fdd44",
+    "image": "images/english_0023.jpg",
+    "ground_truth": "ground_truth/english_0023.json",
+    "reference_ocr": "reference_ocr/english_0023.txt"
+  },
+  {
+    "id": "english_0024",
+    "source_id": "6984bad10f763d83586fdd45",
+    "image": "images/english_0024.jpg",
+    "ground_truth": "ground_truth/english_0024.json",
+    "reference_ocr": "reference_ocr/english_0024.txt"
+  },
+  {
+    "id": "english_0025",
+    "source_id": "6984bad10f763d83586fdd46",
+    "image": "images/english_0025.jpg",
+    "ground_truth": "ground_truth/english_0025.json",
+    "reference_ocr": "reference_ocr/english_0025.txt"
+  },
+  {
+    "id": "english_0026",
+    "source_id": "6984bad10f763d83586fdd47",
+    "image": "images/english_0026.jpg",
+    "ground_truth": "ground_truth/english_0026.json",
+    "reference_ocr": "reference_ocr/english_0026.txt"
+  },
+  {
+    "id": "english_0027",
+    "source_id": "6984bad10f763d83586fdd48",
+    "image": "images/english_0027.jpg",
+    "ground_truth": "ground_truth/english_0027.json",
+    "reference_ocr": "reference_ocr/english_0027.txt"
+  },
+  {
+    "id": "english_0028",
+    "source_id": "6984bad10f763d83586fdd49",
+    "image": "images/english_0028.jpg",
+    "ground_truth": "ground_truth/english_0028.json",
+    "reference_ocr": "reference_ocr/english_0028.txt"
+  },
+  {
+    "id": "english_0029",
+    "source_id": "6984bad10f763d83586fdd4a",
+    "image": "images/english_0029.jpg",
+    "ground_truth": "ground_truth/english_0029.json",
+    "reference_ocr": "reference_ocr/english_0029.txt"
+  },
+  {
+    "id": "english_0030",
+    "source_id": "6984bad10f763d83586fdd4b",
+    "image": "images/english_0030.jpg",
+    "ground_truth": "ground_truth/english_0030.json",
+    "reference_ocr": "reference_ocr/english_0030.txt"
+  },
+  {
+    "id": "english_0031",
+    "source_id": "6984bad10f763d83586fdd4c",
+    "image": "images/english_0031.jpg",
+    "ground_truth": "ground_truth/english_0031.json",
+    "reference_ocr": "reference_ocr/english_0031.txt"
+  },
+  {
+    "id": "english_0032",
+    "source_id": "6984bad10f763d83586fdd4d",
+    "image": "images/english_0032.jpg",
+    "ground_truth": "ground_truth/english_0032.json",
+    "reference_ocr": "reference_ocr/english_0032.txt"
+  },
+  {
+    "id": "english_0033",
+    "source_id": "6984bad10f763d83586fdd4e",
+    "image": "images/english_0033.jpg",
+    "ground_truth": "ground_truth/english_0033.json",
+    "reference_ocr": "reference_ocr/english_0033.txt"
+  },
+  {
+    "id": "english_0034",
+    "source_id": "6984bad10f763d83586fdd4f",
+    "image": "images/english_0034.jpg",
+    "ground_truth": "ground_truth/english_0034.json",
+    "reference_ocr": "reference_ocr/english_0034.txt"
+  },
+  {
+    "id": "english_0035",
+    "source_id": "6984bad10f763d83586fdd50",
+    "image": "images/english_0035.jpg",
+    "ground_truth": "ground_truth/english_0035.json",
+    "reference_ocr": "reference_ocr/english_0035.txt"
+  },
+  {
+    "id": "english_0036",
+    "source_id": "6984bad10f763d83586fdd51",
+    "image": "images/english_0036.jpg",
+    "ground_truth": "ground_truth/english_0036.json",
+    "reference_ocr": "reference_ocr/english_0036.txt"
+  },
+  {
+    "id": "english_0037",
+    "source_id": "6984bad10f763d83586fdd52",
+    "image": "images/english_0037.jpg",
+    "ground_truth": "ground_truth/english_0037.json",
+    "reference_ocr": "reference_ocr/english_0037.txt"
+  },
+  {
+    "id": "english_0038",
+    "source_id": "6984bad10f763d83586fdd53",
+    "image": "images/english_0038.jpg",
+    "ground_truth": "ground_truth/english_0038.json",
+    "reference_ocr": "reference_ocr/english_0038.txt"
+  },
+  {
+    "id": "english_0039",
+    "source_id": "6984bad10f763d83586fdd54",
+    "image": "images/english_0039.jpg",
+    "ground_truth": "ground_truth/english_0039.json",
+    "reference_ocr": "reference_ocr/english_0039.txt"
+  },
+  {
+    "id": "english_0040",
+    "source_id": "6984bad10f763d83586fdd55",
+    "image": "images/english_0040.jpg",
+    "ground_truth": "ground_truth/english_0040.json",
+    "reference_ocr": "reference_ocr/english_0040.txt"
+  },
+  {
+    "id": "english_0041",
+    "source_id": "6984bad10f763d83586fdd56",
+    "image": "images/english_0041.jpg",
+    "ground_truth": "ground_truth/english_0041.json",
+    "reference_ocr": "reference_ocr/english_0041.txt"
+  },
+  {
+    "id": "english_0042",
+    "source_id": "6984bad10f763d83586fdd57",
+    "image": "images/english_0042.jpg",
+    "ground_truth": "ground_truth/english_0042.json",
+    "reference_ocr": "reference_ocr/english_0042.txt"
+  },
+  {
+    "id": "english_0043",
+    "source_id": "6984bad10f763d83586fdd58",
+    "image": "images/english_0043.jpg",
+    "ground_truth": "ground_truth/english_0043.json",
+    "reference_ocr": "reference_ocr/english_0043.txt"
+  },
+  {
+    "id": "english_0044",
+    "source_id": "6984bad10f763d83586fdd59",
+    "image": "images/english_0044.jpg",
+    "ground_truth": "ground_truth/english_0044.json",
+    "reference_ocr": "reference_ocr/english_0044.txt"
+  },
+  {
+    "id": "english_0045",
+    "source_id": "6984bad10f763d83586fdd5a",
+    "image": "images/english_0045.jpg",
+    "ground_truth": "ground_truth/english_0045.json",
+    "reference_ocr": "reference_ocr/english_0045.txt"
+  },
+  {
+    "id": "english_0046",
+    "source_id": "6984bad10f763d83586fdd5b",
+    "image": "images/english_0046.jpg",
+    "ground_truth": "ground_truth/english_0046.json",
+    "reference_ocr": "reference_ocr/english_0046.txt"
+  },
+  {
+    "id": "english_0047",
+    "source_id": "6984bad10f763d83586fdd5c",
+    "image": "images/english_0047.jpg",
+    "ground_truth": "ground_truth/english_0047.json",
+    "reference_ocr": "reference_ocr/english_0047.txt"
+  },
+  {
+    "id": "english_0048",
+    "source_id": "6984bad10f763d83586fdd5d",
+    "image": "images/english_0048.jpg",
+    "ground_truth": "ground_truth/english_0048.json",
+    "reference_ocr": "reference_ocr/english_0048.txt"
+  },
+  {
+    "id": "english_0049",
+    "source_id": "6984bad10f763d83586fdd5e",
+    "image": "images/english_0049.jpg",
+    "ground_truth": "ground_truth/english_0049.json",
+    "reference_ocr": "reference_ocr/english_0049.txt"
+  },
+  {
+    "id": "english_0050",
+    "source_id": "6984bad10f763d83586fdd5f",
+    "image": "images/english_0050.jpg",
+    "ground_truth": "ground_truth/english_0050.json",
+    "reference_ocr": "reference_ocr/english_0050.txt"
+  },
+  {
+    "id": "english_0051",
+    "source_id": "6984bad10f763d83586fdd60",
+    "image": "images/english_0051.jpg",
+    "ground_truth": "ground_truth/english_0051.json",
+    "reference_ocr": "reference_ocr/english_0051.txt"
+  },
+  {
+    "id": "english_0052",
+    "source_id": "6984bad10f763d83586fdd61",
+    "image": "images/english_0052.jpg",
+    "ground_truth": "ground_truth/english_0052.json",
+    "reference_ocr": "reference_ocr/english_0052.txt"
+  },
+  {
+    "id": "english_0053",
+    "source_id": "6984bad10f763d83586fdd62",
+    "image": "images/english_0053.jpg",
+    "ground_truth": "ground_truth/english_0053.json",
+    "reference_ocr": "reference_ocr/english_0053.txt"
+  },
+  {
+    "id": "english_0054",
+    "source_id": "6984bad10f763d83586fdd63",
+    "image": "images/english_0054.jpg",
+    "ground_truth": "ground_truth/english_0054.json",
+    "reference_ocr": "reference_ocr/english_0054.txt"
+  },
+  {
+    "id": "english_0055",
+    "source_id": "6984bad10f763d83586fdd64",
+    "image": "images/english_0055.jpg",
+    "ground_truth": "ground_truth/english_0055.json",
+    "reference_ocr": "reference_ocr/english_0055.txt"
+  },
+  {
+    "id": "english_0056",
+    "source_id": "6984bad10f763d83586fdd65",
+    "image": "images/english_0056.jpg",
+    "ground_truth": "ground_truth/english_0056.json",
+    "reference_ocr": "reference_ocr/english_0056.txt"
+  },
+  {
+    "id": "english_0057",
+    "source_id": "6984bad10f763d83586fdd66",
+    "image": "images/english_0057.jpg",
+    "ground_truth": "ground_truth/english_0057.json",
+    "reference_ocr": "reference_ocr/english_0057.txt"
+  },
+  {
+    "id": "english_0058",
+    "source_id": "6984bad10f763d83586fdd67",
+    "image": "images/english_0058.jpg",
+    "ground_truth": "ground_truth/english_0058.json",
+    "reference_ocr": "reference_ocr/english_0058.txt"
+  },
+  {
+    "id": "english_0059",
+    "source_id": "6984bad10f763d83586fdd68",
+    "image": "images/english_0059.jpg",
+    "ground_truth": "ground_truth/english_0059.json",
+    "reference_ocr": "reference_ocr/english_0059.txt"
+  },
+  {
+    "id": "english_0060",
+    "source_id": "6984bad10f763d83586fdd69",
+    "image": "images/english_0060.jpg",
+    "ground_truth": "ground_truth/english_0060.json",
+    "reference_ocr": "reference_ocr/english_0060.txt"
+  },
+  {
+    "id": "english_0061",
+    "source_id": "6984bad10f763d83586fdd6a",
+    "image": "images/english_0061.jpg",
+    "ground_truth": "ground_truth/english_0061.json",
+    "reference_ocr": "reference_ocr/english_0061.txt"
+  },
+  {
+    "id": "english_0062",
+    "source_id": "6984bad10f763d83586fdd6b",
+    "image": "images/english_0062.jpg",
+    "ground_truth": "ground_truth/english_0062.json",
+    "reference_ocr": "reference_ocr/english_0062.txt"
+  },
+  {
+    "id": "english_0063",
+    "source_id": "6984bad10f763d83586fdd6c",
+    "image": "images/english_0063.jpg",
+    "ground_truth": "ground_truth/english_0063.json",
+    "reference_ocr": "reference_ocr/english_0063.txt"
+  },
+  {
+    "id": "english_0064",
+    "source_id": "6984bad10f763d83586fdd6d",
+    "image": "images/english_0064.jpg",
+    "ground_truth": "ground_truth/english_0064.json",
+    "reference_ocr": "reference_ocr/english_0064.txt"
+  },
+  {
+    "id": "english_0065",
+    "source_id": "6984bad10f763d83586fdd6e",
+    "image": "images/english_0065.jpg",
+    "ground_truth": "ground_truth/english_0065.json",
+    "reference_ocr": "reference_ocr/english_0065.txt"
+  },
+  {
+    "id": "english_0066",
+    "source_id": "6984bad10f763d83586fdd6f",
+    "image": "images/english_0066.jpg",
+    "ground_truth": "ground_truth/english_0066.json",
+    "reference_ocr": "reference_ocr/english_0066.txt"
+  },
+  {
+    "id": "english_0067",
+    "source_id": "6984bad10f763d83586fdd70",
+    "image": "images/english_0067.jpg",
+    "ground_truth": "ground_truth/english_0067.json",
+    "reference_ocr": "reference_ocr/english_0067.txt"
+  },
+  {
+    "id": "english_0068",
+    "source_id": "6984bad10f763d83586fdd71",
+    "image": "images/english_0068.jpg",
+    "ground_truth": "ground_truth/english_0068.json",
+    "reference_ocr": "reference_ocr/english_0068.txt"
+  },
+  {
+    "id": "english_0069",
+    "source_id": "6984bad10f763d83586fdd72",
+    "image": "images/english_0069.jpg",
+    "ground_truth": "ground_truth/english_0069.json",
+    "reference_ocr": "reference_ocr/english_0069.txt"
+  },
+  {
+    "id": "english_0070",
+    "source_id": "6984bad10f763d83586fdd73",
+    "image": "images/english_0070.jpg",
+    "ground_truth": "ground_truth/english_0070.json",
+    "reference_ocr": "reference_ocr/english_0070.txt"
+  },
+  {
+    "id": "english_0071",
+    "source_id": "6984bad10f763d83586fdd74",
+    "image": "images/english_0071.jpg",
+    "ground_truth": "ground_truth/english_0071.json",
+    "reference_ocr": "reference_ocr/english_0071.txt"
+  },
+  {
+    "id": "english_0072",
+    "source_id": "6984bad10f763d83586fdd75",
+    "image": "images/english_0072.jpg",
+    "ground_truth": "ground_truth/english_0072.json",
+    "reference_ocr": "reference_ocr/english_0072.txt"
+  },
+  {
+    "id": "english_0073",
+    "source_id": "6984bad10f763d83586fdd76",
+    "image": "images/english_0073.jpg",
+    "ground_truth": "ground_truth/english_0073.json",
+    "reference_ocr": "reference_ocr/english_0073.txt"
+  },
+  {
+    "id": "english_0074",
+    "source_id": "6984bad10f763d83586fdd77",
+    "image": "images/english_0074.jpg",
+    "ground_truth": "ground_truth/english_0074.json",
+    "reference_ocr": "reference_ocr/english_0074.txt"
+  },
+  {
+    "id": "english_0075",
+    "source_id": "6984bad10f763d83586fdd78",
+    "image": "images/english_0075.jpg",
+    "ground_truth": "ground_truth/english_0075.json",
+    "reference_ocr": "reference_ocr/english_0075.txt"
+  },
+  {
+    "id": "english_0076",
+    "source_id": "6984bad10f763d83586fdd79",
+    "image": "images/english_0076.jpg",
+    "ground_truth": "ground_truth/english_0076.json",
+    "reference_ocr": "reference_ocr/english_0076.txt"
+  },
+  {
+    "id": "english_0077",
+    "source_id": "6984bad10f763d83586fdd7a",
+    "image": "images/english_0077.jpg",
+    "ground_truth": "ground_truth/english_0077.json",
+    "reference_ocr": "reference_ocr/english_0077.txt"
+  },
+  {
+    "id": "english_0078",
+    "source_id": "6984bad10f763d83586fdd7b",
+    "image": "images/english_0078.jpg",
+    "ground_truth": "ground_truth/english_0078.json",
+    "reference_ocr": "reference_ocr/english_0078.txt"
+  },
+  {
+    "id": "english_0079",
+    "source_id": "6984bad10f763d83586fdd7c",
+    "image": "images/english_0079.jpg",
+    "ground_truth": "ground_truth/english_0079.json",
+    "reference_ocr": "reference_ocr/english_0079.txt"
+  },
+  {
+    "id": "english_0080",
+    "source_id": "6984bad10f763d83586fdd7d",
+    "image": "images/english_0080.jpg",
+    "ground_truth": "ground_truth/english_0080.json",
+    "reference_ocr": "reference_ocr/english_0080.txt"
+  },
+  {
+    "id": "english_0081",
+    "source_id": "6984bad10f763d83586fdd7e",
+    "image": "images/english_0081.jpg",
+    "ground_truth": "ground_truth/english_0081.json",
+    "reference_ocr": "reference_ocr/english_0081.txt"
+  },
+  {
+    "id": "english_0082",
+    "source_id": "6984bad10f763d83586fdd7f",
+    "image": "images/english_0082.jpg",
+    "ground_truth": "ground_truth/english_0082.json",
+    "reference_ocr": "reference_ocr/english_0082.txt"
+  },
+  {
+    "id": "english_0083",
+    "source_id": "6984bad10f763d83586fdd80",
+    "image": "images/english_0083.jpg",
+    "ground_truth": "ground_truth/english_0083.json",
+    "reference_ocr": "reference_ocr/english_0083.txt"
+  },
+  {
+    "id": "english_0084",
+    "source_id": "6984bad10f763d83586fdd81",
+    "image": "images/english_0084.jpg",
+    "ground_truth": "ground_truth/english_0084.json",
+    "reference_ocr": "reference_ocr/english_0084.txt"
+  },
+  {
+    "id": "english_0085",
+    "source_id": "6984bad10f763d83586fdd82",
+    "image": "images/english_0085.jpg",
+    "ground_truth": "ground_truth/english_0085.json",
+    "reference_ocr": "reference_ocr/english_0085.txt"
+  },
+  {
+    "id": "english_0086",
+    "source_id": "6984bad10f763d83586fdd83",
+    "image": "images/english_0086.jpg",
+    "ground_truth": "ground_truth/english_0086.json",
+    "reference_ocr": "reference_ocr/english_0086.txt"
+  },
+  {
+    "id": "english_0087",
+    "source_id": "6984bad10f763d83586fdd84",
+    "image": "images/english_0087.jpg",
+    "ground_truth": "ground_truth/english_0087.json",
+    "reference_ocr": "reference_ocr/english_0087.txt"
+  },
+  {
+    "id": "english_0088",
+    "source_id": "6984bad10f763d83586fdd85",
+    "image": "images/english_0088.jpg",
+    "ground_truth": "ground_truth/english_0088.json",
+    "reference_ocr": "reference_ocr/english_0088.txt"
+  },
+  {
+    "id": "english_0089",
+    "source_id": "6984bad10f763d83586fdd86",
+    "image": "images/english_0089.jpg",
+    "ground_truth": "ground_truth/english_0089.json",
+    "reference_ocr": "reference_ocr/english_0089.txt"
+  },
+  {
+    "id": "english_0090",
+    "source_id": "6984bad10f763d83586fdd87",
+    "image": "images/english_0090.jpg",
+    "ground_truth": "ground_truth/english_0090.json",
+    "reference_ocr": "reference_ocr/english_0090.txt"
+  },
+  {
+    "id": "english_0091",
+    "source_id": "6984bad10f763d83586fdd88",
+    "image": "images/english_0091.jpg",
+    "ground_truth": "ground_truth/english_0091.json",
+    "reference_ocr": "reference_ocr/english_0091.txt"
+  },
+  {
+    "id": "english_0092",
+    "source_id": "6984bad10f763d83586fdd89",
+    "image": "images/english_0092.jpg",
+    "ground_truth": "ground_truth/english_0092.json",
+    "reference_ocr": "reference_ocr/english_0092.txt"
+  },
+  {
+    "id": "english_0093",
+    "source_id": "6984bad10f763d83586fdd8a",
+    "image": "images/english_0093.jpg",
+    "ground_truth": "ground_truth/english_0093.json",
+    "reference_ocr": "reference_ocr/english_0093.txt"
+  },
+  {
+    "id": "english_0094",
+    "source_id": "6984bad10f763d83586fdd8b",
+    "image": "images/english_0094.jpg",
+    "ground_truth": "ground_truth/english_0094.json",
+    "reference_ocr": "reference_ocr/english_0094.txt"
+  },
+  {
+    "id": "english_0095",
+    "source_id": "6984bad10f763d83586fdd8c",
+    "image": "images/english_0095.jpg",
+    "ground_truth": "ground_truth/english_0095.json",
+    "reference_ocr": "reference_ocr/english_0095.txt"
+  },
+  {
+    "id": "english_0096",
+    "source_id": "6984bad10f763d83586fdd8d",
+    "image": "images/english_0096.jpg",
+    "ground_truth": "ground_truth/english_0096.json",
+    "reference_ocr": "reference_ocr/english_0096.txt"
+  },
+  {
+    "id": "english_0097",
+    "source_id": "6984bad10f763d83586fdd8e",
+    "image": "images/english_0097.jpg",
+    "ground_truth": "ground_truth/english_0097.json",
+    "reference_ocr": "reference_ocr/english_0097.txt"
+  },
+  {
+    "id": "english_0098",
+    "source_id": "6984bad10f763d83586fdd8f",
+    "image": "images/english_0098.jpg",
+    "ground_truth": "ground_truth/english_0098.json",
+    "reference_ocr": "reference_ocr/english_0098.txt"
+  },
+  {
+    "id": "english_0099",
+    "source_id": "6984bad10f763d83586fdd90",
+    "image": "images/english_0099.jpg",
+    "ground_truth": "ground_truth/english_0099.json",
+    "reference_ocr": "reference_ocr/english_0099.txt"
+  },
+  {
+    "id": "english_0100",
+    "source_id": "6984bad10f763d83586fdd91",
+    "image": "images/english_0100.jpg",
+    "ground_truth": "ground_truth/english_0100.json",
+    "reference_ocr": "reference_ocr/english_0100.txt"
+  },
+  {
+    "id": "english_0101",
+    "source_id": "6984bad10f763d83586fdd92",
+    "image": "images/english_0101.jpg",
+    "ground_truth": "ground_truth/english_0101.json",
+    "reference_ocr": "reference_ocr/english_0101.txt"
+  },
+  {
+    "id": "english_0102",
+    "source_id": "6984bad10f763d83586fdd93",
+    "image": "images/english_0102.jpg",
+    "ground_truth": "ground_truth/english_0102.json",
+    "reference_ocr": "reference_ocr/english_0102.txt"
+  },
+  {
+    "id": "english_0103",
+    "source_id": "6984bad10f763d83586fdd94",
+    "image": "images/english_0103.jpg",
+    "ground_truth": "ground_truth/english_0103.json",
+    "reference_ocr": "reference_ocr/english_0103.txt"
+  },
+  {
+    "id": "english_0104",
+    "source_id": "6984bad10f763d83586fdd95",
+    "image": "images/english_0104.jpg",
+    "ground_truth": "ground_truth/english_0104.json",
+    "reference_ocr": "reference_ocr/english_0104.txt"
+  },
+  {
+    "id": "english_0105",
+    "source_id": "6984bad10f763d83586fdd96",
+    "image": "images/english_0105.jpg",
+    "ground_truth": "ground_truth/english_0105.json",
+    "reference_ocr": "reference_ocr/english_0105.txt"
+  },
+  {
+    "id": "english_0106",
+    "source_id": "6984bad10f763d83586fdd97",
+    "image": "images/english_0106.jpg",
+    "ground_truth": "ground_truth/english_0106.json",
+    "reference_ocr": "reference_ocr/english_0106.txt"
+  },
+  {
+    "id": "english_0107",
+    "source_id": "6984bad10f763d83586fdd98",
+    "image": "images/english_0107.jpg",
+    "ground_truth": "ground_truth/english_0107.json",
+    "reference_ocr": "reference_ocr/english_0107.txt"
+  },
+  {
+    "id": "english_0108",
+    "source_id": "6984bad10f763d83586fdd99",
+    "image": "images/english_0108.jpg",
+    "ground_truth": "ground_truth/english_0108.json",
+    "reference_ocr": "reference_ocr/english_0108.txt"
+  },
+  {
+    "id": "english_0109",
+    "source_id": "6984bad10f763d83586fdd9a",
+    "image": "images/english_0109.jpg",
+    "ground_truth": "ground_truth/english_0109.json",
+    "reference_ocr": "reference_ocr/english_0109.txt"
+  },
+  {
+    "id": "english_0110",
+    "source_id": "6984bad10f763d83586fdd9b",
+    "image": "images/english_0110.jpg",
+    "ground_truth": "ground_truth/english_0110.json",
+    "reference_ocr": "reference_ocr/english_0110.txt"
+  },
+  {
+    "id": "english_0111",
+    "source_id": "6984bad10f763d83586fdd9c",
+    "image": "images/english_0111.jpg",
+    "ground_truth": "ground_truth/english_0111.json",
+    "reference_ocr": "reference_ocr/english_0111.txt"
+  },
+  {
+    "id": "english_0112",
+    "source_id": "6984bad10f763d83586fdd9d",
+    "image": "images/english_0112.jpg",
+    "ground_truth": "ground_truth/english_0112.json",
+    "reference_ocr": "reference_ocr/english_0112.txt"
+  },
+  {
+    "id": "english_0113",
+    "source_id": "6984bad10f763d83586fdd9e",
+    "image": "images/english_0113.jpg",
+    "ground_truth": "ground_truth/english_0113.json",
+    "reference_ocr": "reference_ocr/english_0113.txt"
+  },
+  {
+    "id": "english_0114",
+    "source_id": "6984bad10f763d83586fdd9f",
+    "image": "images/english_0114.jpg",
+    "ground_truth": "ground_truth/english_0114.json",
+    "reference_ocr": "reference_ocr/english_0114.txt"
+  },
+  {
+    "id": "english_0115",
+    "source_id": "6984bad10f763d83586fdda0",
+    "image": "images/english_0115.jpg",
+    "ground_truth": "ground_truth/english_0115.json",
+    "reference_ocr": "reference_ocr/english_0115.txt"
+  },
+  {
+    "id": "english_0116",
+    "source_id": "6984bad10f763d83586fdda1",
+    "image": "images/english_0116.jpg",
+    "ground_truth": "ground_truth/english_0116.json",
+    "reference_ocr": "reference_ocr/english_0116.txt"
+  },
+  {
+    "id": "english_0117",
+    "source_id": "6984bad10f763d83586fdda2",
+    "image": "images/english_0117.jpg",
+    "ground_truth": "ground_truth/english_0117.json",
+    "reference_ocr": "reference_ocr/english_0117.txt"
+  },
+  {
+    "id": "english_0118",
+    "source_id": "6984bad10f763d83586fdda3",
+    "image": "images/english_0118.jpg",
+    "ground_truth": "ground_truth/english_0118.json",
+    "reference_ocr": "reference_ocr/english_0118.txt"
+  },
+  {
+    "id": "english_0119",
+    "source_id": "6984bad10f763d83586fdda4",
+    "image": "images/english_0119.jpg",
+    "ground_truth": "ground_truth/english_0119.json",
+    "reference_ocr": "reference_ocr/english_0119.txt"
+  },
+  {
+    "id": "english_0120",
+    "source_id": "6984bad10f763d83586fdda5",
+    "image": "images/english_0120.jpg",
+    "ground_truth": "ground_truth/english_0120.json",
+    "reference_ocr": "reference_ocr/english_0120.txt"
+  },
+  {
+    "id": "english_0121",
+    "source_id": "6984bad10f763d83586fdda6",
+    "image": "images/english_0121.jpg",
+    "ground_truth": "ground_truth/english_0121.json",
+    "reference_ocr": "reference_ocr/english_0121.txt"
+  },
+  {
+    "id": "english_0122",
+    "source_id": "6984bad10f763d83586fdda7",
+    "image": "images/english_0122.jpg",
+    "ground_truth": "ground_truth/english_0122.json",
+    "reference_ocr": "reference_ocr/english_0122.txt"
+  },
+  {
+    "id": "english_0123",
+    "source_id": "6984bad10f763d83586fdda8",
+    "image": "images/english_0123.jpg",
+    "ground_truth": "ground_truth/english_0123.json",
+    "reference_ocr": "reference_ocr/english_0123.txt"
+  },
+  {
+    "id": "english_0124",
+    "source_id": "6984bad10f763d83586fdda9",
+    "image": "images/english_0124.jpg",
+    "ground_truth": "ground_truth/english_0124.json",
+    "reference_ocr": "reference_ocr/english_0124.txt"
+  },
+  {
+    "id": "english_0125",
+    "source_id": "6984bad10f763d83586fddaa",
+    "image": "images/english_0125.jpg",
+    "ground_truth": "ground_truth/english_0125.json",
+    "reference_ocr": "reference_ocr/english_0125.txt"
+  },
+  {
+    "id": "english_0126",
+    "source_id": "6984bad10f763d83586fddab",
+    "image": "images/english_0126.jpg",
+    "ground_truth": "ground_truth/english_0126.json",
+    "reference_ocr": "reference_ocr/english_0126.txt"
+  },
+  {
+    "id": "english_0127",
+    "source_id": "6984bad10f763d83586fddac",
+    "image": "images/english_0127.jpg",
+    "ground_truth": "ground_truth/english_0127.json",
+    "reference_ocr": "reference_ocr/english_0127.txt"
+  },
+  {
+    "id": "english_0128",
+    "source_id": "6984bad10f763d83586fddad",
+    "image": "images/english_0128.jpg",
+    "ground_truth": "ground_truth/english_0128.json",
+    "reference_ocr": "reference_ocr/english_0128.txt"
+  },
+  {
+    "id": "english_0129",
+    "source_id": "6984bad10f763d83586fddae",
+    "image": "images/english_0129.jpg",
+    "ground_truth": "ground_truth/english_0129.json",
+    "reference_ocr": "reference_ocr/english_0129.txt"
+  },
+  {
+    "id": "english_0130",
+    "source_id": "6984bad10f763d83586fddaf",
+    "image": "images/english_0130.jpg",
+    "ground_truth": "ground_truth/english_0130.json",
+    "reference_ocr": "reference_ocr/english_0130.txt"
+  },
+  {
+    "id": "english_0131",
+    "source_id": "6984bad10f763d83586fddb0",
+    "image": "images/english_0131.jpg",
+    "ground_truth": "ground_truth/english_0131.json",
+    "reference_ocr": "reference_ocr/english_0131.txt"
+  },
+  {
+    "id": "english_0132",
+    "source_id": "6984bad10f763d83586fddb1",
+    "image": "images/english_0132.jpg",
+    "ground_truth": "ground_truth/english_0132.json",
+    "reference_ocr": "reference_ocr/english_0132.txt"
+  },
+  {
+    "id": "english_0133",
+    "source_id": "6984bad10f763d83586fddb2",
+    "image": "images/english_0133.jpg",
+    "ground_truth": "ground_truth/english_0133.json",
+    "reference_ocr": "reference_ocr/english_0133.txt"
+  },
+  {
+    "id": "english_0134",
+    "source_id": "6984bad10f763d83586fddb3",
+    "image": "images/english_0134.jpg",
+    "ground_truth": "ground_truth/english_0134.json",
+    "reference_ocr": "reference_ocr/english_0134.txt"
+  },
+  {
+    "id": "english_0135",
+    "source_id": "6984bad10f763d83586fddb4",
+    "image": "images/english_0135.jpg",
+    "ground_truth": "ground_truth/english_0135.json",
+    "reference_ocr": "reference_ocr/english_0135.txt"
+  },
+  {
+    "id": "english_0136",
+    "source_id": "6984bad10f763d83586fddb5",
+    "image": "images/english_0136.jpg",
+    "ground_truth": "ground_truth/english_0136.json",
+    "reference_ocr": "reference_ocr/english_0136.txt"
+  },
+  {
+    "id": "english_0137",
+    "source_id": "6984bad10f763d83586fddb6",
+    "image": "images/english_0137.jpg",
+    "ground_truth": "ground_truth/english_0137.json",
+    "reference_ocr": "reference_ocr/english_0137.txt"
+  },
+  {
+    "id": "english_0138",
+    "source_id": "6984bad10f763d83586fddb7",
+    "image": "images/english_0138.jpg",
+    "ground_truth": "ground_truth/english_0138.json",
+    "reference_ocr": "reference_ocr/english_0138.txt"
+  },
+  {
+    "id": "english_0139",
+    "source_id": "6984bad10f763d83586fddb8",
+    "image": "images/english_0139.jpg",
+    "ground_truth": "ground_truth/english_0139.json",
+    "reference_ocr": "reference_ocr/english_0139.txt"
+  },
+  {
+    "id": "english_0140",
+    "source_id": "6984bad10f763d83586fddb9",
+    "image": "images/english_0140.jpg",
+    "ground_truth": "ground_truth/english_0140.json",
+    "reference_ocr": "reference_ocr/english_0140.txt"
+  },
+  {
+    "id": "english_0141",
+    "source_id": "6984bad10f763d83586fddba",
+    "image": "images/english_0141.jpg",
+    "ground_truth": "ground_truth/english_0141.json",
+    "reference_ocr": "reference_ocr/english_0141.txt"
+  },
+  {
+    "id": "english_0142",
+    "source_id": "6984bad10f763d83586fddbb",
+    "image": "images/english_0142.jpg",
+    "ground_truth": "ground_truth/english_0142.json",
+    "reference_ocr": "reference_ocr/english_0142.txt"
+  },
+  {
+    "id": "english_0143",
+    "source_id": "6984bad10f763d83586fddbc",
+    "image": "images/english_0143.jpg",
+    "ground_truth": "ground_truth/english_0143.json",
+    "reference_ocr": "reference_ocr/english_0143.txt"
+  },
+  {
+    "id": "english_0144",
+    "source_id": "6984bad10f763d83586fddbd",
+    "image": "images/english_0144.jpg",
+    "ground_truth": "ground_truth/english_0144.json",
+    "reference_ocr": "reference_ocr/english_0144.txt"
+  },
+  {
+    "id": "english_0145",
+    "source_id": "6984bad10f763d83586fddbe",
+    "image": "images/english_0145.jpg",
+    "ground_truth": "ground_truth/english_0145.json",
+    "reference_ocr": "reference_ocr/english_0145.txt"
+  },
+  {
+    "id": "english_0146",
+    "source_id": "6984bad10f763d83586fddbf",
+    "image": "images/english_0146.jpg",
+    "ground_truth": "ground_truth/english_0146.json",
+    "reference_ocr": "reference_ocr/english_0146.txt"
+  },
+  {
+    "id": "english_0147",
+    "source_id": "6984bad10f763d83586fddc0",
+    "image": "images/english_0147.jpg",
+    "ground_truth": "ground_truth/english_0147.json",
+    "reference_ocr": "reference_ocr/english_0147.txt"
+  },
+  {
+    "id": "english_0148",
+    "source_id": "6984bad10f763d83586fddc1",
+    "image": "images/english_0148.jpg",
+    "ground_truth": "ground_truth/english_0148.json",
+    "reference_ocr": "reference_ocr/english_0148.txt"
+  },
+  {
+    "id": "english_0149",
+    "source_id": "6984bad10f763d83586fddc2",
+    "image": "images/english_0149.jpg",
+    "ground_truth": "ground_truth/english_0149.json",
+    "reference_ocr": "reference_ocr/english_0149.txt"
+  },
+  {
+    "id": "english_0150",
+    "source_id": "6984bad10f763d83586fddc3",
+    "image": "images/english_0150.jpg",
+    "ground_truth": "ground_truth/english_0150.json",
+    "reference_ocr": "reference_ocr/english_0150.txt"
+  },
+  {
+    "id": "english_0151",
+    "source_id": "6984bad10f763d83586fddc4",
+    "image": "images/english_0151.jpg",
+    "ground_truth": "ground_truth/english_0151.json",
+    "reference_ocr": "reference_ocr/english_0151.txt"
+  },
+  {
+    "id": "english_0152",
+    "source_id": "6984bad10f763d83586fddc5",
+    "image": "images/english_0152.jpg",
+    "ground_truth": "ground_truth/english_0152.json",
+    "reference_ocr": "reference_ocr/english_0152.txt"
+  },
+  {
+    "id": "english_0153",
+    "source_id": "6984bad10f763d83586fddc6",
+    "image": "images/english_0153.jpg",
+    "ground_truth": "ground_truth/english_0153.json",
+    "reference_ocr": "reference_ocr/english_0153.txt"
+  },
+  {
+    "id": "english_0154",
+    "source_id": "6984bad10f763d83586fddc7",
+    "image": "images/english_0154.jpg",
+    "ground_truth": "ground_truth/english_0154.json",
+    "reference_ocr": "reference_ocr/english_0154.txt"
+  },
+  {
+    "id": "english_0155",
+    "source_id": "6984bad10f763d83586fddc8",
+    "image": "images/english_0155.jpg",
+    "ground_truth": "ground_truth/english_0155.json",
+    "reference_ocr": "reference_ocr/english_0155.txt"
+  },
+  {
+    "id": "english_0156",
+    "source_id": "6984bad10f763d83586fddc9",
+    "image": "images/english_0156.jpg",
+    "ground_truth": "ground_truth/english_0156.json",
+    "reference_ocr": "reference_ocr/english_0156.txt"
+  },
+  {
+    "id": "english_0157",
+    "source_id": "6984bad10f763d83586fddca",
+    "image": "images/english_0157.jpg",
+    "ground_truth": "ground_truth/english_0157.json",
+    "reference_ocr": "reference_ocr/english_0157.txt"
+  },
+  {
+    "id": "english_0158",
+    "source_id": "6984bad10f763d83586fddcb",
+    "image": "images/english_0158.jpg",
+    "ground_truth": "ground_truth/english_0158.json",
+    "reference_ocr": "reference_ocr/english_0158.txt"
+  },
+  {
+    "id": "english_0159",
+    "source_id": "6984bad10f763d83586fddcc",
+    "image": "images/english_0159.jpg",
+    "ground_truth": "ground_truth/english_0159.json",
+    "reference_ocr": "reference_ocr/english_0159.txt"
+  },
+  {
+    "id": "english_0160",
+    "source_id": "6984bad10f763d83586fddcd",
+    "image": "images/english_0160.jpg",
+    "ground_truth": "ground_truth/english_0160.json",
+    "reference_ocr": "reference_ocr/english_0160.txt"
+  },
+  {
+    "id": "english_0161",
+    "source_id": "6984bad10f763d83586fddce",
+    "image": "images/english_0161.jpg",
+    "ground_truth": "ground_truth/english_0161.json",
+    "reference_ocr": "reference_ocr/english_0161.txt"
+  },
+  {
+    "id": "english_0162",
+    "source_id": "6984bad10f763d83586fddcf",
+    "image": "images/english_0162.jpg",
+    "ground_truth": "ground_truth/english_0162.json",
+    "reference_ocr": "reference_ocr/english_0162.txt"
+  },
+  {
+    "id": "english_0163",
+    "source_id": "6984bad10f763d83586fddd0",
+    "image": "images/english_0163.jpg",
+    "ground_truth": "ground_truth/english_0163.json",
+    "reference_ocr": "reference_ocr/english_0163.txt"
+  },
+  {
+    "id": "english_0164",
+    "source_id": "6984bad10f763d83586fddd1",
+    "image": "images/english_0164.jpg",
+    "ground_truth": "ground_truth/english_0164.json",
+    "reference_ocr": "reference_ocr/english_0164.txt"
+  },
+  {
+    "id": "english_0165",
+    "source_id": "6984bad10f763d83586fddd2",
+    "image": "images/english_0165.jpg",
+    "ground_truth": "ground_truth/english_0165.json",
+    "reference_ocr": "reference_ocr/english_0165.txt"
+  },
+  {
+    "id": "english_0166",
+    "source_id": "6984bad10f763d83586fddd3",
+    "image": "images/english_0166.jpg",
+    "ground_truth": "ground_truth/english_0166.json",
+    "reference_ocr": "reference_ocr/english_0166.txt"
+  },
+  {
+    "id": "english_0167",
+    "source_id": "6984bad10f763d83586fddd4",
+    "image": "images/english_0167.jpg",
+    "ground_truth": "ground_truth/english_0167.json",
+    "reference_ocr": "reference_ocr/english_0167.txt"
+  },
+  {
+    "id": "english_0168",
+    "source_id": "6984bad10f763d83586fddd5",
+    "image": "images/english_0168.jpg",
+    "ground_truth": "ground_truth/english_0168.json",
+    "reference_ocr": "reference_ocr/english_0168.txt"
+  },
+  {
+    "id": "english_0169",
+    "source_id": "6984bad10f763d83586fddd6",
+    "image": "images/english_0169.jpg",
+    "ground_truth": "ground_truth/english_0169.json",
+    "reference_ocr": "reference_ocr/english_0169.txt"
+  },
+  {
+    "id": "english_0170",
+    "source_id": "6984bad10f763d83586fddd7",
+    "image": "images/english_0170.jpg",
+    "ground_truth": "ground_truth/english_0170.json",
+    "reference_ocr": "reference_ocr/english_0170.txt"
+  },
+  {
+    "id": "english_0171",
+    "source_id": "6984bad10f763d83586fddd8",
+    "image": "images/english_0171.jpg",
+    "ground_truth": "ground_truth/english_0171.json",
+    "reference_ocr": "reference_ocr/english_0171.txt"
+  },
+  {
+    "id": "english_0172",
+    "source_id": "6984bad10f763d83586fddd9",
+    "image": "images/english_0172.jpg",
+    "ground_truth": "ground_truth/english_0172.json",
+    "reference_ocr": "reference_ocr/english_0172.txt"
+  },
+  {
+    "id": "english_0173",
+    "source_id": "6984bad10f763d83586fddda",
+    "image": "images/english_0173.jpg",
+    "ground_truth": "ground_truth/english_0173.json",
+    "reference_ocr": "reference_ocr/english_0173.txt"
+  },
+  {
+    "id": "english_0174",
+    "source_id": "6984bad10f763d83586fdddb",
+    "image": "images/english_0174.jpg",
+    "ground_truth": "ground_truth/english_0174.json",
+    "reference_ocr": "reference_ocr/english_0174.txt"
+  },
+  {
+    "id": "english_0175",
+    "source_id": "6984bad10f763d83586fdddc",
+    "image": "images/english_0175.jpg",
+    "ground_truth": "ground_truth/english_0175.json",
+    "reference_ocr": "reference_ocr/english_0175.txt"
+  },
+  {
+    "id": "english_0176",
+    "source_id": "6984bad10f763d83586fdddd",
+    "image": "images/english_0176.jpg",
+    "ground_truth": "ground_truth/english_0176.json",
+    "reference_ocr": "reference_ocr/english_0176.txt"
+  },
+  {
+    "id": "english_0177",
+    "source_id": "6984bad10f763d83586fddde",
+    "image": "images/english_0177.jpg",
+    "ground_truth": "ground_truth/english_0177.json",
+    "reference_ocr": "reference_ocr/english_0177.txt"
+  },
+  {
+    "id": "english_0178",
+    "source_id": "6984bad10f763d83586fdddf",
+    "image": "images/english_0178.jpg",
+    "ground_truth": "ground_truth/english_0178.json",
+    "reference_ocr": "reference_ocr/english_0178.txt"
+  },
+  {
+    "id": "english_0179",
+    "source_id": "6984bad10f763d83586fdde0",
+    "image": "images/english_0179.jpg",
+    "ground_truth": "ground_truth/english_0179.json",
+    "reference_ocr": "reference_ocr/english_0179.txt"
+  },
+  {
+    "id": "english_0180",
+    "source_id": "6984bad10f763d83586fdde1",
+    "image": "images/english_0180.jpg",
+    "ground_truth": "ground_truth/english_0180.json",
+    "reference_ocr": "reference_ocr/english_0180.txt"
+  },
+  {
+    "id": "english_0181",
+    "source_id": "6984bad10f763d83586fdde2",
+    "image": "images/english_0181.jpg",
+    "ground_truth": "ground_truth/english_0181.json",
+    "reference_ocr": "reference_ocr/english_0181.txt"
+  },
+  {
+    "id": "english_0182",
+    "source_id": "6984bad10f763d83586fdde3",
+    "image": "images/english_0182.jpg",
+    "ground_truth": "ground_truth/english_0182.json",
+    "reference_ocr": "reference_ocr/english_0182.txt"
+  },
+  {
+    "id": "english_0183",
+    "source_id": "6984bad10f763d83586fdde4",
+    "image": "images/english_0183.jpg",
+    "ground_truth": "ground_truth/english_0183.json",
+    "reference_ocr": "reference_ocr/english_0183.txt"
+  },
+  {
+    "id": "english_0184",
+    "source_id": "6984bad10f763d83586fdde5",
+    "image": "images/english_0184.jpg",
+    "ground_truth": "ground_truth/english_0184.json",
+    "reference_ocr": "reference_ocr/english_0184.txt"
+  },
+  {
+    "id": "english_0185",
+    "source_id": "6984bad10f763d83586fdde6",
+    "image": "images/english_0185.jpg",
+    "ground_truth": "ground_truth/english_0185.json",
+    "reference_ocr": "reference_ocr/english_0185.txt"
+  },
+  {
+    "id": "english_0186",
+    "source_id": "6984bad10f763d83586fdde7",
+    "image": "images/english_0186.jpg",
+    "ground_truth": "ground_truth/english_0186.json",
+    "reference_ocr": "reference_ocr/english_0186.txt"
+  },
+  {
+    "id": "english_0187",
+    "source_id": "6984bad10f763d83586fdde8",
+    "image": "images/english_0187.jpg",
+    "ground_truth": "ground_truth/english_0187.json",
+    "reference_ocr": "reference_ocr/english_0187.txt"
+  },
+  {
+    "id": "english_0188",
+    "source_id": "6984bad10f763d83586fdde9",
+    "image": "images/english_0188.jpg",
+    "ground_truth": "ground_truth/english_0188.json",
+    "reference_ocr": "reference_ocr/english_0188.txt"
+  },
+  {
+    "id": "english_0189",
+    "source_id": "6984bad10f763d83586fddea",
+    "image": "images/english_0189.jpg",
+    "ground_truth": "ground_truth/english_0189.json",
+    "reference_ocr": "reference_ocr/english_0189.txt"
+  },
+  {
+    "id": "english_0190",
+    "source_id": "6984bad10f763d83586fddeb",
+    "image": "images/english_0190.jpg",
+    "ground_truth": "ground_truth/english_0190.json",
+    "reference_ocr": "reference_ocr/english_0190.txt"
+  },
+  {
+    "id": "english_0191",
+    "source_id": "6984bad10f763d83586fddec",
+    "image": "images/english_0191.jpg",
+    "ground_truth": "ground_truth/english_0191.json",
+    "reference_ocr": "reference_ocr/english_0191.txt"
+  },
+  {
+    "id": "english_0192",
+    "source_id": "6984bad10f763d83586fdded",
+    "image": "images/english_0192.jpg",
+    "ground_truth": "ground_truth/english_0192.json",
+    "reference_ocr": "reference_ocr/english_0192.txt"
+  },
+  {
+    "id": "english_0193",
+    "source_id": "6984bad10f763d83586fddee",
+    "image": "images/english_0193.jpg",
+    "ground_truth": "ground_truth/english_0193.json",
+    "reference_ocr": "reference_ocr/english_0193.txt"
+  },
+  {
+    "id": "english_0194",
+    "source_id": "6984bad10f763d83586fddef",
+    "image": "images/english_0194.jpg",
+    "ground_truth": "ground_truth/english_0194.json",
+    "reference_ocr": "reference_ocr/english_0194.txt"
+  },
+  {
+    "id": "english_0195",
+    "source_id": "6984bad10f763d83586fddf0",
+    "image": "images/english_0195.jpg",
+    "ground_truth": "ground_truth/english_0195.json",
+    "reference_ocr": "reference_ocr/english_0195.txt"
+  },
+  {
+    "id": "english_0196",
+    "source_id": "6984bad10f763d83586fddf1",
+    "image": "images/english_0196.jpg",
+    "ground_truth": "ground_truth/english_0196.json",
+    "reference_ocr": "reference_ocr/english_0196.txt"
+  },
+  {
+    "id": "english_0197",
+    "source_id": "6984bad10f763d83586fddf2",
+    "image": "images/english_0197.jpg",
+    "ground_truth": "ground_truth/english_0197.json",
+    "reference_ocr": "reference_ocr/english_0197.txt"
+  },
+  {
+    "id": "english_0198",
+    "source_id": "6984bad10f763d83586fddf3",
+    "image": "images/english_0198.jpg",
+    "ground_truth": "ground_truth/english_0198.json",
+    "reference_ocr": "reference_ocr/english_0198.txt"
+  },
+  {
+    "id": "english_0199",
+    "source_id": "6984bad10f763d83586fddf4",
+    "image": "images/english_0199.jpg",
+    "ground_truth": "ground_truth/english_0199.json",
+    "reference_ocr": "reference_ocr/english_0199.txt"
+  },
+  {
+    "id": "english_0200",
+    "source_id": "6984bad10f763d83586fddf5",
+    "image": "images/english_0200.jpg",
+    "ground_truth": "ground_truth/english_0200.json",
+    "reference_ocr": "reference_ocr/english_0200.txt"
+  },
+  {
+    "id": "english_0201",
+    "source_id": "6984bad10f763d83586fddf6",
+    "image": "images/english_0201.jpg",
+    "ground_truth": "ground_truth/english_0201.json",
+    "reference_ocr": "reference_ocr/english_0201.txt"
+  },
+  {
+    "id": "english_0202",
+    "source_id": "6984bad10f763d83586fddf7",
+    "image": "images/english_0202.jpg",
+    "ground_truth": "ground_truth/english_0202.json",
+    "reference_ocr": "reference_ocr/english_0202.txt"
+  },
+  {
+    "id": "english_0203",
+    "source_id": "6984bad10f763d83586fddf8",
+    "image": "images/english_0203.jpg",
+    "ground_truth": "ground_truth/english_0203.json",
+    "reference_ocr": "reference_ocr/english_0203.txt"
+  },
+  {
+    "id": "english_0204",
+    "source_id": "6984bad10f763d83586fddf9",
+    "image": "images/english_0204.jpg",
+    "ground_truth": "ground_truth/english_0204.json",
+    "reference_ocr": "reference_ocr/english_0204.txt"
+  },
+  {
+    "id": "english_0205",
+    "source_id": "6984bad10f763d83586fddfa",
+    "image": "images/english_0205.jpg",
+    "ground_truth": "ground_truth/english_0205.json",
+    "reference_ocr": "reference_ocr/english_0205.txt"
+  },
+  {
+    "id": "english_0206",
+    "source_id": "6984bad10f763d83586fddfb",
+    "image": "images/english_0206.jpg",
+    "ground_truth": "ground_truth/english_0206.json",
+    "reference_ocr": "reference_ocr/english_0206.txt"
+  },
+  {
+    "id": "english_0207",
+    "source_id": "6984bad10f763d83586fddfc",
+    "image": "images/english_0207.jpg",
+    "ground_truth": "ground_truth/english_0207.json",
+    "reference_ocr": "reference_ocr/english_0207.txt"
+  },
+  {
+    "id": "english_0208",
+    "source_id": "6984bad10f763d83586fddfd",
+    "image": "images/english_0208.jpg",
+    "ground_truth": "ground_truth/english_0208.json",
+    "reference_ocr": "reference_ocr/english_0208.txt"
+  },
+  {
+    "id": "english_0209",
+    "source_id": "6984bad10f763d83586fddfe",
+    "image": "images/english_0209.jpg",
+    "ground_truth": "ground_truth/english_0209.json",
+    "reference_ocr": "reference_ocr/english_0209.txt"
+  },
+  {
+    "id": "english_0210",
+    "source_id": "6984bad10f763d83586fddff",
+    "image": "images/english_0210.jpg",
+    "ground_truth": "ground_truth/english_0210.json",
+    "reference_ocr": "reference_ocr/english_0210.txt"
+  },
+  {
+    "id": "english_0211",
+    "source_id": "6984bad10f763d83586fde00",
+    "image": "images/english_0211.jpg",
+    "ground_truth": "ground_truth/english_0211.json",
+    "reference_ocr": "reference_ocr/english_0211.txt"
+  },
+  {
+    "id": "english_0212",
+    "source_id": "6984bad10f763d83586fde01",
+    "image": "images/english_0212.jpg",
+    "ground_truth": "ground_truth/english_0212.json",
+    "reference_ocr": "reference_ocr/english_0212.txt"
+  },
+  {
+    "id": "english_0213",
+    "source_id": "6984bad10f763d83586fde02",
+    "image": "images/english_0213.jpg",
+    "ground_truth": "ground_truth/english_0213.json",
+    "reference_ocr": "reference_ocr/english_0213.txt"
+  },
+  {
+    "id": "english_0214",
+    "source_id": "6984bad10f763d83586fde03",
+    "image": "images/english_0214.jpg",
+    "ground_truth": "ground_truth/english_0214.json",
+    "reference_ocr": "reference_ocr/english_0214.txt"
+  },
+  {
+    "id": "english_0215",
+    "source_id": "6984bad10f763d83586fde04",
+    "image": "images/english_0215.jpg",
+    "ground_truth": "ground_truth/english_0215.json",
+    "reference_ocr": "reference_ocr/english_0215.txt"
+  },
+  {
+    "id": "english_0216",
+    "source_id": "6984bad10f763d83586fde05",
+    "image": "images/english_0216.jpg",
+    "ground_truth": "ground_truth/english_0216.json",
+    "reference_ocr": "reference_ocr/english_0216.txt"
+  },
+  {
+    "id": "english_0217",
+    "source_id": "6984bad10f763d83586fde06",
+    "image": "images/english_0217.jpg",
+    "ground_truth": "ground_truth/english_0217.json",
+    "reference_ocr": "reference_ocr/english_0217.txt"
+  },
+  {
+    "id": "english_0218",
+    "source_id": "6984bad10f763d83586fde07",
+    "image": "images/english_0218.jpg",
+    "ground_truth": "ground_truth/english_0218.json",
+    "reference_ocr": "reference_ocr/english_0218.txt"
+  },
+  {
+    "id": "english_0219",
+    "source_id": "6984bad10f763d83586fde08",
+    "image": "images/english_0219.jpg",
+    "ground_truth": "ground_truth/english_0219.json",
+    "reference_ocr": "reference_ocr/english_0219.txt"
+  },
+  {
+    "id": "english_0220",
+    "source_id": "6984bad10f763d83586fde09",
+    "image": "images/english_0220.jpg",
+    "ground_truth": "ground_truth/english_0220.json",
+    "reference_ocr": "reference_ocr/english_0220.txt"
+  },
+  {
+    "id": "english_0221",
+    "source_id": "6984bad10f763d83586fde0a",
+    "image": "images/english_0221.jpg",
+    "ground_truth": "ground_truth/english_0221.json",
+    "reference_ocr": "reference_ocr/english_0221.txt"
+  },
+  {
+    "id": "english_0222",
+    "source_id": "6984bad10f763d83586fde0b",
+    "image": "images/english_0222.jpg",
+    "ground_truth": "ground_truth/english_0222.json",
+    "reference_ocr": "reference_ocr/english_0222.txt"
+  },
+  {
+    "id": "english_0223",
+    "source_id": "6984bad10f763d83586fde0c",
+    "image": "images/english_0223.jpg",
+    "ground_truth": "ground_truth/english_0223.json",
+    "reference_ocr": "reference_ocr/english_0223.txt"
+  },
+  {
+    "id": "english_0224",
+    "source_id": "6984bad10f763d83586fde0d",
+    "image": "images/english_0224.jpg",
+    "ground_truth": "ground_truth/english_0224.json",
+    "reference_ocr": "reference_ocr/english_0224.txt"
+  },
+  {
+    "id": "english_0225",
+    "source_id": "6984bad10f763d83586fde0e",
+    "image": "images/english_0225.jpg",
+    "ground_truth": "ground_truth/english_0225.json",
+    "reference_ocr": "reference_ocr/english_0225.txt"
+  },
+  {
+    "id": "english_0226",
+    "source_id": "6984bad10f763d83586fde0f",
+    "image": "images/english_0226.jpg",
+    "ground_truth": "ground_truth/english_0226.json",
+    "reference_ocr": "reference_ocr/english_0226.txt"
+  },
+  {
+    "id": "english_0227",
+    "source_id": "6984bad10f763d83586fde10",
+    "image": "images/english_0227.jpg",
+    "ground_truth": "ground_truth/english_0227.json",
+    "reference_ocr": "reference_ocr/english_0227.txt"
+  },
+  {
+    "id": "english_0228",
+    "source_id": "6984bad10f763d83586fde11",
+    "image": "images/english_0228.jpg",
+    "ground_truth": "ground_truth/english_0228.json",
+    "reference_ocr": "reference_ocr/english_0228.txt"
+  },
+  {
+    "id": "english_0229",
+    "source_id": "6984bad10f763d83586fde12",
+    "image": "images/english_0229.jpg",
+    "ground_truth": "ground_truth/english_0229.json",
+    "reference_ocr": "reference_ocr/english_0229.txt"
+  },
+  {
+    "id": "english_0230",
+    "source_id": "6984bad10f763d83586fde13",
+    "image": "images/english_0230.jpg",
+    "ground_truth": "ground_truth/english_0230.json",
+    "reference_ocr": "reference_ocr/english_0230.txt"
+  },
+  {
+    "id": "english_0231",
+    "source_id": "6984bad10f763d83586fde14",
+    "image": "images/english_0231.jpg",
+    "ground_truth": "ground_truth/english_0231.json",
+    "reference_ocr": "reference_ocr/english_0231.txt"
+  },
+  {
+    "id": "english_0232",
+    "source_id": "6984bad10f763d83586fde15",
+    "image": "images/english_0232.jpg",
+    "ground_truth": "ground_truth/english_0232.json",
+    "reference_ocr": "reference_ocr/english_0232.txt"
+  },
+  {
+    "id": "english_0233",
+    "source_id": "6984bad10f763d83586fde16",
+    "image": "images/english_0233.jpg",
+    "ground_truth": "ground_truth/english_0233.json",
+    "reference_ocr": "reference_ocr/english_0233.txt"
+  },
+  {
+    "id": "english_0234",
+    "source_id": "6984bad10f763d83586fde17",
+    "image": "images/english_0234.jpg",
+    "ground_truth": "ground_truth/english_0234.json",
+    "reference_ocr": "reference_ocr/english_0234.txt"
+  },
+  {
+    "id": "english_0235",
+    "source_id": "6984bad10f763d83586fde18",
+    "image": "images/english_0235.jpg",
+    "ground_truth": "ground_truth/english_0235.json",
+    "reference_ocr": "reference_ocr/english_0235.txt"
+  },
+  {
+    "id": "english_0236",
+    "source_id": "6984bad10f763d83586fde19",
+    "image": "images/english_0236.jpg",
+    "ground_truth": "ground_truth/english_0236.json",
+    "reference_ocr": "reference_ocr/english_0236.txt"
+  },
+  {
+    "id": "english_0237",
+    "source_id": "6984bad10f763d83586fde1a",
+    "image": "images/english_0237.jpg",
+    "ground_truth": "ground_truth/english_0237.json",
+    "reference_ocr": "reference_ocr/english_0237.txt"
+  },
+  {
+    "id": "english_0238",
+    "source_id": "6984bad10f763d83586fde1b",
+    "image": "images/english_0238.jpg",
+    "ground_truth": "ground_truth/english_0238.json",
+    "reference_ocr": "reference_ocr/english_0238.txt"
+  },
+  {
+    "id": "english_0239",
+    "source_id": "6984bad10f763d83586fde1c",
+    "image": "images/english_0239.jpg",
+    "ground_truth": "ground_truth/english_0239.json",
+    "reference_ocr": "reference_ocr/english_0239.txt"
+  },
+  {
+    "id": "english_0240",
+    "source_id": "6984bad10f763d83586fde1d",
+    "image": "images/english_0240.jpg",
+    "ground_truth": "ground_truth/english_0240.json",
+    "reference_ocr": "reference_ocr/english_0240.txt"
+  },
+  {
+    "id": "english_0241",
+    "source_id": "6984bad10f763d83586fde1e",
+    "image": "images/english_0241.jpg",
+    "ground_truth": "ground_truth/english_0241.json",
+    "reference_ocr": "reference_ocr/english_0241.txt"
+  },
+  {
+    "id": "english_0242",
+    "source_id": "6984bad10f763d83586fde1f",
+    "image": "images/english_0242.jpg",
+    "ground_truth": "ground_truth/english_0242.json",
+    "reference_ocr": "reference_ocr/english_0242.txt"
+  },
+  {
+    "id": "english_0243",
+    "source_id": "6984bad10f763d83586fde20",
+    "image": "images/english_0243.jpg",
+    "ground_truth": "ground_truth/english_0243.json",
+    "reference_ocr": "reference_ocr/english_0243.txt"
+  },
+  {
+    "id": "english_0244",
+    "source_id": "6984bad10f763d83586fde21",
+    "image": "images/english_0244.jpg",
+    "ground_truth": "ground_truth/english_0244.json",
+    "reference_ocr": "reference_ocr/english_0244.txt"
+  },
+  {
+    "id": "english_0245",
+    "source_id": "6984bad10f763d83586fde22",
+    "image": "images/english_0245.jpg",
+    "ground_truth": "ground_truth/english_0245.json",
+    "reference_ocr": "reference_ocr/english_0245.txt"
+  },
+  {
+    "id": "english_0246",
+    "source_id": "6984bad10f763d83586fde23",
+    "image": "images/english_0246.jpg",
+    "ground_truth": "ground_truth/english_0246.json",
+    "reference_ocr": "reference_ocr/english_0246.txt"
+  },
+  {
+    "id": "english_0247",
+    "source_id": "6984bad10f763d83586fde24",
+    "image": "images/english_0247.jpg",
+    "ground_truth": "ground_truth/english_0247.json",
+    "reference_ocr": "reference_ocr/english_0247.txt"
+  },
+  {
+    "id": "english_0248",
+    "source_id": "6984bad10f763d83586fde25",
+    "image": "images/english_0248.jpg",
+    "ground_truth": "ground_truth/english_0248.json",
+    "reference_ocr": "reference_ocr/english_0248.txt"
+  },
+  {
+    "id": "english_0249",
+    "source_id": "6984bad10f763d83586fde26",
+    "image": "images/english_0249.jpg",
+    "ground_truth": "ground_truth/english_0249.json",
+    "reference_ocr": "reference_ocr/english_0249.txt"
+  },
+  {
+    "id": "english_0250",
+    "source_id": "6984bad10f763d83586fde27",
+    "image": "images/english_0250.jpg",
+    "ground_truth": "ground_truth/english_0250.json",
+    "reference_ocr": "reference_ocr/english_0250.txt"
+  },
+  {
+    "id": "english_0251",
+    "source_id": "6984bad10f763d83586fde28",
+    "image": "images/english_0251.jpg",
+    "ground_truth": "ground_truth/english_0251.json",
+    "reference_ocr": "reference_ocr/english_0251.txt"
+  },
+  {
+    "id": "english_0252",
+    "source_id": "6984bad10f763d83586fde29",
+    "image": "images/english_0252.jpg",
+    "ground_truth": "ground_truth/english_0252.json",
+    "reference_ocr": "reference_ocr/english_0252.txt"
+  },
+  {
+    "id": "english_0253",
+    "source_id": "6984bad10f763d83586fde2a",
+    "image": "images/english_0253.jpg",
+    "ground_truth": "ground_truth/english_0253.json",
+    "reference_ocr": "reference_ocr/english_0253.txt"
+  },
+  {
+    "id": "english_0254",
+    "source_id": "6984bad10f763d83586fde2b",
+    "image": "images/english_0254.jpg",
+    "ground_truth": "ground_truth/english_0254.json",
+    "reference_ocr": "reference_ocr/english_0254.txt"
+  },
+  {
+    "id": "english_0255",
+    "source_id": "6984bad10f763d83586fde2c",
+    "image": "images/english_0255.jpg",
+    "ground_truth": "ground_truth/english_0255.json",
+    "reference_ocr": "reference_ocr/english_0255.txt"
+  },
+  {
+    "id": "english_0256",
+    "source_id": "6984bad10f763d83586fde2d",
+    "image": "images/english_0256.jpg",
+    "ground_truth": "ground_truth/english_0256.json",
+    "reference_ocr": "reference_ocr/english_0256.txt"
+  },
+  {
+    "id": "english_0257",
+    "source_id": "6984bad10f763d83586fde2e",
+    "image": "images/english_0257.jpg",
+    "ground_truth": "ground_truth/english_0257.json",
+    "reference_ocr": "reference_ocr/english_0257.txt"
+  },
+  {
+    "id": "english_0258",
+    "source_id": "6984bad10f763d83586fde2f",
+    "image": "images/english_0258.jpg",
+    "ground_truth": "ground_truth/english_0258.json",
+    "reference_ocr": "reference_ocr/english_0258.txt"
+  },
+  {
+    "id": "english_0259",
+    "source_id": "6984bad10f763d83586fde30",
+    "image": "images/english_0259.jpg",
+    "ground_truth": "ground_truth/english_0259.json",
+    "reference_ocr": "reference_ocr/english_0259.txt"
+  },
+  {
+    "id": "english_0260",
+    "source_id": "6984bad10f763d83586fde31",
+    "image": "images/english_0260.jpg",
+    "ground_truth": "ground_truth/english_0260.json",
+    "reference_ocr": "reference_ocr/english_0260.txt"
+  },
+  {
+    "id": "english_0261",
+    "source_id": "6984bad10f763d83586fde32",
+    "image": "images/english_0261.jpg",
+    "ground_truth": "ground_truth/english_0261.json",
+    "reference_ocr": "reference_ocr/english_0261.txt"
+  },
+  {
+    "id": "english_0262",
+    "source_id": "6984bad10f763d83586fde33",
+    "image": "images/english_0262.jpg",
+    "ground_truth": "ground_truth/english_0262.json",
+    "reference_ocr": "reference_ocr/english_0262.txt"
+  },
+  {
+    "id": "english_0263",
+    "source_id": "6984bad10f763d83586fde34",
+    "image": "images/english_0263.jpg",
+    "ground_truth": "ground_truth/english_0263.json",
+    "reference_ocr": "reference_ocr/english_0263.txt"
+  },
+  {
+    "id": "english_0264",
+    "source_id": "6984bad10f763d83586fde35",
+    "image": "images/english_0264.jpg",
+    "ground_truth": "ground_truth/english_0264.json",
+    "reference_ocr": "reference_ocr/english_0264.txt"
+  },
+  {
+    "id": "english_0265",
+    "source_id": "6984bad10f763d83586fde36",
+    "image": "images/english_0265.jpg",
+    "ground_truth": "ground_truth/english_0265.json",
+    "reference_ocr": "reference_ocr/english_0265.txt"
+  },
+  {
+    "id": "english_0266",
+    "source_id": "6984bad10f763d83586fde37",
+    "image": "images/english_0266.jpg",
+    "ground_truth": "ground_truth/english_0266.json",
+    "reference_ocr": "reference_ocr/english_0266.txt"
+  },
+  {
+    "id": "english_0267",
+    "source_id": "6984bad10f763d83586fde38",
+    "image": "images/english_0267.jpg",
+    "ground_truth": "ground_truth/english_0267.json",
+    "reference_ocr": "reference_ocr/english_0267.txt"
+  },
+  {
+    "id": "english_0268",
+    "source_id": "6984bad10f763d83586fde39",
+    "image": "images/english_0268.jpg",
+    "ground_truth": "ground_truth/english_0268.json",
+    "reference_ocr": "reference_ocr/english_0268.txt"
+  },
+  {
+    "id": "english_0269",
+    "source_id": "6984bad10f763d83586fde3a",
+    "image": "images/english_0269.jpg",
+    "ground_truth": "ground_truth/english_0269.json",
+    "reference_ocr": "reference_ocr/english_0269.txt"
+  },
+  {
+    "id": "english_0270",
+    "source_id": "6984bad10f763d83586fde3b",
+    "image": "images/english_0270.jpg",
+    "ground_truth": "ground_truth/english_0270.json",
+    "reference_ocr": "reference_ocr/english_0270.txt"
+  },
+  {
+    "id": "english_0271",
+    "source_id": "6984bad10f763d83586fde3c",
+    "image": "images/english_0271.jpg",
+    "ground_truth": "ground_truth/english_0271.json",
+    "reference_ocr": "reference_ocr/english_0271.txt"
+  },
+  {
+    "id": "english_0272",
+    "source_id": "6984bad10f763d83586fde3d",
+    "image": "images/english_0272.jpg",
+    "ground_truth": "ground_truth/english_0272.json",
+    "reference_ocr": "reference_ocr/english_0272.txt"
+  },
+  {
+    "id": "english_0273",
+    "source_id": "6984bad10f763d83586fde3e",
+    "image": "images/english_0273.jpg",
+    "ground_truth": "ground_truth/english_0273.json",
+    "reference_ocr": "reference_ocr/english_0273.txt"
+  },
+  {
+    "id": "english_0274",
+    "source_id": "6984bad10f763d83586fde3f",
+    "image": "images/english_0274.jpg",
+    "ground_truth": "ground_truth/english_0274.json",
+    "reference_ocr": "reference_ocr/english_0274.txt"
+  },
+  {
+    "id": "english_0275",
+    "source_id": "6984bad10f763d83586fde40",
+    "image": "images/english_0275.jpg",
+    "ground_truth": "ground_truth/english_0275.json",
+    "reference_ocr": "reference_ocr/english_0275.txt"
+  },
+  {
+    "id": "english_0276",
+    "source_id": "6984bad10f763d83586fde41",
+    "image": "images/english_0276.jpg",
+    "ground_truth": "ground_truth/english_0276.json",
+    "reference_ocr": "reference_ocr/english_0276.txt"
+  },
+  {
+    "id": "english_0277",
+    "source_id": "6984bad10f763d83586fde42",
+    "image": "images/english_0277.jpg",
+    "ground_truth": "ground_truth/english_0277.json",
+    "reference_ocr": "reference_ocr/english_0277.txt"
+  },
+  {
+    "id": "english_0278",
+    "source_id": "6984bad10f763d83586fde43",
+    "image": "images/english_0278.jpg",
+    "ground_truth": "ground_truth/english_0278.json",
+    "reference_ocr": "reference_ocr/english_0278.txt"
+  },
+  {
+    "id": "english_0279",
+    "source_id": "6984bad10f763d83586fde44",
+    "image": "images/english_0279.jpg",
+    "ground_truth": "ground_truth/english_0279.json",
+    "reference_ocr": "reference_ocr/english_0279.txt"
+  },
+  {
+    "id": "english_0280",
+    "source_id": "6984bad10f763d83586fde45",
+    "image": "images/english_0280.jpg",
+    "ground_truth": "ground_truth/english_0280.json",
+    "reference_ocr": "reference_ocr/english_0280.txt"
+  },
+  {
+    "id": "english_0281",
+    "source_id": "6984bad10f763d83586fde46",
+    "image": "images/english_0281.jpg",
+    "ground_truth": "ground_truth/english_0281.json",
+    "reference_ocr": "reference_ocr/english_0281.txt"
+  },
+  {
+    "id": "english_0282",
+    "source_id": "6984bad10f763d83586fde47",
+    "image": "images/english_0282.jpg",
+    "ground_truth": "ground_truth/english_0282.json",
+    "reference_ocr": "reference_ocr/english_0282.txt"
+  },
+  {
+    "id": "english_0283",
+    "source_id": "6984bad10f763d83586fde48",
+    "image": "images/english_0283.jpg",
+    "ground_truth": "ground_truth/english_0283.json",
+    "reference_ocr": "reference_ocr/english_0283.txt"
+  },
+  {
+    "id": "english_0284",
+    "source_id": "6984bad10f763d83586fde49",
+    "image": "images/english_0284.jpg",
+    "ground_truth": "ground_truth/english_0284.json",
+    "reference_ocr": "reference_ocr/english_0284.txt"
+  },
+  {
+    "id": "english_0285",
+    "source_id": "6984bad10f763d83586fde4a",
+    "image": "images/english_0285.jpg",
+    "ground_truth": "ground_truth/english_0285.json",
+    "reference_ocr": "reference_ocr/english_0285.txt"
+  },
+  {
+    "id": "english_0286",
+    "source_id": "6984bad10f763d83586fde4b",
+    "image": "images/english_0286.jpg",
+    "ground_truth": "ground_truth/english_0286.json",
+    "reference_ocr": "reference_ocr/english_0286.txt"
+  },
+  {
+    "id": "english_0287",
+    "source_id": "6984bad10f763d83586fde4c",
+    "image": "images/english_0287.jpg",
+    "ground_truth": "ground_truth/english_0287.json",
+    "reference_ocr": "reference_ocr/english_0287.txt"
+  },
+  {
+    "id": "english_0288",
+    "source_id": "6984bad10f763d83586fde4d",
+    "image": "images/english_0288.jpg",
+    "ground_truth": "ground_truth/english_0288.json",
+    "reference_ocr": "reference_ocr/english_0288.txt"
+  },
+  {
+    "id": "english_0289",
+    "source_id": "6984bad10f763d83586fde4e",
+    "image": "images/english_0289.jpg",
+    "ground_truth": "ground_truth/english_0289.json",
+    "reference_ocr": "reference_ocr/english_0289.txt"
+  },
+  {
+    "id": "english_0290",
+    "source_id": "6984bad10f763d83586fde4f",
+    "image": "images/english_0290.jpg",
+    "ground_truth": "ground_truth/english_0290.json",
+    "reference_ocr": "reference_ocr/english_0290.txt"
+  },
+  {
+    "id": "english_0291",
+    "source_id": "6984bad10f763d83586fde50",
+    "image": "images/english_0291.jpg",
+    "ground_truth": "ground_truth/english_0291.json",
+    "reference_ocr": "reference_ocr/english_0291.txt"
+  },
+  {
+    "id": "english_0292",
+    "source_id": "6984bad10f763d83586fde51",
+    "image": "images/english_0292.jpg",
+    "ground_truth": "ground_truth/english_0292.json",
+    "reference_ocr": "reference_ocr/english_0292.txt"
+  },
+  {
+    "id": "english_0293",
+    "source_id": "6984bad10f763d83586fde52",
+    "image": "images/english_0293.jpg",
+    "ground_truth": "ground_truth/english_0293.json",
+    "reference_ocr": "reference_ocr/english_0293.txt"
+  },
+  {
+    "id": "english_0294",
+    "source_id": "6984bad10f763d83586fde53",
+    "image": "images/english_0294.jpg",
+    "ground_truth": "ground_truth/english_0294.json",
+    "reference_ocr": "reference_ocr/english_0294.txt"
+  },
+  {
+    "id": "english_0295",
+    "source_id": "6984bad10f763d83586fde54",
+    "image": "images/english_0295.jpg",
+    "ground_truth": "ground_truth/english_0295.json",
+    "reference_ocr": "reference_ocr/english_0295.txt"
+  },
+  {
+    "id": "english_0296",
+    "source_id": "6984bad10f763d83586fde55",
+    "image": "images/english_0296.jpg",
+    "ground_truth": "ground_truth/english_0296.json",
+    "reference_ocr": "reference_ocr/english_0296.txt"
+  },
+  {
+    "id": "english_0297",
+    "source_id": "6984bad10f763d83586fde56",
+    "image": "images/english_0297.jpg",
+    "ground_truth": "ground_truth/english_0297.json",
+    "reference_ocr": "reference_ocr/english_0297.txt"
+  },
+  {
+    "id": "english_0298",
+    "source_id": "6984bad10f763d83586fde57",
+    "image": "images/english_0298.jpg",
+    "ground_truth": "ground_truth/english_0298.json",
+    "reference_ocr": "reference_ocr/english_0298.txt"
+  },
+  {
+    "id": "english_0299",
+    "source_id": "6984bad10f763d83586fde58",
+    "image": "images/english_0299.jpg",
+    "ground_truth": "ground_truth/english_0299.json",
+    "reference_ocr": "reference_ocr/english_0299.txt"
+  }
+]

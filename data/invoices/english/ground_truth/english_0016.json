@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Mason Ltd",
+    "client_address": "8053 Friedman Burg\nPatrickfort, FL 71567",
+    "seller_name": "Kerr, Ryan and Gomez",
+    "seller_address": "8069 Nicholas Greens\nLake Vincentbury, RI 06574",
+    "invoice_number": "15001300",
+    "invoice_date": "02/18/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "100Pcs Wall Stickers Home Decor Glow In The Dark Star sticker Decal Kids room",
+      "quantity": "1.00",
+      "total_price": "1.87"
+    },
+    {
+      "description": "PUMA Boys Kids Athletic Shoes Flats Plimsouls Gray Black Denim size 12C",
+      "quantity": "3.00",
+      "total_price": "62.70"
+    },
+    {
+      "description": "Joma Youth Boys Gol 205 Piso Multitaco Soccer Cleats 2.5 White Blue Yellow NEW",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Fila Boys Skele-Toes Bay RNR 3 Black Running Shoes 11 Medium (D) Little Kid 9953",
+      "quantity": "3.00",
+      "total_price": "33.83"
+    },
+    {
+      "description": "Kid Connection Kids Winter Waterproof Boots Size 5 Cozy & Warm Slipn On Booties",
+      "quantity": "5.00",
+      "total_price": "118.75"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.73",
+    "discount": "",
+    "total": "327.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

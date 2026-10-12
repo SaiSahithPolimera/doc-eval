@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Duffy-Lawrence",
+    "client_address": "5965 Jacqueline Ports Suite 673\nBrookston, NE 34614",
+    "seller_name": "Ford Ltd",
+    "seller_address": "22451 Wendy Cove\nNorth Robertport, UT 20799",
+    "invoice_number": "51594396",
+    "invoice_date": "12/10/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "3D Stones Florals Corridor Carpet Doorway Mat Soft Antislip Living Room Area Rug",
+      "quantity": "5,00",
+      "total_price": "83,55"
+    },
+    {
+      "description": "Happy Christmas Home Decoration Rug Mat Carpet Bedroom Rugs Bedside Area Rug New",
+      "quantity": "1,00",
+      "total_price": "66,35"
+    },
+    {
+      "description": "Checkered Modern Kashkoli Oriental Area Rug Foyer Hand-knotted Wool Carpet 4'x6'",
+      "quantity": "3,00",
+      "total_price": "2 659,80"
+    },
+    {
+      "description": "YILONG 1.2x1.7' 300L Handmade Tree of Life Silk Carpet Home Tapestry LH693A",
+      "quantity": "5,00",
+      "total_price": "1 034,00"
+    },
+    {
+      "description": "Pittsburgh Steelers Anti-Skid Area Rug Floor Mat Soft Carpet Living Room Bedroom",
+      "quantity": "5,00",
+      "total_price": "99,22"
+    },
+    {
+      "description": "handmade carpet rug vtg moroccan boucherouite wollen 9.4*3.5 / 288cm*107cm",
+      "quantity": "5,00",
+      "total_price": "1 594,95"
+    },
+    {
+      "description": "3D Bottomless Hole Optical Illusion Area Rug Carpet Sofa Door Mats Non-slip Home",
+      "quantity": "1,00",
+      "total_price": "15,14"
+    }
+  ],
+  "subtotal": {
+    "tax": "504,82",
+    "discount": "",
+    "total": "5 553,00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

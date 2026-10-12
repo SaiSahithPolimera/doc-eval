@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Trevino-Sanders",
+    "client_address": "6971 Michael Squares Suite 138\nNew Christopherborough, WA 66988",
+    "seller_name": "Tucker-Shaw",
+    "seller_address": "USS French\nFPO AP 70555",
+    "invoice_number": "68963398",
+    "invoice_date": "01/16/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Kids KD Trey 5 / Nike Black\nSize 4.5aY",
+      "quantity": "3.00",
+      "total_price": "72.60"
+    },
+    {
+      "description": "Under Armour UA Curry 3\nBlack/Black Size 6Y",
+      "quantity": "2.00",
+      "total_price": "10.78"
+    },
+    {
+      "description": "Nike 7y Black",
+      "quantity": "1.00",
+      "total_price": "16.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.08",
+    "discount": "",
+    "total": "99.88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Dean Inc",
+    "client_address": "76328 Christina Ridge Apt. 941\nPetersonfurt, IN 38814",
+    "seller_name": "Mckenzie, Johnson and Rich",
+    "seller_address": "97119 Dana Ville Apt. 547\nBishopberg, CT 64044",
+    "invoice_number": "57600191",
+    "invoice_date": "03/17/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "New Nintendo Switch 32GB\nConsole - AW1134",
+      "quantity": "3,00",
+      "total_price": "899.97"
+    },
+    {
+      "description": "sega cdx console with original\npower supply (laser info-read\ndescription)",
+      "quantity": "4,00",
+      "total_price": "776.00"
+    },
+    {
+      "description": "Nintendo Gameboy Pocket\nConsole Clear Purple with Box\nMGB-001 Japan Tested 53",
+      "quantity": "3,00",
+      "total_price": "255.00"
+    },
+    {
+      "description": "Nintendo Wii Console - 2 sets\ncontrollers Plus All Cables\nIncluded Works Great",
+      "quantity": "3,00",
+      "total_price": "299.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "223.09",
+    "discount": "",
+    "total": "2 454,03"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB30PKEZ32220639658830",
+    "payment_method": ""
+  }
+}

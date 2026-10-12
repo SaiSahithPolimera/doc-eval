@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Owen Inc",
+    "client_address": "82599 David Ridge\nCindyburgh, MN 86421",
+    "seller_name": "Ingram-Mcclain",
+    "seller_address": "9253 Linda Harbors\nPort Christopherport, TN 98361",
+    "invoice_number": "49153414",
+    "invoice_date": "03/25/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "60 Inches Marble Dinning Table\nTop Inlay Work Lawn Table with\nMulti Color Stones",
+      "quantity": "4.00",
+      "total_price": "25 326.40"
+    },
+    {
+      "description": "6'x3' Black Marble Dining\nCenter Table Top Marquetry\nInlay Outdoor Decor H3420A",
+      "quantity": "2.00",
+      "total_price": "12 664.78"
+    },
+    {
+      "description": "New Design|Glass\nSidetable|Handcrafted\nGlasscone",
+      "quantity": "4.00",
+      "total_price": "7 040.00"
+    },
+    {
+      "description": "36 Inches Marble Dinning Table\nTop Hand Inlaid Office Table\nwith Multi Gemstones",
+      "quantity": "4.00",
+      "total_price": "6 385.50"
+    },
+    {
+      "description": "12\" Marble Coffee Table Top\nMulti Stone Peacock & Floral\nInlay Home Decors W364",
+      "quantity": "2.00",
+      "total_price": "581.39"
+    }
+  ],
+  "subtotal": {
+    "tax": "4 727.10",
+    "discount": "",
+    "total": "51 998.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB13TOXN01473004117176",
+    "payment_method": ""
+  }
+}

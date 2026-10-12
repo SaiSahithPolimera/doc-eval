@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Jennings, Baldwin and Collins",
+    "client_address": "792 Daniels Drive Apt. 384\nNew Laurenbury, VA 36605",
+    "seller_name": "Martin, Graham and Newman",
+    "seller_address": "Unit 2502 Box 3674\nDPO AE 52512",
+    "invoice_number": "60665075",
+    "invoice_date": "01/15/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Marble Top Side Table Tiger Eye Gem Marquetry Pietradura Garden Decor Arts H469",
+      "quantity": "2.00",
+      "total_price": "751.26"
+    },
+    {
+      "description": "7'x4' Buy Marble Dining Table With Black Top Marquetry Inlay Hallway Decor E944",
+      "quantity": "3.00",
+      "total_price": "48 579.56"
+    },
+    {
+      "description": "18\"x18\" White Hand Curved Top Coffee Table Inlay Decorative Gift For Her Wedding",
+      "quantity": "5.00",
+      "total_price": "2 613.71"
+    },
+    {
+      "description": "15\"x15\" White Marble Coffee Custom Table Pauashell Pietradura Inlay Floral Décor",
+      "quantity": "3.00",
+      "total_price": "2 260.50"
+    },
+    {
+      "description": "48 Inches Marble Reception Table Top Inlay with Multi Color Stones Dinning Table",
+      "quantity": "2.00",
+      "total_price": "4 783.35"
+    },
+    {
+      "description": "60 Inches Marble Dinning Table Top Inlay Work Lawn Table with Multi Color Stones",
+      "quantity": "4.00",
+      "total_price": "25 326.40"
+    }
+  ],
+  "subtotal": {
+    "tax": "7 664.98",
+    "discount": "",
+    "total": "84 314.78"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

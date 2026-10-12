@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Campbell-Flores",
+    "client_address": "34813 Davis Views\nJasonhaven, MO 32671",
+    "seller_name": "Montgomery LLC",
+    "seller_address": "75081 David Corners\nLake Kellyview, NH 03078",
+    "invoice_number": "13310164",
+    "invoice_date": "01/16/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "15\"x15\" White Marble Coffee Top Table Filigree Lapis Inlay Art Christmas Gift",
+      "quantity": "5,00",
+      "total_price": "3 575,00"
+    },
+    {
+      "description": "30\"x30\" Marble Black Top Table Semi Precious Bird Art Black Friday Gift Décor",
+      "quantity": "5,00",
+      "total_price": "13 194,50"
+    },
+    {
+      "description": "15\"x15\" White Marble Chess Top Table Carnelian Inlay Art Black Friday Gift Deco",
+      "quantity": "3,00",
+      "total_price": "1 980,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 704,50",
+    "discount": "",
+    "total": "18 749,50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

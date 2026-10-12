@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Barnes PLC",
+    "client_address": "91305 Laura Street Apt. 439\nMatthewsmouth, NJ 19408",
+    "seller_name": "Smith, Gonzalez and Wallace",
+    "seller_address": "517 Drake Meadow\nNew Seanburgh, TX 46774",
+    "invoice_number": "32530432",
+    "invoice_date": "11/11/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Sony PlayStation2 SCPH-50000 TSS silyer Console JP GAME PS2 Japan tested working",
+      "quantity": "3.00",
+      "total_price": "395.97"
+    },
+    {
+      "description": "B397 Nintendo DSi console Red Japan NDS x",
+      "quantity": "3.00",
+      "total_price": "23.07"
+    },
+    {
+      "description": "Super Nintendo SNES System Console Controller & Cables - SNS-001 + 3 Games",
+      "quantity": "2.00",
+      "total_price": "228.78"
+    },
+    {
+      "description": "Nintendo Wii White Console RVL-001 Bundle Game Cube Compatible Controllers senso",
+      "quantity": "4.00",
+      "total_price": "439.96"
+    },
+    {
+      "description": "New Sony Playstation 4 Slim 1TB 3 Game Bundle Console. Sealed!!!",
+      "quantity": "5.00",
+      "total_price": "2 199.95"
+    },
+    {
+      "description": "Xbox One X 1TB 4K Black Video Game Console System FACTORY SEALED Brand NEW",
+      "quantity": "5.00",
+      "total_price": "2 309.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "508.88",
+    "discount": "",
+    "total": "5 597.66"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB37HJCH03964179060142",
+    "payment_method": ""
+  }
+}

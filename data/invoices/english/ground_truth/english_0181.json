@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Flores and Sons",
+    "client_address": "765 Meredith Points\nMatthewsfort, FL 73462",
+    "seller_name": "Brown and Sons",
+    "seller_address": "810 Lori Lake Suite 987\nSharonbury, ND 49715",
+    "invoice_number": "87454899",
+    "invoice_date": "01/18/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo 64 N64 Console Black\nJapan Tested Working NUSHA",
+      "quantity": "5.00",
+      "total_price": "274.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "25.00",
+    "discount": "",
+    "total": "274.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Francis, Baker and Nunez",
+    "client_address": "086 Mary Wells Apt. 915\nLake Kayla, DC 11633",
+    "seller_name": "Cross, Pearson and Murillo",
+    "seller_address": "64280 Rodriguez Meadow\nNew Alexisfort, MA 54157",
+    "invoice_number": "33270121",
+    "invoice_date": "10/03/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "LuLaRoe Nicole Dress Size Large 26",
+      "quantity": "5.00",
+      "total_price": "10.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "0.99",
+    "discount": "",
+    "total": "10.94"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

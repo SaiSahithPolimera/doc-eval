@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Gibson-Prince",
+    "client_address": "9390 Laura Glen\nNorth Davidchester, MA 24825",
+    "seller_name": "Hanson Ltd",
+    "seller_address": "478 Shaun Skyway Suite 529\nAlyssaside, IA 27758",
+    "invoice_number": "70231143",
+    "invoice_date": "10/29/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "24 Inches Round Marble Coffee Table Top Inlay Sofa Table with Geometrical Design",
+      "quantity": "2.00",
+      "total_price": "981.75"
+    },
+    {
+      "description": "Antique Vintage style hand carved table *Unique*",
+      "quantity": "1.00",
+      "total_price": "14 300.00"
+    },
+    {
+      "description": "27 Inches Black Marble Coffee Table Top Round Home Sofa Table with Marquetry Art",
+      "quantity": "1.00",
+      "total_price": "655.87"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 448.88",
+    "discount": "",
+    "total": "15 937.63"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

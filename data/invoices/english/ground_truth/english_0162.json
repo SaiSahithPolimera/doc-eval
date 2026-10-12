@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Gross PLC",
+    "client_address": "2416 Walker Point Apt. 891\nPeggyborough, ID 81152",
+    "seller_name": "Williams Ltd",
+    "seller_address": "279 Amy Summit\nAdamsmouth, DE 72239",
+    "invoice_number": "74583312",
+    "invoice_date": "05/05/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Midnight Sun(Twilight) by Stephenie Meyer | Hardback UK Edition",
+      "quantity": "1.00",
+      "total_price": "27.49"
+    },
+    {
+      "description": "Warman's Star Wars Field Guide by Wells, Stuart W., III",
+      "quantity": "4.00",
+      "total_price": "25.39"
+    },
+    {
+      "description": "Catechism of the Catholic Church",
+      "quantity": "5.00",
+      "total_price": "26.90"
+    },
+    {
+      "description": "Begin the Begin: R.E.M.'s Early Years, Paperback by Lurie, Robert Dean, Like...",
+      "quantity": "2.00",
+      "total_price": "38.39"
+    },
+    {
+      "description": "A Million Little Bricks The Unofficial Illustrated History of the LE",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    },
+    {
+      "description": "Day Trading Joe Ross New Hard cover English edition",
+      "quantity": "4.00",
+      "total_price": "550.00"
+    },
+    {
+      "description": "Theodore Boone: The Activist by John Grisham",
+      "quantity": "3.00",
+      "total_price": "14.82"
+    }
+  ],
+  "subtotal": {
+    "tax": "63.44",
+    "discount": "",
+    "total": "697.80"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

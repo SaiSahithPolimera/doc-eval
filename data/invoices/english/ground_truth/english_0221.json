@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Barker LLC",
+    "client_address": "722 James Gardens Apt. 564\nSkinnerside, LA 50576",
+    "seller_name": "Cummings, Lynn and Moran",
+    "seller_address": "USCGC Davis\nFPO AA 54736",
+    "invoice_number": "63028625",
+    "invoice_date": "02/19/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Atari console cx 2600 with box\nand 4 games with boxes",
+      "quantity": "5,00",
+      "total_price": "1045,00"
+    },
+    {
+      "description": "NEC PC Engine INTERFACE UNIT\nIFU-30 CD ROM Console\nPI-TG001 Tested Japan",
+      "quantity": "4,00",
+      "total_price": "703,96"
+    },
+    {
+      "description": "Nintendo Wii Console - 2 sets\ncontrollers Plus All Cables\nIncluded Works Great",
+      "quantity": "5,00",
+      "total_price": "549,95"
+    }
+  ],
+  "subtotal": {
+    "tax": "208,99",
+    "discount": "",
+    "total": "2 298,90"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

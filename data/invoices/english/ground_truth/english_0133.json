@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Tapia-Warren",
+    "client_address": "342 Gordon Wall\nSouth Cindy, LA 64003",
+    "seller_name": "Burns, Padilla and Daniels",
+    "seller_address": "10839 Cassandra Mill Suite 967\nLake Maryberg, KY 98472",
+    "invoice_number": "99214533",
+    "invoice_date": "05/25/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "26\"x26\" Marble Black Top\nCoffee Table Inlay Floral\nPietradura Art Christmas Gift",
+      "quantity": "2,00",
+      "total_price": "3 275,80"
+    },
+    {
+      "description": "24\"x24\" Black Marble Round\nTop Center Table Florals Inlaid\nArt Christmas Gift",
+      "quantity": "5,00",
+      "total_price": "6 534,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "891,80",
+    "discount": "",
+    "total": "9 809,80"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

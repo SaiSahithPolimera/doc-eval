@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Anderson-Scott",
+    "client_address": "4800 Julie Port\nCarsonstad, GA 97569",
+    "seller_name": "Crosby-Cox",
+    "seller_address": "39575 Ramirez Ways\nPaulshire, NC 88477",
+    "invoice_number": "62472177",
+    "invoice_date": "11/27/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "7'x4' Buy Marble Dining Table\nWith Black Top Marquetry Inlay\nHallway Decor E944",
+      "quantity": "5,00",
+      "total_price": "80 965,94"
+    },
+    {
+      "description": "15 Inches Marble Bed Side Table\nTop Stone Coffee Table with\nRoyal Inlay Work",
+      "quantity": "2,00",
+      "total_price": "542,30"
+    }
+  ],
+  "subtotal": {
+    "tax": "7 409,84",
+    "discount": "",
+    "total": "81 508,24"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

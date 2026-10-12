@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Berry, Strickland and Lawson",
+    "client_address": "507 Holly Land Apt. 686\nPowellborough, UT 13981",
+    "seller_name": "Williams, Boone and Allen",
+    "seller_address": "897 Larsen Path Apt. 547\nCampbellburgh, VA 00685",
+    "invoice_number": "48131301",
+    "invoice_date": "11/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo Switch Animal Crossing: New Horizon Special Edition Console BRAND NEW",
+      "quantity": "5,00",
+      "total_price": "2 194,50"
+    }
+  ],
+  "subtotal": {
+    "tax": "199,50",
+    "discount": "",
+    "total": "2 194,50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB63MRUJ38528386706321",
+    "payment_method": ""
+  }
+}

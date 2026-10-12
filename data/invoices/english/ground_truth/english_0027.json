@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Rodriguez, Grant and Green",
+    "client_address": "36999 Cynthia Walk Suite 460\nGreenchester, NC 24265",
+    "seller_name": "Lopez-Smith",
+    "seller_address": "1019 Jamie Coves Suite 536\nGarciaberg, AK 23239",
+    "invoice_number": "57696752",
+    "invoice_date": "10/03/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nautica Kids Boys Navy & Red\nwith White Rubber Sole Running\nSneakers Shoes US 10",
+      "quantity": "4,00",
+      "total_price": "2 200,00"
+    },
+    {
+      "description": "Nike Kids KD Trey 5 / Nike Black\nSize 4.5aY",
+      "quantity": "1,00",
+      "total_price": "24,20"
+    },
+    {
+      "description": "Timberland brown slip on shoes\nsize 4.5 juniors",
+      "quantity": "5,00",
+      "total_price": "11,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "203,20",
+    "discount": "",
+    "total": "2 235,20"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

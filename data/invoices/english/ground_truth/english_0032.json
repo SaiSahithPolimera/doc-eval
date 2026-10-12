@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Ruiz-Cowan",
+    "client_address": "8737 Guzman Flat Suite 825\nEast John, ME 21474",
+    "seller_name": "Fernandez-Evans",
+    "seller_address": "374 Mora Parks\nLake Debrachester, TX 96528",
+    "invoice_number": "47037480",
+    "invoice_date": "09/03/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "balmain dress 36",
+      "quantity": "5,00",
+      "total_price": "8525,00"
+    },
+    {
+      "description": "Jones Wear Dress Women White\nPink Floral Sleeveless Formal\nTea Dress Size 12",
+      "quantity": "3,00",
+      "total_price": "66,00"
+    },
+    {
+      "description": "Women Black Dress Mori Girl\nPuff Sleeve Korean Casual\nLoose Peter Pan Collar",
+      "quantity": "2,00",
+      "total_price": "30,78"
+    }
+  ],
+  "subtotal": {
+    "tax": "783,80",
+    "discount": "",
+    "total": "8 621,78"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Nguyen-Roach",
+    "client_address": "77477 Troy Cliff Apt. 853, Lake John, WV 84178",
+    "seller_name": "Clark-Foster",
+    "seller_address": "247 David Highway, Washingtonbury, MS 78346",
+    "invoice_number": "84652373",
+    "invoice_date": "02/23/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Stemware Rack Display Kitchen Wine Glass Holder Bottle Carbon Steel Free Punch",
+      "quantity": "1,00",
+      "total_price": "42,32"
+    },
+    {
+      "description": "VTG (4) 7 Ounce Since 1852 Milk Bottle Wine Carafe Juice Glass with Cork Lids",
+      "quantity": "1,00",
+      "total_price": "14,00"
+    },
+    {
+      "description": "Vintage Crystal Red Wine Glasses NOS West Germany 1983 6 10 ounce elegant stems",
+      "quantity": "1,00",
+      "total_price": "35,45"
+    },
+    {
+      "description": "3 Ikea Stainless Steel 4-bottle Wine Rack 300.557.60 - great condition gift it!",
+      "quantity": "4,00",
+      "total_price": "100,00"
+    },
+    {
+      "description": "Lolita \"Wine Bouquet\" Hand Painted and Decorated Wine Glass NIB",
+      "quantity": "1,00",
+      "total_price": "20,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "21,18",
+    "discount": "",
+    "total": "232,95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "GB91IYXO05542456978150",
+    "account_number": "GB91IYXO05542456978150",
+    "payment_method": ""
+  }
+}

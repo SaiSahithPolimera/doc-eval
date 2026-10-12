@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Rogers, Fitzpatrick and Salazar",
+    "client_address": "504 Ashley Pike\nJameshaven, ND 78333",
+    "seller_name": "Wang and Sons",
+    "seller_address": "88329 Elizabeth Spring Suite 079\nWest Michael, CA 03921",
+    "invoice_number": "77513425",
+    "invoice_date": "02/12/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Kate Spade NY Sleeveless Ponte Fit & Flare Solid Black Dress Size 6",
+      "quantity": "3.00",
+      "total_price": "164.97"
+    },
+    {
+      "description": "Speechless Green Brown White Psychedelic Sleeveless Dress Size Large",
+      "quantity": "3.00",
+      "total_price": "23.10"
+    },
+    {
+      "description": "Zara Yellow Shift Dress XS",
+      "quantity": "5.00",
+      "total_price": "136.13"
+    },
+    {
+      "description": "Jones Wear Dress Women White Pink Floral Sleeveless Formal Tea Dress Size 12",
+      "quantity": "1.00",
+      "total_price": "22.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "31.47",
+    "discount": "",
+    "total": "346.19"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

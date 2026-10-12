@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Browning Ltd",
+    "client_address": "0907 Lewis Centers Apt. 160\nLake Jessica, NV 38156",
+    "seller_name": "Hood, Andrade and Kim",
+    "seller_address": "718 Scott Garden Suite 242\nJeffreyfort, WV 11633",
+    "invoice_number": "50846623",
+    "invoice_date": "01/30/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Sony PlayStation 3 12 GB\nCharcoal Black Console (Used)",
+      "quantity": "1.00",
+      "total_price": "120.99"
+    }
+  ],
+  "subtotal": {
+    "tax": "11.00",
+    "discount": "",
+    "total": "120.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

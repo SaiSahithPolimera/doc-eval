@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Rivera, Santiago and Brown",
+    "client_address": "3457 Harris Creek Apt. 720\nJacksonview, NV 45660",
+    "seller_name": "Mcintyre-Cox",
+    "seller_address": "6629 Mary Corner\nRobertchester, ND 27918",
+    "invoice_number": "26889356",
+    "invoice_date": "07/21/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Stemware Rack Display Kitchen\nWine Glass Holder Bottle\nCarbon Steel Free Punch",
+      "quantity": "1.00",
+      "total_price": "46.55"
+    },
+    {
+      "description": "Wine Rack Holder Iron Art\nHanging Racks Glass Cup\nStemware Shelf Mounted 2\nColor",
+      "quantity": "1.00",
+      "total_price": "20.63"
+    },
+    {
+      "description": "Bottle tops lid reusable\nvacuume sealer stopper flip cap\ncork wine beer",
+      "quantity": "5.00",
+      "total_price": "54.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "11.10",
+    "discount": "",
+    "total": "122.12"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

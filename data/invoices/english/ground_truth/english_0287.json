@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Martin PLC",
+    "client_address": "17129 Samantha Ports Apt. 993\nLake Ralphhaven, VA 01231",
+    "seller_name": "Sparks-Garcia",
+    "seller_address": "23018 Sarah Rest\nBaileyborough, OK 33496",
+    "invoice_number": "39489564",
+    "invoice_date": "06/20/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Skechers Hypno Splash Light Up Shoes Size 4 Medium Big Kid New",
+      "quantity": "3.00",
+      "total_price": "82.47"
+    },
+    {
+      "description": "Kid's Boys Hiking Garden Sandals Leisure Closed Toe Fisherman Beach Shoes Summer",
+      "quantity": "1.00",
+      "total_price": "35.07"
+    },
+    {
+      "description": "Joma Youth Boys Gol 205 Piso Multitaco Soccer Cleats 2.5 White Blue Yellow NEW",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "Saucony Boys' Ride ISO Sneaker, White/Blue/Vizi Red, 7 M US Little Kid",
+      "quantity": "5.00",
+      "total_price": "153.94"
+    }
+  ],
+  "subtotal": {
+    "tax": "30.68",
+    "discount": "",
+    "total": "337.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB46VKBJ69005019397807",
+    "payment_method": ""
+  }
+}

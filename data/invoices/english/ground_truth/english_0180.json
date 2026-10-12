@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Holland, Lee and Kline",
+    "client_address": "180 John Springs Suite 534\nBurgessland, RI 40270",
+    "seller_name": "Cervantes, Carpenter and Morse",
+    "seller_address": "875 Ferrell Plains\nGeorgeberg, TN 37646",
+    "invoice_number": "36051373",
+    "invoice_date": "04/07/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "18\"x18\" Marble White Table Top\nLapis Inlay Pietradura Floral\nHome Décor Art Gift",
+      "quantity": "1.00",
+      "total_price": "1188.45"
+    },
+    {
+      "description": "Yellow Stone Royal Art Marble\nDinning Table Top Round\nGarden Table Top 60 Inches",
+      "quantity": "1.00",
+      "total_price": "6756.00"
+    },
+    {
+      "description": "Floral two seater fabric sofa",
+      "quantity": "2.00",
+      "total_price": "398.00"
+    },
+    {
+      "description": "26\"x26\" Marble Black Top\nCoffee Table Inlay Floral\nPietradura Art Christmas Gift",
+      "quantity": "1.00",
+      "total_price": "1489.00"
+    },
+    {
+      "description": "1-4 Seater General Elastic\nFabric Protector Sofa Covers\nCouch Slipcovers Stretch",
+      "quantity": "4.00",
+      "total_price": "3.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "983.54",
+    "discount": "",
+    "total": "10818.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

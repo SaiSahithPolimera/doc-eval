@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Lee-Burnett",
+    "client_address": "20130 Jessica Track Apt. 223\nWeberhaven, CO 86898",
+    "seller_name": "Williamson-Hernandez",
+    "seller_address": "68869 Jones Port Suite 113\nParksstad, NM 27564",
+    "invoice_number": "37107781",
+    "invoice_date": "07/29/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "CLEARANCE!!! Fast HP Desktop Computer PC Core 2 Duo WINDOWS 10 + LCD + KB + MS",
+      "quantity": "3.00",
+      "total_price": "296.97"
+    },
+    {
+      "description": "GAMING PC Desktop Computer RGB BUNDLE Intel CORE i7 16GB RAM Nvidia GTX 1650 1TB",
+      "quantity": "4.00",
+      "total_price": "2 507.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "254.99",
+    "discount": "",
+    "total": "2 804.92"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB30TGFD70872253743837",
+    "payment_method": ""
+  }
+}

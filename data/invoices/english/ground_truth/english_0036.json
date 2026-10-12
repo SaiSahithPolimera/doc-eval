@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Leblanc and Sons",
+    "client_address": "65388 Stephen Center Apt. 014\nHallport, CT 28544",
+    "seller_name": "Ross Group",
+    "seller_address": "9177 Torres Streets\nCharleston, RI 34271",
+    "invoice_number": "60518602",
+    "invoice_date": "08/30/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Sony PlayStation 1 PS1 Console model scph-7501",
+      "quantity": "1.00",
+      "total_price": "14.99"
+    },
+    {
+      "description": "Sony SCPH-30001R PlayStation 2 Fat Console System w/ Network Adapter",
+      "quantity": "4.00",
+      "total_price": "319.96"
+    },
+    {
+      "description": "Nintendo Wii U 32GB Black Console Deluxe Set with 21 games!",
+      "quantity": "5.00",
+      "total_price": "2000.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "233.50",
+    "discount": "",
+    "total": "2568.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

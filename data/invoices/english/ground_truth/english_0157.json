@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Moore-Scott",
+    "client_address": "381 Denise Ridges\nPort Ericport, WY 05623",
+    "seller_name": "Wright, Gonzalez and Gomez",
+    "seller_address": "45164 Day Village Apt. 954\nSimmonsstad, NM 14711",
+    "invoice_number": "12323459",
+    "invoice_date": "08/04/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Zara Yellow Shift Dress XS",
+      "quantity": "3.00",
+      "total_price": "81.68"
+    }
+  ],
+  "subtotal": {
+    "tax": "7.43",
+    "discount": "",
+    "total": "81.68"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB33EMHE63462278604328",
+    "payment_method": ""
+  }
+}

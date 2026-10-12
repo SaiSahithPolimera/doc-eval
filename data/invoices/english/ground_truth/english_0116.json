@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Warren-Willis",
+    "client_address": "925 Ward Causeway Apt. 627\nLynnfort, MA 08264",
+    "seller_name": "Ramirez Ltd",
+    "seller_address": "Unit 8627 Box 5120\nDPO AP 39497",
+    "invoice_number": "20802870",
+    "invoice_date": "02/08/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "YILONG 4'x6' Golden Handmade Carpet Antique Hand Knotted Silk Area Rugs 087B",
+      "quantity": "4,00",
+      "total_price": "15 840,00"
+    },
+    {
+      "description": "YILONG 2.5'x4' Small Hand Knotted Silk Carpets Antistatic Floor Area Rug 844B",
+      "quantity": "2,00",
+      "total_price": "4 400,00"
+    },
+    {
+      "description": "Galaxy Butterfly Area Rugs Children Bedroom Non-Slip Doormat Floor Mat Carpet",
+      "quantity": "1,00",
+      "total_price": "15,06"
+    },
+    {
+      "description": "Yilong 5'x8' Handknotted Silk Area Rug Living Room Black Classic Carpet L38B",
+      "quantity": "1,00",
+      "total_price": "8 800,00"
+    },
+    {
+      "description": "Soft Sheepskin Mat Faux Fur Fake Rug Shaggy Non Slip Floor Carpet Black",
+      "quantity": "3,00",
+      "total_price": "32,47"
+    }
+  ],
+  "subtotal": {
+    "tax": "2 644,32",
+    "discount": "",
+    "total": "29 087,53"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

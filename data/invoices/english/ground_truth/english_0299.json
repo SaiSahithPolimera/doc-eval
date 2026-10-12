@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Chapman, Baker and Allison",
+    "client_address": "86933 Mata Center\nAlicemouth, SD 91648",
+    "seller_name": "Edwards, Smith and Foster",
+    "seller_address": "9897 Vargas Squares\nWest Cory, PA 59091",
+    "invoice_number": "49848653",
+    "invoice_date": "05/15/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Metal Storage Shelf Wine Glass Rack Wine Glasses for The Cabinet",
+      "quantity": "3.00",
+      "total_price": "73.99"
+    },
+    {
+      "description": "Keep the Boos Coming Stainless Steel Stemless Wine Tumbler, 12 oz.",
+      "quantity": "4.00",
+      "total_price": "87.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "14.72",
+    "discount": "",
+    "total": "161.94"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

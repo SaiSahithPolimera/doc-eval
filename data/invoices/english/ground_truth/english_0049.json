@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Jackson-Cardenas",
+    "client_address": "36484 Richard Extensions Suite 325\nNorth Valeriehaven, AZ 79970",
+    "seller_name": "Robinson and Sons",
+    "seller_address": "PSC 9668, Box 0970\nAPO AP 52365",
+    "invoice_number": "87958388",
+    "invoice_date": "04/11/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "16\"x16\" Marble Top Customize Table Lapis Lazuli Marquetry Inlaid Halloween Gift",
+      "quantity": "3.00",
+      "total_price": "2 640.00"
+    },
+    {
+      "description": "16\"x16\" White Marble Top Counter Table Malachite Inlay Marquetry Art Home Décor",
+      "quantity": "3.00",
+      "total_price": "2 461.77"
+    }
+  ],
+  "subtotal": {
+    "tax": "463.80",
+    "discount": "",
+    "total": "5 101.77"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

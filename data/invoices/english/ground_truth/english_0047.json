@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Yu, Williams and Barry",
+    "client_address": "34887 Craig Trail Apt. 161\nLake Sally, CA 02955",
+    "seller_name": "Armstrong Inc",
+    "seller_address": "9547 Samuel Cliffs\nSamuelchester, CO 34580",
+    "invoice_number": "49360354",
+    "invoice_date": "05/03/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Lotto Youth Boys Fuerzapura L500 Jr Soccer Cleats Size 2.5 White Blue M6147 2.5Y",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "Skechers Kids' Snap Sprints Sneaker Size 4 Blue/Black 975461",
+      "quantity": "5.00",
+      "total_price": "164.94"
+    },
+    {
+      "description": "Joma Boys Youth Super Copa 102 Soccer Cleats 5.5 White Yellow Blue Futbol NEW",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Joma Youth Boys Gol 205 Piso Multitaco Soccer Cleats 1.5 White Blue Yellow NEW",
+      "quantity": "2.00",
+      "total_price": "43.98"
+    },
+    {
+      "description": "100Pcs Wall Stickers Home Decor Glow In The Dark Star sticker Decal Kids room",
+      "quantity": "5.00",
+      "total_price": "9.35"
+    }
+  ],
+  "subtotal": {
+    "tax": "35.84",
+    "discount": "",
+    "total": "394.19"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB74SATA49913307165446",
+    "payment_method": ""
+  }
+}

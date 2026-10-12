@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Hobbs-Stevens",
+    "client_address": "Unit 4520 Box 4858\nDPO AP 27104",
+    "seller_name": "Dawson-Strickland",
+    "seller_address": "460 Turner Loop\nNorth Williamtown, OR 35075",
+    "invoice_number": "72929361",
+    "invoice_date": "06/29/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NWT $1200 J.Crew Silk Chiffon\nIvory Wedding Dress with\nBeading",
+      "quantity": "1.00",
+      "total_price": "324.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "29.50",
+    "discount": "",
+    "total": "324.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

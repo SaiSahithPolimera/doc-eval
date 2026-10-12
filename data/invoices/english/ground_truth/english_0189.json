@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "French-Sullivan",
+    "client_address": "609 Morgan Locks\nNew Jamiemouth, FL 32767",
+    "seller_name": "Horne-Fields",
+    "seller_address": "13432 Kim Cliffs\nPort Wandaland, IA 40996",
+    "invoice_number": "87934175",
+    "invoice_date": "10/19/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Youth Kids Boys New Balance Arishi v2 Grey/Red Athletic Running Shoes Size 6.5 M",
+      "quantity": "2.00",
+      "total_price": "59.38"
+    },
+    {
+      "description": "Nike Kids KD Trey 5 / Nike Black Size 4.5aY",
+      "quantity": "2.00",
+      "total_price": "48.40"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.80",
+    "discount": "",
+    "total": "107.78"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

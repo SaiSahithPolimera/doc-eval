@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Mora and Sons",
+    "client_address": "7352 Meadows Overpass Apt. 977\nDanielside, PA 85793",
+    "seller_name": "Harrell, Johnson and Thompson",
+    "seller_address": "885 Franklin Fall\nLake Gregory, MI 85479",
+    "invoice_number": "76724637",
+    "invoice_date": "07/10/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Under Armour black boys athletic shoes 7y",
+      "quantity": "5.00",
+      "total_price": "93.50"
+    },
+    {
+      "description": "Teva Hurricane 1019390 All Black Sandals with Hook and Loop Closure, Youth's 5",
+      "quantity": "1.00",
+      "total_price": "10.99"
+    },
+    {
+      "description": "Nike Air Force 1 Low 314192-117 Triple White Youth Boys Size 5Y",
+      "quantity": "4.00",
+      "total_price": "241.78"
+    },
+    {
+      "description": "Adidas Baseball Youth Cleats Spikes Kids Shoes Black White Size 12K",
+      "quantity": "3.00",
+      "total_price": "39.57"
+    },
+    {
+      "description": "Skechers Shoes Kids Size 2",
+      "quantity": "3.00",
+      "total_price": "33.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "38.08",
+    "discount": "",
+    "total": "418.84"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

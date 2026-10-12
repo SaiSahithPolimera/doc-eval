@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Hester Inc",
+    "client_address": "4000 Tonya Rapid Suite 963, South Marissaport, MN39537",
+    "seller_name": "Bailey, Murray and Lewis",
+    "seller_address": "33771 Powell Pike Suite 054, East Lisastad, RI 021938",
+    "invoice_number": "40108666",
+    "invoice_date": "02/07/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Microsoft Xbox One 1 - 500 GB Console - Black w/ Controller & Power Supply GOOD",
+      "quantity": "1,00",
+      "total_price": "175,00"
+    },
+    {
+      "description": "Nintendo DSOriginal NTR-001 Console - Camouflage - Tested Works",
+      "quantity": "3,00",
+      "total_price": "2,97"
+    },
+    {
+      "description": "Nintendo 2DS Console Blue Japan model Combine Shipping available 2",
+      "quantity": "5,00",
+      "total_price": "274,95"
+    }
+  ],
+  "subtotal": {
+    "tax": "45,29",
+    "discount": "",
+    "total": "498,21"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "GB80MTNI52501633185191",
+    "account_number": "GB80MTNI52501633185191",
+    "payment_method": ""
+  }
+}

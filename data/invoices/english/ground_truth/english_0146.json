@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Petersen LLC",
+    "client_address": "33707 Cox Parkway Apt. 612\nWest Fernando, WY 12616",
+    "seller_name": "Jordan-Cohen",
+    "seller_address": "38168 Sullivan Fall\nLake Carlamouth, MA 15367",
+    "invoice_number": "22132714",
+    "invoice_date": "05/08/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fast Detel Desktop Computer\nPC Intel i5-2400 3.1GHz 4GB\n320GB Wifi Windows 10",
+      "quantity": "3.00",
+      "total_price": "395.84"
+    },
+    {
+      "description": "Desktop Computer Gaming PC\nBuild Your Own Ryzen 3000G\n3200G 3.5Ghz+ Vega or GTX",
+      "quantity": "4.00",
+      "total_price": "2 547.60"
+    },
+    {
+      "description": "Dell Optiplex Core i7 Desktop\nComputer PC 8GB 1TB HD DVD\nWindows 10 Pro",
+      "quantity": "4.00",
+      "total_price": "1 011.78"
+    },
+    {
+      "description": "Dell Optiplex Desktop Computer\n790 Core i7 8GB RAM 1TB HD\nDVD Windows 10 PC Wifi",
+      "quantity": "2.00",
+      "total_price": "351.89"
+    },
+    {
+      "description": "HP Desktop Computer 400 G1\nCore i3 3.4GHz 8GB 256GB SSD\n19\" LCD Windows 10 PC",
+      "quantity": "3.00",
+      "total_price": "461.83"
+    },
+    {
+      "description": "Dell Precision Workstation\nComputer Intel Xeon Quad Core\n16GB 1TB Windows 10 Pro",
+      "quantity": "1.00",
+      "total_price": "152.90"
+    },
+    {
+      "description": "Dell Optiplex 7020 Desktop\nComputer PC Core i5 3.2GHz\n8GB 500GB Windows 10 Pro",
+      "quantity": "2.00",
+      "total_price": "373.89"
+    }
+  ],
+  "subtotal": {
+    "tax": "10%",
+    "discount": "",
+    "total": "5 295.73"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

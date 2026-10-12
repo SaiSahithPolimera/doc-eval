@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Ballard-Henry",
+    "client_address": "USNS Brown\nFPO AE 78346",
+    "seller_name": "Nichols-Powell",
+    "seller_address": "19796 Lauren Courts\nWatkinsview, VA 84637",
+    "invoice_number": "16499996",
+    "invoice_date": "05/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "fire los angeles dress Medium",
+      "quantity": "3.00",
+      "total_price": "21.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.95",
+    "discount": "",
+    "total": "21.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB64PEZD24221118107054",
+    "payment_method": ""
+  }
+}

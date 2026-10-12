@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Medina, Moss and Martin",
+    "client_address": "88048 Tonya Streets Apt. 993\nPattersonhaven, MI 03007",
+    "seller_name": "Smith-Torres",
+    "seller_address": "911 Mckenzie Ports Apt. 946\nJeffborough, AK 82486",
+    "invoice_number": "76628307",
+    "invoice_date": "05/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Original Nintendo Gaming Console with Robot, 9 games & extras",
+      "quantity": "3,00",
+      "total_price": "1 567,50"
+    },
+    {
+      "description": "GameCube Nintendo Orange Console Controller 2 Soft 7 AV Power Cable Memory Card",
+      "quantity": "2,00",
+      "total_price": "334,14"
+    },
+    {
+      "description": "New Nintendo 2DS XL Console Black/Turquoise w/ Mario Kart 7 Preinstalled -JA1141",
+      "quantity": "5,00",
+      "total_price": "714,95"
+    },
+    {
+      "description": "Anbernic Retro Games 500 in 1 8 Bit Classic Video Game Console Handheld Player",
+      "quantity": "5,00",
+      "total_price": "6,87"
+    },
+    {
+      "description": "Microsoft Xbox One 500GB 1540 Black Game Console TESTED Complete",
+      "quantity": "5,00",
+      "total_price": "769,95"
+    }
+  ],
+  "subtotal": {
+    "tax": "308,49",
+    "discount": "",
+    "total": "3 393,40"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB23TSVS63621685904101",
+    "payment_method": ""
+  }
+}

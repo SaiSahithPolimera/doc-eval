@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Conner, Lucas and Mullen",
+    "client_address": "70496 James Hill Apt. 960\nSmithside, DC 23664",
+    "seller_name": "Curtis-Lloyd",
+    "seller_address": "USNV Rodriguez\nFPO AA 36109",
+    "invoice_number": "50357965",
+    "invoice_date": "02/06/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "KING JAMES VERSION (KJV), RAINBOW STUDY BIBLE, BLACK LEATHER with INDEX",
+      "quantity": "4.00",
+      "total_price": "233.16"
+    },
+    {
+      "description": "The Nature Notes of an Edwardian Lady (Country Dia... by Holden, Edith Paperback",
+      "quantity": "1.00",
+      "total_price": "29.34"
+    },
+    {
+      "description": "The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz",
+      "quantity": "1.00",
+      "total_price": "3.63"
+    },
+    {
+      "description": "Merry Robin Hood by H. Pyle\nNew Sealed Illustrated Leather Bound Gift Hardback",
+      "quantity": "5.00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Astronomy: A Visual Guide",
+      "quantity": "2.00",
+      "total_price": "11.04"
+    }
+  ],
+  "subtotal": {
+    "tax": "35.19",
+    "discount": "",
+    "total": "387.11"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB49KRRH09651427977294",
+    "payment_method": ""
+  }
+}

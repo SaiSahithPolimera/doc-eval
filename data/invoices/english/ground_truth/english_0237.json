@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Adkins Inc",
+    "client_address": "9585 Melissa Motorway Apt. 430\nChristophermouth, MN 61410",
+    "seller_name": "Anderson-Garcia",
+    "seller_address": "52498 Rodney Land\nPort Jason, NV 44346",
+    "invoice_number": "24417396",
+    "invoice_date": "03/02/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "SONY Playstation2 Console\nSCPH-39000 \"Aqua Color \" /\nTESTED 11179",
+      "quantity": "3.00",
+      "total_price": "198.00"
+    },
+    {
+      "description": "B397 Nintendo DSi console Red\nJapan NDS x",
+      "quantity": "1.00",
+      "total_price": "7.69"
+    },
+    {
+      "description": "Sega Saturn Console Gray\nHST-3200 HST-3210 Japanese",
+      "quantity": "4.00",
+      "total_price": "527.91"
+    },
+    {
+      "description": "Nintendo Switch Console Tablet\nOnly Unpatched Hackable Low\nSerial Number",
+      "quantity": "2.00",
+      "total_price": "549.98"
+    },
+    {
+      "description": "Pre Order New Sony PlayStation\n5 Console Disk Version Ships\nFast 11/12 Confirmed",
+      "quantity": "2.00",
+      "total_price": "1870.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "286.69",
+    "discount": "",
+    "total": "3153.58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

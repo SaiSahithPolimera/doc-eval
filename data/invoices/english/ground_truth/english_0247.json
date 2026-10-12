@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Jordan, Jones and Rodriguez",
+    "client_address": "372 John Tunnel\nPatelport, SC 86533",
+    "seller_name": "Holmes-Whitney",
+    "seller_address": "PSC 4815, Box 7683\nAPO AE 56344",
+    "invoice_number": "37877758",
+    "invoice_date": "07/02/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "12\"x18\" White Marble Coffee Top Table Lapis Inlay Pietradura Floral Art Decor",
+      "quantity": "4.00",
+      "total_price": "1744.82"
+    },
+    {
+      "description": "24\"x24\" Top Marble White Table Carnelian Marquetry Interior Thanksgiving Gift",
+      "quantity": "5.00",
+      "total_price": "11000.00"
+    },
+    {
+      "description": "24\"x24\" Marble Black Top Coffee Table Inlaid Floral Art Christmas Gift Home Deco",
+      "quantity": "3.00",
+      "total_price": "3795.00"
+    },
+    {
+      "description": "48 Inches Marble Coffee Table Top Inlay with Yellow Stone Art Dinette Table Top",
+      "quantity": "1.00",
+      "total_price": "3740.00"
+    },
+    {
+      "description": "7'x4' Blue Random Marble Dining Hallway Table Top Lapis Lazuli Inlay Decor E947A",
+      "quantity": "3.00",
+      "total_price": "27040.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "4301.85",
+    "discount": "",
+    "total": "47320.32"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB81XDRW19367191324873",
+    "payment_method": ""
+  }
+}

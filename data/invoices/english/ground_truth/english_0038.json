@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Brown-Vazquez",
+    "client_address": "USCGC Monroe\nFPO AA 63303",
+    "seller_name": "Hall LLC",
+    "seller_address": "27618 Johnson Shores Suite 030\nRichport, AR 85238",
+    "invoice_number": "42498094",
+    "invoice_date": "03/21/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Saucony Boys' Ride ISO Sneaker, White/Blue/Vizi Red, 7 M US Little Kid",
+      "quantity": "3.00",
+      "total_price": "92.37"
+    },
+    {
+      "description": "Fila Shoes Sneakers Kids size 11 Red black Gray",
+      "quantity": "1.00",
+      "total_price": "16.50"
+    },
+    {
+      "description": "Nike 7y Black",
+      "quantity": "2.00",
+      "total_price": "33.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "12.90",
+    "discount": "",
+    "total": "141.87"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

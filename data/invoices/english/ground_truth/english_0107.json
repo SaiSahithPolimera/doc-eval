@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Escobar-Johnson",
+    "client_address": "Unit 7238 Box 1008\nDPO AA 21814",
+    "seller_name": "Rivers-Martin",
+    "seller_address": "387 Franco Land Apt. 534\nPort Donna, PA 64521",
+    "invoice_number": "61231490",
+    "invoice_date": "03/06/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Air Force 1 Low\n314192-117 Triple White Youth\nBoys Size 5Y",
+      "quantity": "3.00",
+      "total_price": "181,34"
+    }
+  ],
+  "subtotal": {
+    "tax": "16.49",
+    "discount": "",
+    "total": "181,34"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

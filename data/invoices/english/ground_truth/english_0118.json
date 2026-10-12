@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Roth-Smith",
+    "client_address": "802 Pamela Mission\nMatthewview, IL 73213",
+    "seller_name": "Watson LLC",
+    "seller_address": "15758 Hartman Summit\nPort Pamelamouth, SC 83489",
+    "invoice_number": "49923258",
+    "invoice_date": "10/26/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Original Nintendo Gaming Console with Robot, 9 games & extras",
+      "quantity": "1.00",
+      "total_price": "522.50"
+    },
+    {
+      "description": "Nintendo Switch Gaming Console W/ Neon Blue & Red Controllers, Carry Case, Cable",
+      "quantity": "2.00",
+      "total_price": "660.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "107.50",
+    "discount": "",
+    "total": "1182.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

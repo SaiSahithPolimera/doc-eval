@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Lucero-Brown",
+    "client_address": "20333 Erik Club Apt. 925\nLake Abigailborough, MN 76772",
+    "seller_name": "Rodriguez and Sons",
+    "seller_address": "60916 James Squares Suite 024\nCodytown, NM 42311",
+    "invoice_number": "76229289",
+    "invoice_date": "12/04/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gaming PC Computer RX 580\n8GB Ryzen 5 2x8GB Ram",
+      "quantity": "3,00",
+      "total_price": "1 320,00"
+    },
+    {
+      "description": "GAMING PC Desktop Computer\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB",
+      "quantity": "5,00",
+      "total_price": "3 024,95"
+    },
+    {
+      "description": "computer",
+      "quantity": "4,00",
+      "total_price": "1 319,96"
+    }
+  ],
+  "subtotal": {
+    "tax": "514,99",
+    "discount": "",
+    "total": "5 664,90"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

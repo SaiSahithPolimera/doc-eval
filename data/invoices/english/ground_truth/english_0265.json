@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Duncan PLC",
+    "client_address": "Unit 8799 Box 0703\nDPO AP 81970",
+    "seller_name": "Fitzpatrick and Sons",
+    "seller_address": "00480 Cook Cove\nSpencerport, UT 12036",
+    "invoice_number": "12847181",
+    "invoice_date": "03/03/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "HP Desktop Computer PC Core i5 16GB 2TB HD 256GB SSD 22\" LCD Windows 10",
+      "quantity": "4.00",
+      "total_price": "615.78"
+    },
+    {
+      "description": "CUSTOM BUILT AMD RYZEN THREADRIPPER GAMING COMPUTER, 32 GB RAM,",
+      "quantity": "3.00",
+      "total_price": "4 620.00"
+    },
+    {
+      "description": "Fast Dell Optiplex Desktop PC Computer Dual Core 3.4Ghz 8GB 1TB Win 10 Pro WIFI",
+      "quantity": "1.00",
+      "total_price": "238.70"
+    },
+    {
+      "description": "Dell Optiplex 790 Computer i7 @3.40 Ghz Quad Core 250GB 4GB Working",
+      "quantity": "3.00",
+      "total_price": "527.97"
+    },
+    {
+      "description": "Vintage Microsolutions Pentium 133mhz Desktop Tower PC Windows 95 5.25 Floppy",
+      "quantity": "2.00",
+      "total_price": "858.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "623.68",
+    "discount": "",
+    "total": "6 860.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

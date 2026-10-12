@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Weaver-Russell",
+    "client_address": "7418 Hannah Shoals\nNew Christopherchester, SD 61672",
+    "seller_name": "Costa Inc",
+    "seller_address": "1150 Bryan Mountain Apt. 233\nAaronstad, FL 31625",
+    "invoice_number": "44195807",
+    "invoice_date": "07/09/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Complete Life's Little Instruction Book by Brown, H. Jackson, Jr.",
+      "quantity": "1.00",
+      "total_price": "4.50"
+    },
+    {
+      "description": "American Zoos",
+      "quantity": "1.00",
+      "total_price": "5.38"
+    },
+    {
+      "description": "Florida's List of Protected Plants in Words and Pictures",
+      "quantity": "1.00",
+      "total_price": "6.05"
+    },
+    {
+      "description": "the invisible life of addie larue, EBOOK new original high quality, updated 2020",
+      "quantity": "1.00",
+      "total_price": "3.29"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.75",
+    "discount": "",
+    "total": "19.22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Moore-Banks",
+    "client_address": "3610 Atkinson Stravenue\nPort Michaelside, MD 58672",
+    "seller_name": "Wood, Nichols and Perry",
+    "seller_address": "844 Waller Points\nMichaeltown, WY 07953",
+    "invoice_number": "73783721",
+    "invoice_date": "10/22/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Banana Republic Maroon\nAbstract ruffled wrap Dress\nWith slip xs 0",
+      "quantity": "3.00",
+      "total_price": "16.50"
+    },
+    {
+      "description": "NWT Boohoo Sabra Emerald\nGreen Floral Ruffle Dress Sz 12",
+      "quantity": "5.00",
+      "total_price": "27.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "4.00",
+    "discount": "",
+    "total": "43.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

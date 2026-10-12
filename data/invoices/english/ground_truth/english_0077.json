@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Preston-Webster",
+    "client_address": "2986 Weber Summit\nMarkstad, MN 43966",
+    "seller_name": "Castillo-Jones",
+    "seller_address": "396 Jones Shore Apt. 781\nNorth Cynthiafurt, MS 28881",
+    "invoice_number": "25194747",
+    "invoice_date": "05/19/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Cherokee Boys Grayton Skate Shoes 12 Surf Skate Casual 12K Black Extra Laces 12Y",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "jordan 4 kids Size 8",
+      "quantity": "3.00",
+      "total_price": "75.90"
+    },
+    {
+      "description": "Timberland brown slip on shoes size 4.5 juniors",
+      "quantity": "5.00",
+      "total_price": "11.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "13.90",
+    "discount": "",
+    "total": "152.87"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

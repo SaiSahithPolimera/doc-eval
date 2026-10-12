@@ -1,0 +1,34 @@
+{
+  "invoice": {
+    "client_name": "Wilson-Martinez",
+    "client_address": "31524 Tonya Freeway\nCartermouth, MD 31955",
+    "seller_name": "Yang-Pierce",
+    "seller_address": "1317 James Divide\nSmithland, HI 32229",
+    "invoice_number": "80871648",
+    "invoice_date": "02/18/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fluffy Rug Carpet Non Slip Soft Area Rugs Bathroom Room Round Floor Mat Washable",
+      "quantity": "2.00",
+      "total_price": "18.90"
+    },
+    {
+      "description": "Turkish Kayseri Small Kilim Rug, Doormat, Bathmat, Decor Area Rug Carpet 41\"x74\"",
+      "quantity": "3.00",
+      "total_price": "181.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "18.22",
+    "discount": "",
+    "total": "200.40"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Cole, Lee and Long",
+    "client_address": "PSC 5057, Box 8574\nAPO AP 08956",
+    "seller_name": "Henry Inc",
+    "seller_address": "46769 James Grove Apt. 769\nLauraton, OR 80222",
+    "invoice_number": "94215570",
+    "invoice_date": "11/05/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Bicycle Wine Bottle Holder/Excellent Condition",
+      "quantity": "2.00",
+      "total_price": "9.98"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.00",
+    "discount": "",
+    "total": "10.98"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

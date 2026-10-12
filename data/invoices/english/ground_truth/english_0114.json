@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Salinas Ltd",
+    "client_address": "3043 Peters Lights Suite 433\nGreerton, NV 21983",
+    "seller_name": "Potter-Gordon",
+    "seller_address": "5907 Donna Club\nRobinsonside, DC 18710",
+    "invoice_number": "86736203",
+    "invoice_date": "05/20/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Cartoon Rabbit Printed Round Carpet Area Rug Children Play Tent Floor Mat Rug",
+      "quantity": "2.00",
+      "total_price": "389.58"
+    },
+    {
+      "description": "Muted Vegetable Dye Khootan Oriental Area Rug Hand-knotted Floral 8'x11' Carpet",
+      "quantity": "4.00",
+      "total_price": "8 868.82"
+    },
+    {
+      "description": "Abstract Living Room Carpet Home Decor Nordic Style Bedside Area Rug Floor Mats",
+      "quantity": "5.00",
+      "total_price": "132.06"
+    },
+    {
+      "description": "Yilong 8x10ft Hand knotted Wool Carpets Home Decor Modern Villa Area Rug P39",
+      "quantity": "1.00",
+      "total_price": "5 544.00"
+    },
+    {
+      "description": "Romantic Rose Flowers Area Rugs Kitchen Living Room Floor Mat Non-slip Carpets",
+      "quantity": "1.00",
+      "total_price": "14.71"
+    },
+    {
+      "description": "World Map Round Carpets Room Printed Area Rug Blue Floor Mat Bedroom Play Mat",
+      "quantity": "5.00",
+      "total_price": "460.79"
+    },
+    {
+      "description": "Xmas Christmas Rug Carpet Cartoon Bedroom Kids Play Mat Soft Flannel Area Rugs @",
+      "quantity": "4.00",
+      "total_price": "164.16"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 415,83",
+    "discount": "",
+    "total": "15 574,11"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB04NPPR85049860720734",
+    "payment_method": ""
+  }
+}

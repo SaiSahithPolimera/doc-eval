@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Andrews-Rivera",
+    "client_address": "2286 Crane Street\nClarkburgh, MI 68456",
+    "seller_name": "Merritt-Gallagher",
+    "seller_address": "857 Nathan Haven\nEast Levi, OR 94579",
+    "invoice_number": "19579298",
+    "invoice_date": "02/02/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "YILONG 4'x6' Handmade Carpet Hunting Scene Hand Knotted Silk Rugs 079B",
+      "quantity": "5,00",
+      "total_price": "19 800,00"
+    },
+    {
+      "description": "New Golden Brown Oriental Rug 4X6 Oushak Chobi Floral Hand-Knotted Foyer Carpet",
+      "quantity": "1,00",
+      "total_price": "255,92"
+    },
+    {
+      "description": "Garden Flower Carpet Quilted Bedroom Floor Princess Tapis Lace Rug Carpets",
+      "quantity": "1,00",
+      "total_price": "50,05"
+    },
+    {
+      "description": "Rectangle Faux Fur Sheepskin Rug Fluffy Area Rug Floor Carpets Dark Pink",
+      "quantity": "2,00",
+      "total_price": "65,89"
+    },
+    {
+      "description": "2x3 Blue Colour Carpet Home Décor Mat wall Hanging Silk Area Rug Hand Knotted",
+      "quantity": "2,00",
+      "total_price": "297,00"
+    },
+    {
+      "description": "YILONG 3'x4.5' Handknotted Silk Carpet Blue Home Sofa Interior Rug QZT15A",
+      "quantity": "1,00",
+      "total_price": "3 520,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "2 180,81",
+    "discount": "",
+    "total": "23 988,86"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

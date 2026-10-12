@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Mcintosh-Macdonald",
+    "client_address": "272 Allen Crescent Apt. 713\nCaseport, SC 53123",
+    "seller_name": "Huynh-Ruiz",
+    "seller_address": "9148 Chambers Rapid Suite 844\nNorth Sheila, PA 37277",
+    "invoice_number": "74494433",
+    "invoice_date": "09/12/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "4'x6' Wool Floral Handmade Rugs Carpet Moroccan Pastel Color Living Room Navajo",
+      "quantity": "4.00",
+      "total_price": "1315.60"
+    },
+    {
+      "description": "Tie Dyeing Fluffy Rugs Anti-Skid Area Rug Dining Room Carpet Floor Bedroom Mat",
+      "quantity": "2.00",
+      "total_price": "56.06"
+    },
+    {
+      "description": "Checkered Modern Kashkoli Oriental Area Rug Foyer Hand-knotted Wool Carpet 4'x6'",
+      "quantity": "2.00",
+      "total_price": "1773.20"
+    },
+    {
+      "description": "Galaxy Butterfly Area Rugs Children Bedroom Non-Slip Doormat Floor Mat Carpet",
+      "quantity": "3.00",
+      "total_price": "45.18"
+    },
+    {
+      "description": "Soft Sheepskin Mat Faux Fur Rug Small Shaggy Non Slip Floor Carpet White Gray",
+      "quantity": "4.00",
+      "total_price": "39.56"
+    },
+    {
+      "description": "Cartoon Rabbit Printed Round Carpet Area Rug Children Play Tent Floor Mat Rug",
+      "quantity": "4.00",
+      "total_price": "779.15"
+    }
+  ],
+  "subtotal": {
+    "tax": "364.43",
+    "discount": "",
+    "total": "4008.74"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,67 @@
+Invoice no: 40108666
+Date of issue:
+02/07/2020
+Seller:
+Client:
+Bailey, Murray and Lewis
+Hester Inc
+33771 Powell Pike Suite 054
+4000 Tonya Rapid Suite 963
+East Lisastad, RI 21938
+South Marissaport, MN39537
+Tax Id: 993-75-3149
+Tax Id: 998-98-6887
+IBAN: GB80MTNI52501633185191
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Microsoft Xbox One 1 - 500 GB
+1,00
+each
+175,00
+175,00
+10%
+192,50
+Console - Black w/ Controller &
+Power Supply GOOD
+2.
+Nintendo DSOriginal NTR-001
+3,00
+each
+0,99
+2,97
+10%
+3,27
+Console - Camouflage - Tested
+Works
+3.
+Nintendo 2DS Console Blue
+5,00
+each
+54,99
+274,95
+10%
+302,45
+Japan model Combine Shipping
+available 2
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+452,92
+45,29
+498,21
+Total
+$452,92
+$ 45,29
+$ 498,21

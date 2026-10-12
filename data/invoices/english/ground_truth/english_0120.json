@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Cook-Smith",
+    "client_address": "88740 Tyler Meadow Suite 201\nGarciamouth, KY 01739",
+    "seller_name": "Myers Inc",
+    "seller_address": "41819 Garrett Pass Suite 517\nNew Bryan, NC 40626",
+    "invoice_number": "62256280",
+    "invoice_date": "11/08/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Yilong 1'x1.5' 400Lines Area Rug High Density Hand knotted Silk Carpet 221H",
+      "quantity": "5.00",
+      "total_price": "2 970.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "270.00",
+    "discount": "",
+    "total": "2 970.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

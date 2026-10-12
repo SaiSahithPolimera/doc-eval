@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Martin, Wright and Mccarty",
+    "client_address": "PSC 0648, Box 7748\nAPO AP 78662",
+    "seller_name": "Raymond, Mejia and Thomas",
+    "seller_address": "77580 Flores Place Suite 254\nGreentown, HI 20526",
+    "invoice_number": "45904441",
+    "invoice_date": "02/14/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Adult Girl Version Hermione Granger Cosplay Costume Gryffindor Kid size In Stock",
+      "quantity": "3,00",
+      "total_price": "211,73"
+    },
+    {
+      "description": "Jordan Nike Kid Air 1 Retro High Black Gray Elephant Size 7Y 838850-013",
+      "quantity": "5,00",
+      "total_price": "275,00"
+    },
+    {
+      "description": "RICOSTA BGE boys everyday casual sandals NEW Size 33/ US 2",
+      "quantity": "1,00",
+      "total_price": "49,50"
+    },
+    {
+      "description": "Egyptian Comfort 1800 Count 4 Piece Bed Sheet Set Deep Pocket Bed Sheets",
+      "quantity": "3,00",
+      "total_price": "75,87"
+    },
+    {
+      "description": "Star Wars 100% 925 sterling silver BB8 Darth Vader Charm R2-D2 Fiit Pandora Gift",
+      "quantity": "1,00",
+      "total_price": "21,87"
+    }
+  ],
+  "subtotal": {
+    "tax": "57,63",
+    "discount": "",
+    "total": "633,96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB26PYSB20884519683362",
+    "payment_method": ""
+  }
+}

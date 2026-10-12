@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Hendricks, Hart and Miller",
+    "client_address": "81747 Brown Corner Apt. 501\nBaileyfort, WV 16678",
+    "seller_name": "Anderson Group",
+    "seller_address": "793 William Inlet\nMichaelhaven, RI 22480",
+    "invoice_number": "69703455",
+    "invoice_date": "02/06/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Intel Compute Stick (32GB, Intel\nAtom, 1.33GHz, 2GB) PC\nDesktop",
+      "quantity": "4.00",
+      "total_price": "198.00"
+    },
+    {
+      "description": "AMD Dual Core 3.9Ghz 4GB\nDDR3 500GB WiFi Windows 10\noffice Desktop PC Computer",
+      "quantity": "5.00",
+      "total_price": "1 374.95"
+    },
+    {
+      "description": "Desktop Computer Super\nWritemaster Intel Core Duo",
+      "quantity": "3.00",
+      "total_price": "74.94"
+    },
+    {
+      "description": "GAMING PC Desktop Computer\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB",
+      "quantity": "2.00",
+      "total_price": "1 209.98"
+    },
+    {
+      "description": "Fast HP Desktop Computer Intel\nProcessor 4GB 160GB 17\" LCD\nDVD Wifi Windows 10",
+      "quantity": "1.00",
+      "total_price": "109.95"
+    },
+    {
+      "description": "Computer Desktop Gaming i5\nRam 16 G",
+      "quantity": "3.00",
+      "total_price": "1 039.50"
+    }
+  ],
+  "subtotal": {
+    "tax": "364.30",
+    "discount": "",
+    "total": "4 007.31"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

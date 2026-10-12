@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Benjamin-Aguilar",
+    "client_address": "248 James Views Apt. 184\nPort Amytown, OR 42693",
+    "seller_name": "Wright, Pineda and Walker",
+    "seller_address": "2524 Kristie Pike Apt. 111\nEast Michael, ME 08063",
+    "invoice_number": "95296819",
+    "invoice_date": "06/19/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fluffy Floor Mat Anti-Skid Shaggy Area Rugs Dining Living Room Carpet Home Decor",
+      "quantity": "3.00",
+      "total_price": "12.84"
+    },
+    {
+      "description": "Round Carpets Bedroom Decor Rugs Double Layer Sponge Rugs Modern Style Carpets",
+      "quantity": "4.00",
+      "total_price": "200.02"
+    },
+    {
+      "description": "Geometry Hippie Non-slip Area Rugs Kitchen Rug Floor Mat Living Room Carpet Decor",
+      "quantity": "1.00",
+      "total_price": "15.03"
+    },
+    {
+      "description": "New Candy Color Soft Anti-Skid Carpet Soft Non slip Rug Living Bedroom Floor Mat",
+      "quantity": "5.00",
+      "total_price": "65.95"
+    },
+    {
+      "description": "Imitation Wool Carpet Rugs Koala Panda Plush Living Room Blankets Non Slip Decor",
+      "quantity": "2.00",
+      "total_price": "57.44"
+    },
+    {
+      "description": "Muted Mauve Floral Design 4X6 Oushak Chobi Oriental Rug Wool Home Decor Carpet",
+      "quantity": "5.00",
+      "total_price": "1519.98"
+    },
+    {
+      "description": "YILONG 4'x6' Golden Handmade Carpet House Decor Hand Knotted Silk Rugs 088B",
+      "quantity": "4.00",
+      "total_price": "15840.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "1610.11",
+    "discount": "",
+    "total": "17711.25"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,87 @@
+Invoice no: 84652373
+Date of issue:
+02/23/2021
+Seller:
+Client:
+Nguyen-Roach
+Clark-Foster
+247 David Highway
+77477 Troy Cliff Apt. 853
+Lake John, WV 84178
+Washingtonbury, MS 78346
+Tax Id: 991-72-5826
+Tax Id: 937-70-8530
+IBAN: GB91IYXO05542456978150
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Stemware Rack Display Kitchen
+1,00
+each
+42,32
+42,32
+10%
+46,55
+Wine Glass Holder Bottle
+Carbon Steel Free Punch
+2.
+VTG (4) 7 Ounce Since 1852
+1,00
+each
+14,00
+14,00
+10%
+15,40
+Milk Bottle Wine Carafe Juice
+Glass with Cork Lids
+3.
+Vintage Crystal Red Wine
+1,00
+each
+35,45
+35,45
+10%
+39,00
+Glasses NOS West Germany
+1983 6 10 ounce elegant stems
+4.
+3 Ikea Stainless Steel 4-bottle
+4,00
+each
+25,00
+100,00
+10%
+110,00
+Wine Rack 300.557.60 - great
+condition gift it!
+5.
+Lolita "Wine Bouquet" Hand
+1,00
+each
+20,00
+20,00
+10%
+22,00
+Painted and Decorated Wine
+Glass NIB
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+211,77
+21,18
+232,95
+Total
+$ 211,77
+$ 21,18
+$ 232,95

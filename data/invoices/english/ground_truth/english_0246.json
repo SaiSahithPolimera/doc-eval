@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Meadows-Young",
+    "client_address": "9644 Lindsay Well Apt. 770\nNorth David, HI 72138",
+    "seller_name": "Walker, Andrews and Leblanc",
+    "seller_address": "2929 Fox Port Suite 852\nKyleview, IN 11233",
+    "invoice_number": "96569585",
+    "invoice_date": "04/17/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Rug for living room-Minion And\nBanana Area Rugs Living Room\nCarpet, Christmas...",
+      "quantity": "5.00",
+      "total_price": "164.78"
+    },
+    {
+      "description": "3D Printed Illusion Rug Round\nGrid Vortex Carpet Anti-slip Mat\nFloor Home C4R0",
+      "quantity": "5.00",
+      "total_price": "94.21"
+    },
+    {
+      "description": "Deluxe Soft Faux Sheepskin\nShaggy Area Floor Rugs Kids\nPlay Carpet",
+      "quantity": "1.00",
+      "total_price": "15.42"
+    }
+  ],
+  "subtotal": {
+    "tax": "24.95",
+    "discount": "",
+    "total": "274.42"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

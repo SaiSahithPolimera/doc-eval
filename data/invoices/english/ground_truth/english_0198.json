@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Hall-Skinner",
+    "client_address": "PSC 7135, Box 6318\nAPO AP 50309",
+    "seller_name": "Hernandez, Barber and Jones",
+    "seller_address": "Unit 6479 Box 9606\nDPO AA 53044",
+    "invoice_number": "39571754",
+    "invoice_date": "07/03/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "3D Modern Printing Flower Carpet Non Slip Area Rug Living Room Floor Door Mat",
+      "quantity": "4,00",
+      "total_price": "51,52"
+    },
+    {
+      "description": "Soft Sheepskin Mat Faux Fur Rug Small Shaggy Non Slip Floor Carpet Yellow",
+      "quantity": "3,00",
+      "total_price": "27,72"
+    },
+    {
+      "description": "All-Over Modern Gabbeh Kashkoli Oriental Area Rug Hand-knotted Foyer Carpet 4x6",
+      "quantity": "1,00",
+      "total_price": "886,60"
+    },
+    {
+      "description": "Yilong 2.5'x4' Antique HandKnotted Silk Area Rug Antistatic Home Carpet 838B",
+      "quantity": "3,00",
+      "total_price": "6 600,00"
+    },
+    {
+      "description": "Pittsburgh Steelers Anti-Skid Area Rug Floor Mat Soft Carpet Living Room Bedroom",
+      "quantity": "4,00",
+      "total_price": "79,38"
+    }
+  ],
+  "subtotal": {
+    "tax": "695,02",
+    "discount": "",
+    "total": "7 645,22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

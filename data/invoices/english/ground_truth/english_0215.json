@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "White Ltd",
+    "client_address": "58435 Kline Wall\nPort Stacey, NM 41817",
+    "seller_name": "Lopez, Murray and Johnston",
+    "seller_address": "62820 White Glen\nEmilyshire, IN 44602",
+    "invoice_number": "36187296",
+    "invoice_date": "01/05/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Kids KD Trey 5 / Nike Black Size 4.5aY",
+      "quantity": "5.00",
+      "total_price": "121.00"
+    },
+    {
+      "description": "Lego Star Wars Minifigures Stormtrooper Darth Vader Yoda Obi Van Mandalorian New",
+      "quantity": "1.00",
+      "total_price": "3.28"
+    },
+    {
+      "description": "Nike Air Jordan 1 Mid Obsidian 640735-174 Toddler Kids Children Size 8C Blue",
+      "quantity": "5.00",
+      "total_price": "137.44"
+    },
+    {
+      "description": "Oomphies Boys Ankle Boots Shoes Gray Green Kids Size 2 EUC",
+      "quantity": "4.00",
+      "total_price": "52.76"
+    },
+    {
+      "description": "Jordan 10 Retro Fusion Red Size 6Y",
+      "quantity": "3.00",
+      "total_price": "198.00"
+    },
+    {
+      "description": "Jordan Hydro 2 (TD)-Child Size 10c",
+      "quantity": "1.00",
+      "total_price": "6.33"
+    }
+  ],
+  "subtotal": {
+    "tax": "47.16",
+    "discount": "",
+    "total": "518.80"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48OUAZ93098629612648",
+    "payment_method": ""
+  }
+}

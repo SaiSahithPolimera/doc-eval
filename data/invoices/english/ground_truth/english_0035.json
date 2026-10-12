@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Reyes-Sampson",
+    "client_address": "PSC 1836, Box 4614\nAPO AA 85127",
+    "seller_name": "Alexander-Valenzuela",
+    "seller_address": "PSC 7782, Box 4983\nAPO AP 12492",
+    "invoice_number": "34855339",
+    "invoice_date": "03/09/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Shaping the World: Sculpture from Prehistory to Now by Antony Gormley (English)",
+      "quantity": "2.00",
+      "total_price": "95.22"
+    }
+  ],
+  "subtotal": {
+    "tax": "8.66",
+    "discount": "",
+    "total": "86.56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB57DVFT92400865321817",
+    "payment_method": ""
+  }
+}

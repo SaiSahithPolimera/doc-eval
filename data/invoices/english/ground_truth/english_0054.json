@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Reed, Hall and Brown",
+    "client_address": "90613 Donna Estates\nDanielhaven, PA 75160",
+    "seller_name": "Cooper, Wilson and Tran",
+    "seller_address": "31485 Patrick Lights Suite 740\nLeemouth, GA 78053",
+    "invoice_number": "67743685",
+    "invoice_date": "01/24/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "The Wire in the Blood (Tony Hill and Carol Jordan, Book 2) by McDermid New+-",
+      "quantity": "2.00",
+      "total_price": "33.26"
+    },
+    {
+      "description": "Motorcycle Journeys Through North America: A Guide for Choosing and Planning...",
+      "quantity": "3.00",
+      "total_price": "19.80"
+    },
+    {
+      "description": "BEVERLY HILLBILLIES 1993 TV Show BOOK 1st Edition AUTOGRAPHED Signed STEPHEN COX",
+      "quantity": "5.00",
+      "total_price": "137.44"
+    },
+    {
+      "description": "Care & Repair of Furniture",
+      "quantity": "2.00",
+      "total_price": "9.35"
+    },
+    {
+      "description": "Taste of Home Bake Shop Favorites: 383 Reader Reci",
+      "quantity": "4.00",
+      "total_price": "19.76"
+    },
+    {
+      "description": "Seashells of North America: A Guide to Field Ident",
+      "quantity": "2.00",
+      "total_price": "9.88"
+    },
+    {
+      "description": "My Passion for Design by Barbra Streisand",
+      "quantity": "3.00",
+      "total_price": "18.35"
+    }
+  ],
+  "subtotal": {
+    "tax": "22.53",
+    "discount": "",
+    "total": "247.84"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

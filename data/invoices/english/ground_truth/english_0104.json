@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Matthews Ltd",
+    "client_address": "626 Caitlin River Suite 858\nEast Julie, NY 28799",
+    "seller_name": "Moore-Miller",
+    "seller_address": "USS Garcia\nFPO AA 62216",
+    "invoice_number": "99116837",
+    "invoice_date": "12/21/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Alarco Gaming PC Desktop Computer Intel i5\n,8G,1TB, Win10, WIFI, NVIDIA GTX 650 1GB",
+      "quantity": "2.00",
+      "total_price": "1100.00"
+    },
+    {
+      "description": "Dell Optiplex Windows 10 Pro Desktop Computer PC i5 4th Gen 3.2GHz 8 GB 2 TB HDD",
+      "quantity": "2.00",
+      "total_price": "329.89"
+    },
+    {
+      "description": "Dell OptiPlex 390 SFF Computer Windows 7 Pro i3 3.10GHz 4GB RAM 232GB HDD",
+      "quantity": "4.00",
+      "total_price": "263.78"
+    },
+    {
+      "description": "Gaming PC Desktop Computer HDMI RGB Intel i7 RTX 2060, HDD+SSD, Windows 10, Wifi",
+      "quantity": "1.00",
+      "total_price": "994.18"
+    },
+    {
+      "description": "Dell Optiplex 790 Computer i7 @3.40 Ghz Quad Core 250GB 4GB Working",
+      "quantity": "2.00",
+      "total_price": "351.98"
+    },
+    {
+      "description": "FAST Dell Optiplex Windows 10 Desktop Computer Tower C2D 4GB DVD WiFi 17\" LCD",
+      "quantity": "5.00",
+      "total_price": "687.23"
+    },
+    {
+      "description": "10-Core Gaming Computer Desktop PC Tower SSD Quad 16GB R7 Graphic CUSTOM BUILT",
+      "quantity": "2.00",
+      "total_price": "967.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "426.82",
+    "discount": "",
+    "total": "4695.01"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

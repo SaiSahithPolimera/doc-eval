@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Moyer-Jones",
+    "client_address": "01838 Reed Greens\nKingbury, WY 89224",
+    "seller_name": "Logan, Deleon and Ayers",
+    "seller_address": "653 Carroll Pass\nEast Dustinburgh, VA 43736",
+    "invoice_number": "92179921",
+    "invoice_date": "10/11/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Cherokee Boys Grayton Skate Shoes 12 Surf Skate Casual 12K Black Extra Laces 12Y",
+      "quantity": "5,00",
+      "total_price": "109.94"
+    },
+    {
+      "description": "Nike ZOOM KD 9 KEVIN DURANT Youth Women's Shoes Sneakers",
+      "quantity": "2,00",
+      "total_price": "75.88"
+    },
+    {
+      "description": "Skechers Hypno Splash Light Up Shoes Size 4 Medium Big Kid New",
+      "quantity": "1,00",
+      "total_price": "27.49"
+    },
+    {
+      "description": "crewcuts shoes",
+      "quantity": "4,00",
+      "total_price": "52.80"
+    }
+  ],
+  "subtotal": {
+    "tax": "24.19",
+    "discount": "",
+    "total": "266.11"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

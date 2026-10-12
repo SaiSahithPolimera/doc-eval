@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "King-Harris",
+    "client_address": "3468 Hill Corners Suite 409\nNorth Catherine, MS 73015",
+    "seller_name": "Callahan and Sons",
+    "seller_address": "819 John Garden\nWest Michael, IA 02605",
+    "invoice_number": "10819011",
+    "invoice_date": "02/09/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Fila Boys Skele-Toes Bay RNR 3\nBlack Running Shoes 11\nMedium (D) Little Kid 9953",
+      "quantity": "3.00",
+      "total_price": "33.83"
+    },
+    {
+      "description": "NWT adidas Pulseboost HD (Big\nKid) Casual Running Shoes Boys\nBLACK SIZE 4",
+      "quantity": "4.00",
+      "total_price": "373.96"
+    },
+    {
+      "description": "PUMA Boys Youth Universal FG\nJr Soccer Cleats 2.5 White High\nRed NEW Futbol",
+      "quantity": "3.00",
+      "total_price": "65.97"
+    },
+    {
+      "description": "Joma Boys Youth Super Copa\n102 Soccer Cleats 2.5 White\nYellow Blue Futbol NEW",
+      "quantity": "4.00",
+      "total_price": "87.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "51.06",
+    "discount": "",
+    "total": "561.70"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Sanchez Inc",
+    "client_address": "288 Miller Burg\nNicolechester, DE 82359",
+    "seller_name": "Solomon-Murray",
+    "seller_address": "995 Jones Expressway\nJonesville, WI 45138",
+    "invoice_number": "38510682",
+    "invoice_date": "09/05/2011",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Kid's Air Jordan 4 Retro 'Laser' 7y White/Gray 705334-105",
+      "quantity": "5,00",
+      "total_price": "660.00"
+    },
+    {
+      "description": "Vizari Youth Boys Treviso Indoor JNR Soccer Shoes 1.5 Black Silver #93261 NEW",
+      "quantity": "2,00",
+      "total_price": "43.98"
+    },
+    {
+      "description": "crewcuts shoes",
+      "quantity": "3,00",
+      "total_price": "39.60"
+    }
+  ],
+  "subtotal": {
+    "tax": "67.60",
+    "discount": "",
+    "total": "743.58"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

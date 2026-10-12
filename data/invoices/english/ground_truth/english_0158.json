@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Lopez PLC",
+    "client_address": "7417 Bowers Fort\nLongberg, TX 60292",
+    "seller_name": "Barry-Roberts",
+    "seller_address": "9074 Davis Place\nEllisfort, IL 04641",
+    "invoice_number": "91781923",
+    "invoice_date": "03/09/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "gaming computer",
+      "quantity": "4.00",
+      "total_price": "2 728.00"
+    },
+    {
+      "description": "HP Pro 6200 Desktop Tower\nComputer Core i5 3.1GHz 8GB\n500GB Windows 10 Home WiFi",
+      "quantity": "1.00",
+      "total_price": "197.95"
+    },
+    {
+      "description": "Sentry Gaming Computer | Ryzen 3 3200G | 16 GB Ram | Build-to-Order",
+      "quantity": "5.00",
+      "total_price": "3 272.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "563.49",
+    "discount": "",
+    "total": "6 198.39"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB22SAZE28844860501717",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Castaneda LLC",
+    "client_address": "19558 Fry Causeway\nEast Chelseytown, MD 95490",
+    "seller_name": "Porter-Perkins",
+    "seller_address": "88652 James Loaf\nEast Alyssamouth, KS 81684",
+    "invoice_number": "46506594",
+    "invoice_date": "03/12/2012",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nintendo 3DS Handheld Console\nPurple",
+      "quantity": "5.00",
+      "total_price": "544.45"
+    },
+    {
+      "description": "PocketGo Bittboy v2 White\nRetro Video Game Portable\nConsole - 3.5 IPS display",
+      "quantity": "4.00",
+      "total_price": "171.60"
+    },
+    {
+      "description": "Sony PlayStation 3 Slim 120GB\nBlack Console",
+      "quantity": "4.00",
+      "total_price": "439.96"
+    },
+    {
+      "description": "Microsoft Xbox 360 - White -\nConsole, Power Supply, AV\nCables *Tested, Working*",
+      "quantity": "1.00",
+      "total_price": "43.95"
+    },
+    {
+      "description": "SONY Playstation2 Console\nSCPH-39000 \"Aqua Color \" /\nTESTED 11181",
+      "quantity": "1.00",
+      "total_price": "49.50"
+    },
+    {
+      "description": "Nintendo 64 Console \"Perfect\" +\nLot Games \"6 Games\"",
+      "quantity": "1.00",
+      "total_price": "220.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "133.59",
+    "discount": "",
+    "total": "1469.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB49GJRS28729607733931",
+    "payment_method": ""
+  }
+}

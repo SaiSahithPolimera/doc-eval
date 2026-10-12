@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Howell, Bryant and Martinez",
+    "client_address": "120 Martinez Gardens Suite 075\nNicholasmouth, MS 36786",
+    "seller_name": "Gutierrez, Shah and Davis",
+    "seller_address": "11259 Heidi Haven\nWest Erik, DE 14910",
+    "invoice_number": "15203117",
+    "invoice_date": "05/10/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "boys shoes size 5",
+      "quantity": "4.00",
+      "total_price": "25.52"
+    }
+  ],
+  "subtotal": {
+    "tax": "2.32",
+    "discount": "",
+    "total": "25.52"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB12YIHU88023545549081",
+    "payment_method": ""
+  }
+}

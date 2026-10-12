@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Stafford and Sons",
+    "client_address": "0304 Michael Underpass Apt. 436\nWalkerfurt, MS 89150",
+    "seller_name": "Jones-Silva",
+    "seller_address": "3689 Melissa Landing\nWest Bradleyside, WY 08475",
+    "invoice_number": "99454334",
+    "invoice_date": "07/08/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "9.5 Inch Dinosaur Bones Wine\nBottle Holder",
+      "quantity": "4,00",
+      "total_price": "105,60"
+    }
+  ],
+  "subtotal": {
+    "tax": "9,60",
+    "discount": "",
+    "total": "105,60"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB51ZWSQ26028568835728",
+    "payment_method": ""
+  }
+}

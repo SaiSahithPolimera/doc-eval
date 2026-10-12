@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Rodriguez-Morgan",
+    "client_address": "9228 Randall Harbors\nRuizstad, KY 33798",
+    "seller_name": "Campbell, Chavez and Reynolds",
+    "seller_address": "462 Lewis Manor Apt. 741\nRichardfurt, IL 50521",
+    "invoice_number": "89790497",
+    "invoice_date": "10/02/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Free People Lace Dress One Shoulder Size L",
+      "quantity": "5.00",
+      "total_price": "66.00"
+    },
+    {
+      "description": "PAS DE CALAIS DRESS WOMENS SIZE 36",
+      "quantity": "5.00",
+      "total_price": "54.73"
+    },
+    {
+      "description": "CLIFFORD & WILLS BLACK NET/MESH OVER TAUPE LONG DRESS SIZE 4",
+      "quantity": "1.00",
+      "total_price": "6.59"
+    }
+  ],
+  "subtotal": {
+    "tax": "11.57",
+    "discount": "",
+    "total": "127.31"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

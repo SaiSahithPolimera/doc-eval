@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Ball and Sons",
+    "client_address": "9024 Eugene Route\nNorth Sandra, NC 26867",
+    "seller_name": "Salazar-Zavala",
+    "seller_address": "USCGC Dunn\nFPO AA 66695",
+    "invoice_number": "98788913",
+    "invoice_date": "11/15/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Johnny Was Medium Linen Wrap Dress Dessert Rose Embroiderd Bohemian",
+      "quantity": "4,00",
+      "total_price": "395,96"
+    },
+    {
+      "description": "O'Neill Black Pink gray green Floral Dress Beach coverup xs 0",
+      "quantity": "3,00",
+      "total_price": "16,50"
+    },
+    {
+      "description": "WD NY BLACK & OFF WHITE DRESS SIZE 8 Button Front",
+      "quantity": "4,00",
+      "total_price": "44,00"
+    },
+    {
+      "description": "Mossimo M Red and Orange Braided Strap Tank Maxi Dress",
+      "quantity": "5,00",
+      "total_price": "5,45"
+    },
+    {
+      "description": "Andrea Polizzi Women's Sleeveless Shift Dress Silver Size 8",
+      "quantity": "3,00",
+      "total_price": "3,27"
+    }
+  ],
+  "subtotal": {
+    "tax": "42,29",
+    "discount": "",
+    "total": "465,17"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

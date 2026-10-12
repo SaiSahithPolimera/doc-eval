@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Vincent-Crawford",
+    "client_address": "133 Kelly Garden\nEast James, NE 94919",
+    "seller_name": "Herrera PLC",
+    "seller_address": "602 Andrea Lane\nHernandezmouth, CO 79280",
+    "invoice_number": "24826419",
+    "invoice_date": "08/12/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "NIB Corkit Wine Cork & Bottle Display Holder Industrial Steampunk Modern Art NEW",
+      "quantity": "1.00",
+      "total_price": "16.45"
+    }
+  ],
+  "subtotal": {
+    "tax": "1.50",
+    "discount": "",
+    "total": "16.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

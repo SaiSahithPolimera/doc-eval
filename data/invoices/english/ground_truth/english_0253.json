@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Thompson Ltd",
+    "client_address": "6469 Reed Court Suite 161\nNorth Jessica, TN 52447",
+    "seller_name": "Johnston-Douglas",
+    "seller_address": "798 Ana Station Suite 084\nJohnview, VA 76468",
+    "invoice_number": "64855498",
+    "invoice_date": "08/01/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Lakai Select Skate Shoe - Little Boy's 11 - Black",
+      "quantity": "1.00",
+      "total_price": "1.09"
+    }
+  ],
+  "subtotal": {
+    "tax": "0,10",
+    "discount": "",
+    "total": "1,09"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

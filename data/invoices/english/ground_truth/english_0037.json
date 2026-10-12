@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Garcia, Meyer and Cook",
+    "client_address": "6970 Taylor Mount\nMartinton, SD 55429",
+    "seller_name": "Johnson-Young",
+    "seller_address": "595 Juan Port Suite 703\nNorth Ronald, WV 37343",
+    "invoice_number": "86575728",
+    "invoice_date": "11/24/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Kids Jordan 7 Retro Sz 2y",
+      "quantity": "5,00",
+      "total_price": "396,00"
+    },
+    {
+      "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 5.5\nWhite Red Futbol NEW",
+      "quantity": "5,00",
+      "total_price": "109,94"
+    },
+    {
+      "description": "INC International Concepts\nChildren Shoes nvyzc7, Black,\nSize Little Kid 2.5",
+      "quantity": "2,00",
+      "total_price": "161,66"
+    },
+    {
+      "description": "Boys Slip-On Black Dress Shoes\nLoafers 3.5 W Wide Width",
+      "quantity": "5,00",
+      "total_price": "109,94"
+    },
+    {
+      "description": "Star Wars 100% 925 sterling\nsilver BB8 Darth Vader Charm\nR2-D2 Fiit Pandora Gift",
+      "quantity": "1,00",
+      "total_price": "21,87"
+    },
+    {
+      "description": "Under Armour Kids' Grade\nSchool Curry 3Zer0 2 Basketball\nShoes",
+      "quantity": "4,00",
+      "total_price": "197,96"
+    }
+  ],
+  "subtotal": {
+    "tax": "90,67",
+    "discount": "",
+    "total": "997,37"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Wheeler, Lopez and Watts",
+    "client_address": "334 Kyle Highway Suite 801\nNorth Matthew, OK 20710",
+    "seller_name": "White, Young and Johnson",
+    "seller_address": "711 Fernandez Hill\nCarlosfort, UT 47295",
+    "invoice_number": "16773532",
+    "invoice_date": "04/30/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "GAMING PC Desktop Computer\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB",
+      "quantity": "1.00",
+      "total_price": "626.99"
+    },
+    {
+      "description": "Dell Optiplex Desktop Computer\nwith Dual 19\" LCD Monitors\nWindows 10 Pro",
+      "quantity": "3.00",
+      "total_price": "494.83"
+    },
+    {
+      "description": "2 Gaming Computers",
+      "quantity": "3.00",
+      "total_price": "4 290.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "491.98",
+    "discount": "",
+    "total": "5 411.82"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

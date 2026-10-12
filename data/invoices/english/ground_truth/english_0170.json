@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Williams-Reid",
+    "client_address": "99188 Angela Village Suite 839\nGarystad, IA 67786",
+    "seller_name": "Martinez PLC",
+    "seller_address": "47289 Ashley Oval Apt. 958\nSouth Seth, HI 76059",
+    "invoice_number": "36985569",
+    "invoice_date": "12/07/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Intel Compute Stick (32GB, Intel Atom, 1.33GHz, 2GB) PC Desktop",
+      "quantity": "2.00",
+      "total_price": "99.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "9.00",
+    "discount": "",
+    "total": "99.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

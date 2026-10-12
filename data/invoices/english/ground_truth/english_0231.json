@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Bailey-Adams",
+    "client_address": "686 Jennifer Knolls\nNorth Michelle, DC 14984",
+    "seller_name": "Clayton LLC",
+    "seller_address": "539 Macias Square Suite 047\nHernandezmouth, MT 50375",
+    "invoice_number": "71439588",
+    "invoice_date": "02/08/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "HP Elite 8200 Desktop Computer Tower Intel i5 8GB 1TB 19\"LCD Windows 10 Pro WiFi",
+      "quantity": "1.00",
+      "total_price": "241.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "22.00",
+    "discount": "",
+    "total": "241.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

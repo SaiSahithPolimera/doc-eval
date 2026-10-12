@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Mcbride-Romero",
+    "client_address": "PSC 7754, Box 5982\nAPO AA 57973",
+    "seller_name": "Hicks-Miller",
+    "seller_address": "12688 Stewart Spurs\nPort Beth, MI 78208",
+    "invoice_number": "57416834",
+    "invoice_date": "10/14/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "YILONG 6'x9' Handmade Silk Area Rug Chinese Art Deco Classic Indoor Carpet",
+      "quantity": "2.00",
+      "total_price": "26 400.00"
+    },
+    {
+      "description": "YILONG 4'x6' Golden Hand Knotted Silk Rugs Antistatic Family Room Carpet 085B",
+      "quantity": "5.00",
+      "total_price": "26 400.00"
+    },
+    {
+      "description": "YILONG 4'x6' Yellow Handmade Carpet Living Room Hand Knotted Silk Rugs 077B",
+      "quantity": "4.00",
+      "total_price": "15 840.00"
+    },
+    {
+      "description": "Yilong 2'x3' Traditional Handmade Silk Area Rugs Kid Friendly Floor Carpet 356B",
+      "quantity": "4.00",
+      "total_price": "5 280.00"
+    },
+    {
+      "description": "Egg Bathroom Rug Carpet Area Rugs Rug Floor Mats Nordic Chic Room Decor",
+      "quantity": "5.00",
+      "total_price": "374.55"
+    }
+  ],
+  "subtotal": {
+    "tax": "6 754.05",
+    "discount": "",
+    "total": "74 294.55"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB26UWVY83431234640510",
+    "payment_method": ""
+  }
+}

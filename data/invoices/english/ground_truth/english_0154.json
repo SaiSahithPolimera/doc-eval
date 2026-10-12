@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "James, Johnson and Martin",
+    "client_address": "57002 James Glens\nElizabethfort, NV 49326",
+    "seller_name": "Murray-Parsons",
+    "seller_address": "98850 Fisher Pines Apt. 122\nNew Jeffreyland, WI 22568",
+    "invoice_number": "58805260",
+    "invoice_date": "03/07/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "10-Core Gaming Computer Desktop PC Tower 3TB Quad 16GB DDR4 AMD Graphics WIFI PC",
+      "quantity": "1.00",
+      "total_price": "680.34"
+    },
+    {
+      "description": "Ryzen Gaming Computer",
+      "quantity": "5.00",
+      "total_price": "4136.00"
+    },
+    {
+      "description": "Custom Gaming Desktop PC Computer - Core i5 4690, RX 470, 8GB RAM",
+      "quantity": "3.00",
+      "total_price": "1187.97"
+    }
+  ],
+  "subtotal": {
+    "tax": "545.85",
+    "discount": "",
+    "total": "6004.31"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

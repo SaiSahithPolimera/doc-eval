@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Phillips, Burton and Mcdaniel",
+    "client_address": "308 Washington Street Suite 333\nPort David, TN 98937",
+    "seller_name": "Day and Sons",
+    "seller_address": "420 Linda Coves Apt. 505\nEast Heatherfurt, MD 93824",
+    "invoice_number": "23995139",
+    "invoice_date": "05/30/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "7'x4' Buy Marble Dining Table\nWith Black Top Marquetry Inlay\nHallway Decor E944",
+      "quantity": "5,00",
+      "total_price": "80 965,94"
+    },
+    {
+      "description": "18\" White Top Chess Table\nHandmade Inlaid Mosaic\nDecorative Art Halloween Gift",
+      "quantity": "5,00",
+      "total_price": "2 915,00"
+    },
+    {
+      "description": "27 Inches Carnelian Stone Inlay\nMarble Coffee Table Top White\nPatio Sofa Table",
+      "quantity": "5,00",
+      "total_price": "3 960,00"
+    },
+    {
+      "description": "16\" Marble Coffee Table Top\nMother of Peral Peacock Inlay\nRestaurant Decors W366",
+      "quantity": "2,00",
+      "total_price": "701,16"
+    },
+    {
+      "description": "26\"x26\" Top White Marble\nCoffee Table Historical Taj\nMahal Art Black Friday Gift",
+      "quantity": "2,00",
+      "total_price": "4 897,20"
+    }
+  ],
+  "subtotal": {
+    "tax": "8 494,48",
+    "discount": "",
+    "total": "93 439,30"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB44BXZN39084361371767",
+    "payment_method": ""
+  }
+}

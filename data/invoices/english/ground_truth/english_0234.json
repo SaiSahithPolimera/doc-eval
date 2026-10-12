@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Walls Group",
+    "client_address": "5280 Katherine Gateway Apt. 310\nEdwardhaven, IL 85794",
+    "seller_name": "Bell LLC",
+    "seller_address": "014 Andrew Gardens\nPort Davidfort, UT 53710",
+    "invoice_number": "97830664",
+    "invoice_date": "09/04/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "War Horse Series Small Large Long Floor Carpet Area Rugs Various Size Soft Rug",
+      "quantity": "2.00",
+      "total_price": "79.86"
+    },
+    {
+      "description": "YILONG 5'x7.5' Handknotted Silk Carpet Whirlwind Home Decor Classic Rug 0807",
+      "quantity": "4.00",
+      "total_price": "12 320.00"
+    },
+    {
+      "description": "Sheepskin Shaggy Faux Fur Silky Plush Soft Fabric Rectangular Rug Doormat Carpet",
+      "quantity": "5.00",
+      "total_price": "49.45"
+    },
+    {
+      "description": "Bohemian Rag Rug- Woven Chindi Dari Living Room Rug / Hand-Woven Carpet Rug-Mats",
+      "quantity": "2.00",
+      "total_price": "51.46"
+    },
+    {
+      "description": "Leopard Printed Rug Skin Mat Leather Faux Fur Animals Area Rugs Home Carpets",
+      "quantity": "2.00",
+      "total_price": "42.88"
+    }
+  ],
+  "subtotal": {
+    "tax": "1 140.33",
+    "discount": "",
+    "total": "12 543.64"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

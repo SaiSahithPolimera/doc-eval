@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Bowman-Davis",
+    "client_address": "68333 Laura Orchard\nWest Kathleen, IN 30289",
+    "seller_name": "Avila Inc",
+    "seller_address": "1657 Bruce Lakes Suite 192\nNorth Debbieside, HI 45108",
+    "invoice_number": "48765740",
+    "invoice_date": "06/22/2017",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "J.Crew Collection Black & White sweater Dress sz S",
+      "quantity": "1.00",
+      "total_price": "33.00"
+    },
+    {
+      "description": "DESIGNER MICHAEL KORS DRESS SIZE S",
+      "quantity": "5.00",
+      "total_price": "110.00"
+    },
+    {
+      "description": "PAS DE CALAIS DRESS WOMENS SIZE 36",
+      "quantity": "5.00",
+      "total_price": "54.73"
+    },
+    {
+      "description": "Boden black blue floral short sleeve dress size 6",
+      "quantity": "4.00",
+      "total_price": "162.76"
+    },
+    {
+      "description": "Lulus Women's Black Bell Sleeve Floral Swing Dress Size S",
+      "quantity": "2.00",
+      "total_price": "50.49"
+    },
+    {
+      "description": "Coolibar Sun Protection Tunic Dress Cover Up Size Small S Pink Pattern UPF 50",
+      "quantity": "3.00",
+      "total_price": "89.07"
+    },
+    {
+      "description": "R&M; RICHARDS WOMAN'S BLUE PRINT LONG DRESS WITH SHRUG JACKET SIZE 18W NWT",
+      "quantity": "4.00",
+      "total_price": "131.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "57.45",
+    "discount": "",
+    "total": "631.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

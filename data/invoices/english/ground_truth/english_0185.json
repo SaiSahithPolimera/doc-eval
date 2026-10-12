@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Mason, Melton and Matthews",
+    "client_address": "9139 Martinez Underpass\nNew Coreychester, KS 66197",
+    "seller_name": "Miller Inc",
+    "seller_address": "31646 Hicks Dam\nEast Hayley, MO 16352",
+    "invoice_number": "64809205",
+    "invoice_date": "08/18/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "WD NY BLACK & OFF WHITE DRESS SIZE 8 Button Front",
+      "quantity": "5.00",
+      "total_price": "55.00"
+    },
+    {
+      "description": "Eileen Fisher Women's Long Sleeve Fleece Lined Front Pockets Dress XS Gray",
+      "quantity": "1.00",
+      "total_price": "17.59"
+    },
+    {
+      "description": "Women's Almatrichi Madrid Dress Chevron Boho Ethnic Exotic Tribal Size 42 L",
+      "quantity": "4.00",
+      "total_price": "241.38"
+    },
+    {
+      "description": "Vintage AGB Black Velvet Maxi Dress L Mandarin Collar",
+      "quantity": "5.00",
+      "total_price": "384.78"
+    },
+    {
+      "description": "NEW NWT OPEN BACK XHILERATION PLUM LACY DRESS WOMENS SIZE MEDIUM 10/12",
+      "quantity": "4.00",
+      "total_price": "13.16"
+    },
+    {
+      "description": "Ruby Rox Size 5 Black Strapless Evening Party Dress",
+      "quantity": "4.00",
+      "total_price": "4.36"
+    }
+  ],
+  "subtotal": {
+    "tax": "65.12",
+    "discount": "",
+    "total": "716.27"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

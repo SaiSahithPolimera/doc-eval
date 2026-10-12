@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Meza, Long and Rivera",
+    "client_address": "981 Wade Villages\nPattersonfurt, VA 18515",
+    "seller_name": "Galloway, Silva and Nelson",
+    "seller_address": "4883 Jacqueline Grove Suite 424\nKingburgh, IL 87504",
+    "invoice_number": "23908850",
+    "invoice_date": "04/08/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Nike Boys Shorts Size 5",
+      "quantity": "4.00",
+      "total_price": "39.56"
+    },
+    {
+      "description": "kid shoes soccer",
+      "quantity": "1.00",
+      "total_price": "26.40"
+    },
+    {
+      "description": "Joma Youth Boys Gol 205 Piso Multitaco Soccer Cleats 2.5 White Blue Yellow NEW",
+      "quantity": "1.00",
+      "total_price": "21.99"
+    },
+    {
+      "description": "Jordan Hydro 2 (TD)-Child Size 10c",
+      "quantity": "3.00",
+      "total_price": "18.98"
+    },
+    {
+      "description": "Jordan 10 Retro Fusion Red Size 6Y",
+      "quantity": "3.00",
+      "total_price": "198.00"
+    }
+  ],
+  "subtotal": {
+    "tax": "27.72",
+    "discount": "",
+    "total": "304.92"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}

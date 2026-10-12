@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "client_name": "Green, Kelly and Matthews",
+    "client_address": "5110 Heather Ways\nAndersontown, RI 96931",
+    "seller_name": "Kelley-Thomas",
+    "seller_address": "19996 Diane Well\nPort Jennifer, TX 60910",
+    "invoice_number": "61479635",
+    "invoice_date": "07/02/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Executive style",
+      "quantity": "5,00",
+      "total_price": "32.95"
+    }
+  ],
+  "subtotal": {
+    "tax": "3.00",
+    "discount": "",
+    "total": "32.95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  }
+}
